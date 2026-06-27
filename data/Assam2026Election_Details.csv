@@ -1,0 +1,757 @@
+Constituency,Candidate,Party,EVM_Votes,Postal_Votes,Total_Votes,%_of_Votes,Tot_Constituency_votes_polled,Tot_votes_by_parties,Winning_votes,Win_Lost_Flag
+Gossaigaon,Anjali Das,Indian National Congress,91857,927,92784,44.57,208175,92784,92784,True
+Gossaigaon,Anita Roy,All India United Democratic Front,31423,317,31740,15.25,208175,31740,92784,False
+Gossaigaon,Deepa Reddy,None of the Above,23925,241,24166,11.61,208175,24166,92784,False
+Gossaigaon,Priya Roy,Bharatiya Janata Party,13614,137,13751,6.61,208175,13751,92784,False
+Gossaigaon,Ramesh Sen,Independent,2302,23,2325,1.12,208175,2325,92784,False
+Gossaigaon,Priya Reddy,Asom Gana Parishad,1845,18,1863,0.89,208175,1863,92784,False
+Dotma,Amit Das,Bharatiya Janata Party,66733,674,67407,30.26,222731,67407,67407,True
+Dotma,Kavita Nair,Asom Gana Parishad,50954,514,51468,23.11,222731,51468,67407,False
+Dotma,Suresh Sen,None of the Above,25676,259,25935,11.64,222731,25935,67407,False
+Dotma,Amit Bora,All India United Democratic Front,16430,165,16595,7.45,222731,16595,67407,False
+Dotma,Rahul Reddy,Indian National Congress,8793,88,8881,3.99,222731,8881,67407,False
+Dotma,Priya Sharma,Independent,4428,44,4472,2.01,222731,4472,67407,False
+Kokrajhar,Rahul Nair,Asom Gana Parishad,66446,671,67117,29.57,226997,67117,67117,True
+Kokrajhar,Priya Patel,All India United Democratic Front,31651,319,31970,14.08,226997,31970,67117,False
+Kokrajhar,Anjali Das,Bharatiya Janata Party,29328,296,29624,13.05,226997,29624,67117,False
+Kokrajhar,Suresh Nair,None of the Above,23923,241,24164,10.65,226997,24164,67117,False
+Kokrajhar,Amit Patel,Indian National Congress,5796,58,5854,2.58,226997,5854,67117,False
+Kokrajhar,Kavita Nair,Independent,3874,39,3913,1.72,226997,3913,67117,False
+Baokhungri,Sanjay Nair,Bharatiya Janata Party,47351,478,47829,29.31,163195,47829,47829,True
+Baokhungri,Suresh Menon,All India United Democratic Front,22956,231,23187,14.21,163195,23187,47829,False
+Baokhungri,Manoj Kumar,None of the Above,16882,170,17052,10.45,163195,17052,47829,False
+Baokhungri,Anita Sen,Indian National Congress,6264,63,6327,3.88,163195,6327,47829,False
+Baokhungri,Priya Reddy,Independent,2677,27,2704,1.66,163195,2704,47829,False
+Baokhungri,Sunil Singh,Asom Gana Parishad,2498,25,2523,1.55,163195,2523,47829,False
+Parbatjhora,Rahul Bora,All India United Democratic Front,46516,469,46985,29.19,160954,46985,46985,True
+Parbatjhora,Deepa Bora,Asom Gana Parishad,33041,333,33374,20.74,160954,33374,46985,False
+Parbatjhora,Sunil Roy,None of the Above,20555,207,20762,12.9,160954,20762,46985,False
+Parbatjhora,Deepa Gogoi,Indian National Congress,18970,191,19161,11.9,160954,19161,46985,False
+Parbatjhora,Ramesh Gogoi,Bharatiya Janata Party,8741,88,8829,5.49,160954,8829,46985,False
+Parbatjhora,Amit Bora,Independent,1984,20,2004,1.25,160954,2004,46985,False
+Golakganj,Ramesh Kumar,Bharatiya Janata Party,67409,680,68089,41.84,162733,68089,68089,True
+Golakganj,Sanjay Nair,Asom Gana Parishad,41572,419,41991,25.8,162733,41991,68089,False
+Golakganj,Sunil Roy,Indian National Congress,23342,235,23577,14.49,162733,23577,68089,False
+Golakganj,Ramesh Nair,None of the Above,5247,53,5300,3.26,162733,5300,68089,False
+Golakganj,Sanjay Das,All India United Democratic Front,3852,38,3890,2.39,162733,3890,68089,False
+Golakganj,Deepa Das,Independent,3100,31,3131,1.92,162733,3131,68089,False
+Gauripur,Anita Das,Bharatiya Janata Party,63060,636,63696,25.69,247921,63696,63696,True
+Gauripur,Ramesh Sharma,Asom Gana Parishad,49827,503,50330,20.3,247921,50330,63696,False
+Gauripur,Priya Nair,None of the Above,37616,379,37995,15.33,247921,37995,63696,False
+Gauripur,Priya Das,All India United Democratic Front,36785,371,37156,14.99,247921,37156,63696,False
+Gauripur,Manoj Menon,Indian National Congress,18552,187,18739,7.56,247921,18739,63696,False
+Gauripur,Amit Sen,Independent,491,4,495,0.2,247921,495,63696,False
+Dhubri,Anjali Sharma,Bharatiya Janata Party,89607,905,90512,38.7,233875,90512,90512,True
+Dhubri,Anita Patel,Asom Gana Parishad,43879,443,44322,18.95,233875,44322,90512,False
+Dhubri,Rahul Bora,Indian National Congress,43321,437,43758,18.71,233875,43758,90512,False
+Dhubri,Kavita Roy,None of the Above,13277,134,13411,5.73,233875,13411,90512,False
+Dhubri,Kavita Reddy,All India United Democratic Front,1817,18,1835,0.78,233875,1835,90512,False
+Dhubri,Anjali Menon,Independent,1749,17,1766,0.76,233875,1766,90512,False
+Birsing Jarua,Priya Reddy,Asom Gana Parishad,66375,670,67045,34.6,193763,67045,67045,True
+Birsing Jarua,Priya Menon,Bharatiya Janata Party,47623,481,48104,24.83,193763,48104,67045,False
+Birsing Jarua,Sanjay Kumar,None of the Above,19877,200,20077,10.36,193763,20077,67045,False
+Birsing Jarua,Anjali Bora,All India United Democratic Front,17453,176,17629,9.1,193763,17629,67045,False
+Birsing Jarua,Priya Reddy,Indian National Congress,11960,120,12080,6.23,193763,12080,67045,False
+Birsing Jarua,Deepa Roy,Independent,2418,24,2442,1.26,193763,2442,67045,False
+Bilasipara,Kavita Singh,Bharatiya Janata Party,83575,844,84419,36.96,228423,84419,84419,True
+Bilasipara,Priya Roy,Asom Gana Parishad,66074,667,66741,29.22,228423,66741,84419,False
+Bilasipara,Amit Menon,None of the Above,19706,199,19905,8.71,228423,19905,84419,False
+Bilasipara,Rahul Nair,Indian National Congress,7575,76,7651,3.35,228423,7651,84419,False
+Bilasipara,Priya Sharma,All India United Democratic Front,2184,22,2206,0.97,228423,2206,84419,False
+Bilasipara,Suresh Reddy,Independent,174,1,175,0.08,228423,175,84419,False
+Mankachar,Ramesh Reddy,Asom Gana Parishad,37238,376,37614,23.05,163185,37614,37614,True
+Mankachar,Sanjay Gogoi,Indian National Congress,26473,267,26740,16.39,163185,26740,37614,False
+Mankachar,Anjali Sharma,All India United Democratic Front,24699,249,24948,15.29,163185,24948,37614,False
+Mankachar,Anjali Reddy,None of the Above,20081,202,20283,12.43,163185,20283,37614,False
+Mankachar,Rahul Sen,Bharatiya Janata Party,14666,148,14814,9.08,163185,14814,37614,False
+Mankachar,Ramesh Das,Independent,1302,13,1315,0.81,163185,1315,37614,False
+Jaleshwar,Rahul Das,Bharatiya Janata Party,58257,588,58845,28.97,203137,58845,58845,True
+Jaleshwar,Deepa Singh,Asom Gana Parishad,43888,443,44331,21.82,203137,44331,58845,False
+Jaleshwar,Rahul Sen,Indian National Congress,39102,394,39496,19.44,203137,39496,58845,False
+Jaleshwar,Ramesh Sharma,All India United Democratic Front,12811,129,12940,6.37,203137,12940,58845,False
+Jaleshwar,Amit Das,None of the Above,1039,10,1049,0.52,203137,1049,58845,False
+Jaleshwar,Ramesh Reddy,Independent,916,9,925,0.46,203137,925,58845,False
+Goalpara West,Kavita Singh,Bharatiya Janata Party,82402,832,83234,35.53,234292,83234,83234,True
+Goalpara West,Anita Singh,Indian National Congress,42608,430,43038,18.37,234292,43038,83234,False
+Goalpara West,Priya Bora,All India United Democratic Front,36990,373,37363,15.95,234292,37363,83234,False
+Goalpara West,Suresh Patel,Asom Gana Parishad,24970,252,25222,10.77,234292,25222,83234,False
+Goalpara West,Amit Nair,Independent,2259,22,2281,0.97,234292,2281,83234,False
+Goalpara West,Priya Roy,None of the Above,221,2,223,0.1,234292,223,83234,False
+Goalpara East,Sanjay Nair,Asom Gana Parishad,61080,616,61696,40.51,152281,61696,61696,True
+Goalpara East,Rahul Roy,None of the Above,15373,155,15528,10.2,152281,15528,61696,False
+Goalpara East,Suresh Roy,Indian National Congress,13772,139,13911,9.14,152281,13911,61696,False
+Goalpara East,Priya Roy,All India United Democratic Front,9217,93,9310,6.11,152281,9310,61696,False
+Goalpara East,Amit Nair,Independent,3998,40,4038,2.65,152281,4038,61696,False
+Goalpara East,Manoj Bora,Bharatiya Janata Party,3525,35,3560,2.34,152281,3560,61696,False
+Dudhnai,Amit Nair,Indian National Congress,53005,535,53540,28.28,189350,53540,53540,True
+Dudhnai,Suresh Gogoi,Asom Gana Parishad,30342,306,30648,16.19,189350,30648,53540,False
+Dudhnai,Sunil Sen,Bharatiya Janata Party,12264,123,12387,6.54,189350,12387,53540,False
+Dudhnai,Rahul Nair,All India United Democratic Front,9384,94,9478,5.01,189350,9478,53540,False
+Dudhnai,Kavita Sharma,None of the Above,672,6,678,0.36,189350,678,53540,False
+Dudhnai,Sanjay Das,Independent,619,6,625,0.33,189350,625,53540,False
+Abhayapuri,Kavita Sen,All India United Democratic Front,77835,786,78621,31.89,246522,78621,78621,True
+Abhayapuri,Ramesh Singh,Asom Gana Parishad,36303,366,36669,14.87,246522,36669,78621,False
+Abhayapuri,Anjali Roy,Indian National Congress,26821,270,27091,10.99,246522,27091,78621,False
+Abhayapuri,Ramesh Kumar,None of the Above,4622,46,4668,1.89,246522,4668,78621,False
+Abhayapuri,Manoj Roy,Independent,2344,23,2367,0.96,246522,2367,78621,False
+Abhayapuri,Sunil Sharma,Bharatiya Janata Party,961,9,970,0.39,246522,970,78621,False
+Srijangram,Manoj Das,Bharatiya Janata Party,95182,961,96143,47.27,203402,96143,96143,True
+Srijangram,Anita Roy,Asom Gana Parishad,36034,363,36397,17.89,203402,36397,96143,False
+Srijangram,Anjali Bora,All India United Democratic Front,30555,308,30863,15.17,203402,30863,96143,False
+Srijangram,Anjali Sharma,None of the Above,2718,27,2745,1.35,203402,2745,96143,False
+Srijangram,Amit Gogoi,Indian National Congress,1322,13,1335,0.66,203402,1335,96143,False
+Srijangram,Suresh Das,Independent,639,6,645,0.32,203402,645,96143,False
+Bongaigaon,Ramesh Patel,Bharatiya Janata Party,113564,1147,114711,46.38,247325,114711,114711,True
+Bongaigaon,Anita Nair,Indian National Congress,36627,369,36996,14.96,247325,36996,114711,False
+Bongaigaon,Deepa Reddy,All India United Democratic Front,36584,369,36953,14.94,247325,36953,114711,False
+Bongaigaon,Priya Sharma,Asom Gana Parishad,17891,180,18071,7.31,247325,18071,114711,False
+Bongaigaon,Kavita Roy,None of the Above,8076,81,8157,3.3,247325,8157,114711,False
+Bongaigaon,Anita Menon,Independent,4021,40,4061,1.64,247325,4061,114711,False
+Sidli–Chirang,Ramesh Singh,Bharatiya Janata Party,45275,457,45732,27.11,168721,45732,45732,True
+Sidli–Chirang,Suresh Sharma,All India United Democratic Front,38562,389,38951,23.09,168721,38951,45732,False
+Sidli–Chirang,Kavita Das,Asom Gana Parishad,22263,224,22487,13.33,168721,22487,45732,False
+Sidli–Chirang,Amit Gogoi,Indian National Congress,6694,67,6761,4.01,168721,6761,45732,False
+Sidli–Chirang,Anita Gogoi,None of the Above,2312,23,2335,1.38,168721,2335,45732,False
+Sidli–Chirang,Priya Roy,Independent,1064,10,1074,0.64,168721,1074,45732,False
+Bijni,Priya Singh,Bharatiya Janata Party,41987,424,42411,24.38,173953,42411,42411,True
+Bijni,Kavita Bora,Asom Gana Parishad,33164,334,33498,19.26,173953,33498,42411,False
+Bijni,Suresh Roy,Indian National Congress,29975,302,30277,17.41,173953,30277,42411,False
+Bijni,Priya Sharma,All India United Democratic Front,22577,228,22805,13.11,173953,22805,42411,False
+Bijni,Kavita Das,None of the Above,18055,182,18237,10.48,173953,18237,42411,False
+Bijni,Manoj Nair,Independent,996,10,1006,0.58,173953,1006,42411,False
+Bhowanipur–Sorbhog,Rahul Sen,None of the Above,26930,272,27202,11.4,238624,27202,27202,True
+Bhowanipur–Sorbhog,Anita Bora,Bharatiya Janata Party,25645,259,25904,10.86,238624,25904,27202,False
+Bhowanipur–Sorbhog,Sunil Patel,Indian National Congress,14643,147,14790,6.2,238624,14790,27202,False
+Bhowanipur–Sorbhog,Kavita Nair,All India United Democratic Front,13196,133,13329,5.59,238624,13329,27202,False
+Bhowanipur–Sorbhog,Manoj Das,Asom Gana Parishad,3563,35,3598,1.51,238624,3598,27202,False
+Bhowanipur–Sorbhog,Kavita Bora,Independent,3421,34,3455,1.45,238624,3455,27202,False
+Mandia,Ramesh Roy,Bharatiya Janata Party,75158,759,75917,37.12,204514,75917,75917,True
+Mandia,Amit Sen,Asom Gana Parishad,40800,412,41212,20.15,204514,41212,75917,False
+Mandia,Priya Patel,All India United Democratic Front,25099,253,25352,12.4,204514,25352,75917,False
+Mandia,Priya Kumar,None of the Above,20825,210,21035,10.29,204514,21035,75917,False
+Mandia,Anita Bora,Indian National Congress,4794,48,4842,2.37,204514,4842,75917,False
+Mandia,Sanjay Das,Independent,1734,17,1751,0.86,204514,1751,75917,False
+Chenga,Anjali Das,Asom Gana Parishad,62990,636,63626,36.22,175663,63626,63626,True
+Chenga,Priya Sen,Indian National Congress,39800,402,40202,22.89,175663,40202,63626,False
+Chenga,Ramesh Sen,All India United Democratic Front,30876,311,31187,17.75,175663,31187,63626,False
+Chenga,Anita Menon,None of the Above,14949,150,15099,8.6,175663,15099,63626,False
+Chenga,Rahul Bora,Independent,4075,41,4116,2.34,175663,4116,63626,False
+Chenga,Manoj Singh,Bharatiya Janata Party,160,1,161,0.09,175663,161,63626,False
+Barpeta,Priya Gogoi,Indian National Congress,59423,600,60023,32.26,186074,60023,60023,True
+Barpeta,Rahul Bora,Asom Gana Parishad,40796,412,41208,22.15,186074,41208,60023,False
+Barpeta,Priya Patel,All India United Democratic Front,15935,160,16095,8.65,186074,16095,60023,False
+Barpeta,Anita Das,Bharatiya Janata Party,13622,137,13759,7.39,186074,13759,60023,False
+Barpeta,Kavita Menon,None of the Above,2664,26,2690,1.45,186074,2690,60023,False
+Barpeta,Anita Kumar,Independent,846,8,854,0.46,186074,854,60023,False
+Pakabetbari,Kavita Das,All India United Democratic Front,44992,454,45446,22.91,198335,45446,45446,True
+Pakabetbari,Priya Patel,Bharatiya Janata Party,34401,347,34748,17.52,198335,34748,45446,False
+Pakabetbari,Anjali Sen,Indian National Congress,31961,322,32283,16.28,198335,32283,45446,False
+Pakabetbari,Rahul Kumar,Asom Gana Parishad,21795,220,22015,11.1,198335,22015,45446,False
+Pakabetbari,Rahul Sen,None of the Above,20514,207,20721,10.45,198335,20721,45446,False
+Pakabetbari,Anjali Bora,Independent,2614,26,2640,1.33,198335,2640,45446,False
+Bajali,Amit Menon,Bharatiya Janata Party,85794,866,86660,47.69,181703,86660,86660,True
+Bajali,Priya Singh,All India United Democratic Front,26766,270,27036,14.88,181703,27036,86660,False
+Bajali,Sanjay Menon,Asom Gana Parishad,18904,190,19094,10.51,181703,19094,86660,False
+Bajali,Anjali Das,None of the Above,14437,145,14582,8.03,181703,14582,86660,False
+Bajali,Rahul Reddy,Indian National Congress,14273,144,14417,7.93,181703,14417,86660,False
+Bajali,Anita Nair,Independent,1176,11,1187,0.65,181703,1187,86660,False
+Chamaria,Rahul Gogoi,Bharatiya Janata Party,63412,640,64052,38.39,166854,64052,64052,True
+Chamaria,Rahul Kumar,None of the Above,29807,301,30108,18.04,166854,30108,64052,False
+Chamaria,Ramesh Nair,Indian National Congress,17453,176,17629,10.57,166854,17629,64052,False
+Chamaria,Suresh Gogoi,Asom Gana Parishad,12504,126,12630,7.57,166854,12630,64052,False
+Chamaria,Deepa Roy,All India United Democratic Front,4754,48,4802,2.88,166854,4802,64052,False
+Chamaria,Deepa Kumar,Independent,1737,17,1754,1.05,166854,1754,64052,False
+Boko–Chaygaon,Rahul Roy,Indian National Congress,57798,583,58381,23.8,245311,58381,58381,True
+Boko–Chaygaon,Manoj Patel,None of the Above,50001,505,50506,20.59,245311,50506,58381,False
+Boko–Chaygaon,Kavita Reddy,Bharatiya Janata Party,29328,296,29624,12.08,245311,29624,58381,False
+Boko–Chaygaon,Rahul Gogoi,All India United Democratic Front,16587,167,16754,6.83,245311,16754,58381,False
+Boko–Chaygaon,Amit Singh,Asom Gana Parishad,808,8,816,0.33,245311,816,58381,False
+Boko–Chaygaon,Sanjay Reddy,Independent,330,3,333,0.14,245311,333,58381,False
+Palasbari,Sanjay Das,Asom Gana Parishad,61143,617,61760,36.52,169110,61760,61760,True
+Palasbari,Amit Kumar,Indian National Congress,43159,435,43594,25.78,169110,43594,61760,False
+Palasbari,Deepa Patel,All India United Democratic Front,18521,187,18708,11.06,169110,18708,61760,False
+Palasbari,Sanjay Nair,None of the Above,6847,69,6916,4.09,169110,6916,61760,False
+Palasbari,Amit Roy,Bharatiya Janata Party,4963,50,5013,2.96,169110,5013,61760,False
+Palasbari,Rahul Nair,Independent,293,2,295,0.17,169110,295,61760,False
+Hajo–Sualkuchi,Amit Bora,Asom Gana Parishad,81354,821,82175,34.26,239842,82175,82175,True
+Hajo–Sualkuchi,Sunil Das,Indian National Congress,56172,567,56739,23.66,239842,56739,82175,False
+Hajo–Sualkuchi,Amit Bora,Bharatiya Janata Party,36703,370,37073,15.46,239842,37073,82175,False
+Hajo–Sualkuchi,Anita Bora,None of the Above,22125,223,22348,9.32,239842,22348,82175,False
+Hajo–Sualkuchi,Sunil Bora,All India United Democratic Front,12806,129,12935,5.39,239842,12935,82175,False
+Hajo–Sualkuchi,Sanjay Gogoi,Independent,3203,32,3235,1.35,239842,3235,82175,False
+Rangiya,Amit Menon,Asom Gana Parishad,53662,542,54204,26.82,202132,54204,54204,True
+Rangiya,Anjali Roy,Indian National Congress,43784,442,44226,21.88,202132,44226,54204,False
+Rangiya,Amit Sharma,Bharatiya Janata Party,35570,359,35929,17.78,202132,35929,54204,False
+Rangiya,Manoj Das,None of the Above,22965,231,23196,11.48,202132,23196,54204,False
+Rangiya,Ramesh Singh,All India United Democratic Front,14454,146,14600,7.22,202132,14600,54204,False
+Rangiya,Deepa Bora,Independent,4629,46,4675,2.31,202132,4675,54204,False
+Kamalpur,Rahul Patel,Bharatiya Janata Party,66176,668,66844,36.91,181076,66844,66844,True
+Kamalpur,Deepa Sen,Asom Gana Parishad,56009,565,56574,31.24,181076,56574,66844,False
+Kamalpur,Anjali Nair,All India United Democratic Front,17961,181,18142,10.02,181076,18142,66844,False
+Kamalpur,Sunil Kumar,Indian National Congress,7300,73,7373,4.07,181076,7373,66844,False
+Kamalpur,Ramesh Singh,None of the Above,1920,19,1939,1.07,181076,1939,66844,False
+Kamalpur,Suresh Singh,Independent,1477,14,1491,0.82,181076,1491,66844,False
+Dispur,Manoj Gogoi,Bharatiya Janata Party,57951,585,58536,32.16,181993,58536,58536,True
+Dispur,Ramesh Reddy,Indian National Congress,34355,347,34702,19.07,181993,34702,58536,False
+Dispur,Rahul Reddy,Asom Gana Parishad,26535,268,26803,14.73,181993,26803,58536,False
+Dispur,Deepa Nair,None of the Above,14937,150,15087,8.29,181993,15087,58536,False
+Dispur,Manoj Menon,All India United Democratic Front,10048,101,10149,5.58,181993,10149,58536,False
+Dispur,Amit Roy,Independent,1978,19,1997,1.1,181993,1997,58536,False
+Dimoria,Priya Patel,Bharatiya Janata Party,61253,618,61871,35.62,173707,61871,61871,True
+Dimoria,Suresh Roy,Asom Gana Parishad,52789,533,53322,30.7,173707,53322,61871,False
+Dimoria,Kavita Sen,Indian National Congress,15487,156,15643,9.01,173707,15643,61871,False
+Dimoria,Sanjay Reddy,All India United Democratic Front,13038,131,13169,7.58,173707,13169,61871,False
+Dimoria,Ramesh Sharma,Independent,4770,48,4818,2.77,173707,4818,61871,False
+Dimoria,Ramesh Menon,None of the Above,3810,38,3848,2.22,173707,3848,61871,False
+New Guwahati,Anjali Singh,Asom Gana Parishad,105869,1069,106938,46.12,231861,106938,106938,True
+New Guwahati,Amit Sharma,All India United Democratic Front,23972,242,24214,10.44,231861,24214,106938,False
+New Guwahati,Sanjay Sharma,Indian National Congress,10996,111,11107,4.79,231861,11107,106938,False
+New Guwahati,Kavita Bora,Bharatiya Janata Party,4462,45,4507,1.94,231861,4507,106938,False
+New Guwahati,Sunil Bora,None of the Above,3826,38,3864,1.67,231861,3864,106938,False
+New Guwahati,Ramesh Bora,Independent,3322,33,3355,1.45,231861,3355,106938,False
+Guwahati Central,Sanjay Roy,Asom Gana Parishad,77490,782,78272,34.16,229125,78272,78272,True
+Guwahati Central,Ramesh Patel,Bharatiya Janata Party,31811,321,32132,14.02,229125,32132,78272,False
+Guwahati Central,Sanjay Gogoi,Indian National Congress,23906,241,24147,10.54,229125,24147,78272,False
+Guwahati Central,Rahul Sharma,All India United Democratic Front,22741,229,22970,10.03,229125,22970,78272,False
+Guwahati Central,Kavita Reddy,None of the Above,21012,212,21224,9.26,229125,21224,78272,False
+Guwahati Central,Amit Roy,Independent,2746,27,2773,1.21,229125,2773,78272,False
+Jalukbari,Priya Sen,Bharatiya Janata Party,83101,839,83940,41.34,203064,83940,83940,True
+Jalukbari,Rahul Bora,Asom Gana Parishad,42535,429,42964,21.16,203064,42964,83940,False
+Jalukbari,Rahul Reddy,Indian National Congress,25501,257,25758,12.68,203064,25758,83940,False
+Jalukbari,Suresh Roy,All India United Democratic Front,15312,154,15466,7.62,203064,15466,83940,False
+Jalukbari,Ramesh Nair,None of the Above,11001,111,11112,5.47,203064,11112,83940,False
+Jalukbari,Manoj Kumar,Independent,3142,31,3173,1.56,203064,3173,83940,False
+Barkhetri,Sunil Kumar,Bharatiya Janata Party,40023,404,40427,26.36,153371,40427,40427,True
+Barkhetri,Rahul Singh,All India United Democratic Front,32330,326,32656,21.29,153371,32656,40427,False
+Barkhetri,Sanjay Sen,Asom Gana Parishad,28889,291,29180,19.03,153371,29180,40427,False
+Barkhetri,Sunil Reddy,Indian National Congress,13063,131,13194,8.6,153371,13194,40427,False
+Barkhetri,Kavita Das,None of the Above,10009,101,10110,6.59,153371,10110,40427,False
+Barkhetri,Manoj Singh,Independent,4461,45,4506,2.94,153371,4506,40427,False
+Nalbari,Manoj Kumar,Indian National Congress,65973,666,66639,26.82,248442,66639,66639,True
+Nalbari,Deepa Roy,Asom Gana Parishad,61461,620,62081,24.99,248442,62081,66639,False
+Nalbari,Suresh Bora,Bharatiya Janata Party,18434,186,18620,7.49,248442,18620,66639,False
+Nalbari,Rahul Nair,All India United Democratic Front,14676,148,14824,5.97,248442,14824,66639,False
+Nalbari,Suresh Nair,None of the Above,9675,97,9772,3.93,248442,9772,66639,False
+Nalbari,Anita Bora,Independent,3588,36,3624,1.46,248442,3624,66639,False
+Tihu,Sunil Roy,Bharatiya Janata Party,68833,695,69528,31.09,223639,69528,69528,True
+Tihu,Manoj Kumar,Asom Gana Parishad,31839,321,32160,14.38,223639,32160,69528,False
+Tihu,Sanjay Kumar,Indian National Congress,22626,228,22854,10.22,223639,22854,69528,False
+Tihu,Sanjay Gogoi,All India United Democratic Front,10140,102,10242,4.58,223639,10242,69528,False
+Tihu,Manoj Bora,None of the Above,6642,67,6709,3.0,223639,6709,69528,False
+Tihu,Anita Sharma,Independent,3175,32,3207,1.43,223639,3207,69528,False
+Manas,Anjali Sen,None of the Above,43420,438,43858,25.18,174198,43858,43858,True
+Manas,Amit Roy,All India United Democratic Front,27916,281,28197,16.19,174198,28197,43858,False
+Manas,Kavita Singh,Bharatiya Janata Party,10176,102,10278,5.9,174198,10278,43858,False
+Manas,Kavita Singh,Independent,4158,42,4200,2.41,174198,4200,43858,False
+Manas,Sanjay Das,Asom Gana Parishad,3873,39,3912,2.25,174198,3912,43858,False
+Manas,Priya Gogoi,Indian National Congress,3043,30,3073,1.76,174198,3073,43858,False
+Baksa,Anita Reddy,Indian National Congress,65400,660,66060,41.67,158537,66060,66060,True
+Baksa,Deepa Bora,None of the Above,18609,187,18796,11.86,158537,18796,66060,False
+Baksa,Anita Reddy,Asom Gana Parishad,13197,133,13330,8.41,158537,13330,66060,False
+Baksa,Anita Menon,All India United Democratic Front,2769,27,2796,1.76,158537,2796,66060,False
+Baksa,Deepa Gogoi,Independent,679,6,685,0.43,158537,685,66060,False
+Baksa,Ramesh Sharma,Bharatiya Janata Party,233,2,235,0.15,158537,235,66060,False
+Tamulpur,Kavita Reddy,All India United Democratic Front,61843,624,62467,26.12,239167,62467,62467,True
+Tamulpur,Kavita Reddy,Asom Gana Parishad,44026,444,44470,18.59,239167,44470,62467,False
+Tamulpur,Deepa Sen,Bharatiya Janata Party,28373,286,28659,11.98,239167,28659,62467,False
+Tamulpur,Amit Patel,Indian National Congress,17578,177,17755,7.42,239167,17755,62467,False
+Tamulpur,Kavita Nair,Independent,3872,39,3911,1.64,239167,3911,62467,False
+Tamulpur,Sunil Roy,None of the Above,3119,31,3150,1.32,239167,3150,62467,False
+Goreshwar,Amit Sen,Bharatiya Janata Party,47693,481,48174,20.48,235187,48174,48174,True
+Goreshwar,Manoj Gogoi,Indian National Congress,44566,450,45016,19.14,235187,45016,48174,False
+Goreshwar,Anjali Singh,All India United Democratic Front,32184,325,32509,13.82,235187,32509,48174,False
+Goreshwar,Sunil Bora,Asom Gana Parishad,19492,196,19688,8.37,235187,19688,48174,False
+Goreshwar,Manoj Reddy,Independent,4405,44,4449,1.89,235187,4449,48174,False
+Goreshwar,Anjali Nair,None of the Above,1529,15,1544,0.66,235187,1544,48174,False
+Bhergaon,Sunil Roy,Bharatiya Janata Party,69095,697,69792,30.52,228711,69792,69792,True
+Bhergaon,Priya Sharma,Indian National Congress,52376,529,52905,23.13,228711,52905,69792,False
+Bhergaon,Anita Sharma,Asom Gana Parishad,17272,174,17446,7.63,228711,17446,69792,False
+Bhergaon,Kavita Reddy,All India United Democratic Front,11653,117,11770,5.15,228711,11770,69792,False
+Bhergaon,Ramesh Das,None of the Above,8362,84,8446,3.69,228711,8446,69792,False
+Bhergaon,Suresh Sharma,Independent,4388,44,4432,1.94,228711,4432,69792,False
+Udalguri,Anita Bora,Bharatiya Janata Party,64097,647,64744,29.03,223007,64744,64744,True
+Udalguri,Rahul Patel,All India United Democratic Front,53955,545,54500,24.44,223007,54500,64744,False
+Udalguri,Sanjay Sharma,None of the Above,31200,315,31515,14.13,223007,31515,64744,False
+Udalguri,Rahul Das,Asom Gana Parishad,1531,15,1546,0.69,223007,1546,64744,False
+Udalguri,Amit Sen,Independent,1478,14,1492,0.67,223007,1492,64744,False
+Udalguri,Kavita Das,Indian National Congress,1217,12,1229,0.55,223007,1229,64744,False
+Majbat,Priya Menon,Asom Gana Parishad,39632,400,40032,19.19,208601,40032,40032,True
+Majbat,Anjali Bora,All India United Democratic Front,29010,293,29303,14.05,208601,29303,40032,False
+Majbat,Sanjay Kumar,Bharatiya Janata Party,25245,254,25499,12.22,208601,25499,40032,False
+Majbat,Rahul Patel,Indian National Congress,19997,201,20198,9.68,208601,20198,40032,False
+Majbat,Anita Roy,None of the Above,19206,193,19399,9.3,208601,19399,40032,False
+Majbat,Anita Gogoi,Independent,2554,25,2579,1.24,208601,2579,40032,False
+Tangla,Rahul Bora,Indian National Congress,57235,578,57813,31.3,184733,57813,57813,True
+Tangla,Sunil Kumar,None of the Above,29855,301,30156,16.32,184733,30156,57813,False
+Tangla,Suresh Gogoi,All India United Democratic Front,23246,234,23480,12.71,184733,23480,57813,False
+Tangla,Sanjay Kumar,Asom Gana Parishad,19518,197,19715,10.67,184733,19715,57813,False
+Tangla,Rahul Roy,Bharatiya Janata Party,13678,138,13816,7.48,184733,13816,57813,False
+Tangla,Suresh Sharma,Independent,4336,43,4379,2.37,184733,4379,57813,False
+Sipajhar,Ramesh Sen,Bharatiya Janata Party,58103,586,58689,31.82,184439,58689,58689,True
+Sipajhar,Anjali Roy,Indian National Congress,49050,495,49545,26.86,184439,49545,58689,False
+Sipajhar,Sunil Sharma,All India United Democratic Front,17408,175,17583,9.53,184439,17583,58689,False
+Sipajhar,Anita Menon,Asom Gana Parishad,2274,22,2296,1.24,184439,2296,58689,False
+Sipajhar,Manoj Patel,Independent,1036,10,1046,0.57,184439,1046,58689,False
+Sipajhar,Ramesh Patel,None of the Above,881,8,889,0.48,184439,889,58689,False
+Mangaldai,Anita Kumar,Bharatiya Janata Party,59403,600,60003,34.88,172024,60003,60003,True
+Mangaldai,Priya Singh,Indian National Congress,26805,270,27075,15.74,172024,27075,60003,False
+Mangaldai,Ramesh Kumar,None of the Above,16613,167,16780,9.75,172024,16780,60003,False
+Mangaldai,Manoj Roy,Asom Gana Parishad,12508,126,12634,7.34,172024,12634,60003,False
+Mangaldai,Rahul Menon,All India United Democratic Front,5011,50,5061,2.94,172024,5061,60003,False
+Mangaldai,Sunil Singh,Independent,4103,41,4144,2.41,172024,4144,60003,False
+Dalgaon,Amit Roy,All India United Democratic Front,82532,833,83365,40.2,207350,83365,83365,True
+Dalgaon,Sunil Kumar,Indian National Congress,21258,214,21472,10.36,207350,21472,83365,False
+Dalgaon,Amit Roy,Bharatiya Janata Party,14407,145,14552,7.02,207350,14552,83365,False
+Dalgaon,Sanjay Patel,None of the Above,5316,53,5369,2.59,207350,5369,83365,False
+Dalgaon,Sunil Bora,Independent,4063,41,4104,1.98,207350,4104,83365,False
+Dalgaon,Rahul Sharma,Asom Gana Parishad,2681,27,2708,1.31,207350,2708,83365,False
+Jagiroad,Anjali Patel,Asom Gana Parishad,50166,506,50672,33.08,153179,50672,50672,True
+Jagiroad,Deepa Roy,Indian National Congress,42564,429,42993,28.07,153179,42993,50672,False
+Jagiroad,Anjali Gogoi,None of the Above,18837,190,19027,12.42,153179,19027,50672,False
+Jagiroad,Anjali Roy,Bharatiya Janata Party,12394,125,12519,8.17,153179,12519,50672,False
+Jagiroad,Sanjay Das,All India United Democratic Front,7384,74,7458,4.87,153179,7458,50672,False
+Jagiroad,Deepa Bora,Independent,1363,13,1376,0.9,153179,1376,50672,False
+Laharighat,Amit Singh,Indian National Congress,55290,558,55848,33.86,164924,55848,55848,True
+Laharighat,Deepa Sharma,Asom Gana Parishad,23135,233,23368,14.17,164924,23368,55848,False
+Laharighat,Anjali Das,Bharatiya Janata Party,16487,166,16653,10.1,164924,16653,55848,False
+Laharighat,Anita Singh,All India United Democratic Front,12383,125,12508,7.58,164924,12508,55848,False
+Laharighat,Amit Sen,Independent,3913,39,3952,2.4,164924,3952,55848,False
+Laharighat,Priya Patel,None of the Above,2130,21,2151,1.3,164924,2151,55848,False
+Morigaon,Suresh Reddy,Bharatiya Janata Party,92733,936,93669,42.33,221283,93669,93669,True
+Morigaon,Amit Gogoi,Indian National Congress,24197,244,24441,11.05,221283,24441,93669,False
+Morigaon,Deepa Singh,None of the Above,21086,212,21298,9.62,221283,21298,93669,False
+Morigaon,Deepa Kumar,All India United Democratic Front,19601,197,19798,8.95,221283,19798,93669,False
+Morigaon,Sanjay Bora,Asom Gana Parishad,6932,70,7002,3.16,221283,7002,93669,False
+Morigaon,Sanjay Nair,Independent,4511,45,4556,2.06,221283,4556,93669,False
+Dhing,Ramesh Roy,Bharatiya Janata Party,78171,789,78960,43.42,181842,78960,78960,True
+Dhing,Anita Bora,Asom Gana Parishad,15454,156,15610,8.58,181842,15610,78960,False
+Dhing,Sunil Menon,Indian National Congress,8099,81,8180,4.5,181842,8180,78960,False
+Dhing,Manoj Sen,None of the Above,6240,63,6303,3.47,181842,6303,78960,False
+Dhing,Deepa Sharma,All India United Democratic Front,2719,27,2746,1.51,181842,2746,78960,False
+Dhing,Priya Patel,Independent,646,6,652,0.36,181842,652,78960,False
+Rupohihat,Sanjay Gogoi,Bharatiya Janata Party,81329,821,82150,34.68,236906,82150,82150,True
+Rupohihat,Suresh Gogoi,Indian National Congress,36882,372,37254,15.73,236906,37254,82150,False
+Rupohihat,Priya Nair,All India United Democratic Front,28224,285,28509,12.03,236906,28509,82150,False
+Rupohihat,Kavita Nair,Asom Gana Parishad,21615,218,21833,9.22,236906,21833,82150,False
+Rupohihat,Ramesh Gogoi,None of the Above,13139,132,13271,5.6,236906,13271,82150,False
+Rupohihat,Ramesh Roy,Independent,3283,33,3316,1.4,236906,3316,82150,False
+Kaliabor,Kavita Sharma,Bharatiya Janata Party,77663,784,78447,39.37,199258,78447,78447,True
+Kaliabor,Manoj Das,Indian National Congress,34091,344,34435,17.28,199258,34435,78447,False
+Kaliabor,Amit Nair,Asom Gana Parishad,30556,308,30864,15.49,199258,30864,78447,False
+Kaliabor,Manoj Menon,All India United Democratic Front,15242,153,15395,7.73,199258,15395,78447,False
+Kaliabor,Anjali Roy,None of the Above,6863,69,6932,3.48,199258,6932,78447,False
+Kaliabor,Sanjay Reddy,Independent,192,1,193,0.1,199258,193,78447,False
+Samaguri,Ramesh Roy,Bharatiya Janata Party,59312,599,59911,31.23,191847,59911,59911,True
+Samaguri,Ramesh Gogoi,Asom Gana Parishad,43934,443,44377,23.13,191847,44377,59911,False
+Samaguri,Rahul Nair,Indian National Congress,42596,430,43026,22.43,191847,43026,59911,False
+Samaguri,Sanjay Nair,All India United Democratic Front,17112,172,17284,9.01,191847,17284,59911,False
+Samaguri,Deepa Bora,None of the Above,5455,55,5510,2.87,191847,5510,59911,False
+Samaguri,Rahul Roy,Independent,2424,24,2448,1.28,191847,2448,59911,False
+Barhampur,Suresh Kumar,Bharatiya Janata Party,50208,507,50715,31.07,163223,50715,50715,True
+Barhampur,Sanjay Singh,All India United Democratic Front,32773,331,33104,20.28,163223,33104,50715,False
+Barhampur,Sunil Menon,Asom Gana Parishad,22832,230,23062,14.13,163223,23062,50715,False
+Barhampur,Amit Singh,Indian National Congress,22541,227,22768,13.95,163223,22768,50715,False
+Barhampur,Manoj Singh,None of the Above,8756,88,8844,5.42,163223,8844,50715,False
+Barhampur,Priya Reddy,Independent,4779,48,4827,2.96,163223,4827,50715,False
+Nagaon–Batadraba,Anjali Gogoi,Bharatiya Janata Party,77832,786,78618,33.83,232424,78618,78618,True
+Nagaon–Batadraba,Amit Nair,Asom Gana Parishad,40955,413,41368,17.8,232424,41368,78618,False
+Nagaon–Batadraba,Deepa Menon,All India United Democratic Front,26076,263,26339,11.33,232424,26339,78618,False
+Nagaon–Batadraba,Suresh Singh,None of the Above,9236,93,9329,4.01,232424,9329,78618,False
+Nagaon–Batadraba,Amit Bora,Indian National Congress,4523,45,4568,1.97,232424,4568,78618,False
+Nagaon–Batadraba,Deepa Kumar,Independent,959,9,968,0.42,232424,968,78618,False
+Raha,Amit Roy,Asom Gana Parishad,79230,800,80030,33.32,240159,80030,80030,True
+Raha,Anjali Menon,Bharatiya Janata Party,61901,625,62526,26.04,240159,62526,80030,False
+Raha,Sanjay Nair,Indian National Congress,22521,227,22748,9.47,240159,22748,80030,False
+Raha,Suresh Bora,None of the Above,17528,177,17705,7.37,240159,17705,80030,False
+Raha,Anita Nair,All India United Democratic Front,11697,118,11815,4.92,240159,11815,80030,False
+Raha,Manoj Sen,Independent,2657,26,2683,1.12,240159,2683,80030,False
+Binnakandi,Amit Nair,Asom Gana Parishad,54205,547,54752,29.72,184217,54752,54752,True
+Binnakandi,Kavita Patel,Bharatiya Janata Party,49318,498,49816,27.04,184217,49816,54752,False
+Binnakandi,Rahul Roy,None of the Above,20268,204,20472,11.11,184217,20472,54752,False
+Binnakandi,Sunil Sharma,Independent,3889,39,3928,2.13,184217,3928,54752,False
+Binnakandi,Anjali Menon,All India United Democratic Front,1845,18,1863,1.01,184217,1863,54752,False
+Binnakandi,Amit Menon,Indian National Congress,1140,11,1151,0.62,184217,1151,54752,False
+Hojai,Manoj Patel,Asom Gana Parishad,59436,600,60036,27.51,218261,60036,60036,True
+Hojai,Suresh Singh,Indian National Congress,54402,549,54951,25.18,218261,54951,60036,False
+Hojai,Anjali Sharma,Bharatiya Janata Party,33739,340,34079,15.61,218261,34079,60036,False
+Hojai,Amit Menon,All India United Democratic Front,25938,262,26200,12.0,218261,26200,60036,False
+Hojai,Ramesh Das,None of the Above,14096,142,14238,6.52,218261,14238,60036,False
+Hojai,Anjali Menon,Independent,1006,10,1016,0.47,218261,1016,60036,False
+Lumding,Kavita Roy,Indian National Congress,43372,438,43810,26.79,163520,43810,43810,True
+Lumding,Priya Gogoi,Bharatiya Janata Party,40056,404,40460,24.74,163520,40460,43810,False
+Lumding,Suresh Singh,Asom Gana Parishad,18278,184,18462,11.29,163520,18462,43810,False
+Lumding,Suresh Roy,None of the Above,10758,108,10866,6.65,163520,10866,43810,False
+Lumding,Deepa Reddy,All India United Democratic Front,9555,96,9651,5.9,163520,9651,43810,False
+Lumding,Suresh Gogoi,Independent,882,8,890,0.54,163520,890,43810,False
+Dhekiajuli,Deepa Menon,Bharatiya Janata Party,55504,560,56064,29.8,188134,56064,56064,True
+Dhekiajuli,Rahul Kumar,Asom Gana Parishad,43004,434,43438,23.09,188134,43438,56064,False
+Dhekiajuli,Manoj Das,All India United Democratic Front,26711,269,26980,14.34,188134,26980,56064,False
+Dhekiajuli,Sunil Sharma,Indian National Congress,22936,231,23167,12.31,188134,23167,56064,False
+Dhekiajuli,Priya Singh,None of the Above,8354,84,8438,4.49,188134,8438,56064,False
+Dhekiajuli,Suresh Das,Independent,2810,28,2838,1.51,188134,2838,56064,False
+Barchalla,Rahul Kumar,Asom Gana Parishad,50673,511,51184,24.39,209851,51184,51184,True
+Barchalla,Kavita Nair,All India United Democratic Front,46013,464,46477,22.15,209851,46477,51184,False
+Barchalla,Anita Sharma,Bharatiya Janata Party,43937,443,44380,21.15,209851,44380,51184,False
+Barchalla,Sanjay Menon,Indian National Congress,17349,175,17524,8.35,209851,17524,51184,False
+Barchalla,Anita Roy,None of the Above,14850,150,15000,7.15,209851,15000,51184,False
+Barchalla,Rahul Singh,Independent,3662,36,3698,1.76,209851,3698,51184,False
+Tezpur,Rahul Sen,Bharatiya Janata Party,103049,1040,104089,41.77,249210,104089,104089,True
+Tezpur,Ramesh Nair,Indian National Congress,54795,553,55348,22.21,249210,55348,104089,False
+Tezpur,Sanjay Kumar,Asom Gana Parishad,28302,285,28587,11.47,249210,28587,104089,False
+Tezpur,Priya Roy,None of the Above,13552,136,13688,5.49,249210,13688,104089,False
+Tezpur,Deepa Roy,All India United Democratic Front,10890,109,10999,4.41,249210,10999,104089,False
+Tezpur,Amit Kumar,Independent,1182,11,1193,0.48,249210,1193,104089,False
+Rangapara,Priya Bora,Asom Gana Parishad,81316,821,82137,35.23,233152,82137,82137,True
+Rangapara,Suresh Roy,Bharatiya Janata Party,44954,454,45408,19.48,233152,45408,82137,False
+Rangapara,Manoj Kumar,Indian National Congress,25963,262,26225,11.25,233152,26225,82137,False
+Rangapara,Deepa Sen,All India United Democratic Front,9058,91,9149,3.92,233152,9149,82137,False
+Rangapara,Manoj Gogoi,None of the Above,8012,80,8092,3.47,233152,8092,82137,False
+Rangapara,Suresh Sen,Independent,3357,33,3390,1.45,233152,3390,82137,False
+Nadaur,Rahul Bora,Bharatiya Janata Party,56066,566,56632,28.49,198757,56632,56632,True
+Nadaur,Sunil Gogoi,Asom Gana Parishad,41425,418,41843,21.05,198757,41843,56632,False
+Nadaur,Kavita Sharma,None of the Above,31271,315,31586,15.89,198757,31586,56632,False
+Nadaur,Anita Singh,All India United Democratic Front,21952,221,22173,11.16,198757,22173,56632,False
+Nadaur,Kavita Das,Indian National Congress,11563,116,11679,5.88,198757,11679,56632,False
+Nadaur,Sanjay Menon,Independent,421,4,425,0.21,198757,425,56632,False
+Biswanath,Anita Singh,Bharatiya Janata Party,84396,852,85248,44.77,190432,85248,85248,True
+Biswanath,Kavita Nair,Asom Gana Parishad,27163,274,27437,14.41,190432,27437,85248,False
+Biswanath,Anita Bora,All India United Democratic Front,25379,256,25635,13.46,190432,25635,85248,False
+Biswanath,Sanjay Sen,Indian National Congress,24672,249,24921,13.09,190432,24921,85248,False
+Biswanath,Sanjay Menon,Independent,3097,31,3128,1.64,190432,3128,85248,False
+Biswanath,Suresh Singh,None of the Above,932,9,941,0.49,190432,941,85248,False
+Behali,Anjali Roy,Bharatiya Janata Party,60004,606,60610,28.23,214733,60610,60610,True
+Behali,Priya Kumar,Asom Gana Parishad,39400,397,39797,18.53,214733,39797,60610,False
+Behali,Amit Das,All India United Democratic Front,30868,311,31179,14.52,214733,31179,60610,False
+Behali,Rahul Singh,None of the Above,28809,291,29100,13.55,214733,29100,60610,False
+Behali,Sanjay Gogoi,Indian National Congress,17134,173,17307,8.06,214733,17307,60610,False
+Behali,Priya Gogoi,Independent,697,7,704,0.33,214733,704,60610,False
+Gohpur,Manoj Singh,Bharatiya Janata Party,55202,557,55759,29.92,186339,55759,55759,True
+Gohpur,Ramesh Sharma,Asom Gana Parishad,39295,396,39691,21.3,186339,39691,55759,False
+Gohpur,Deepa Roy,Indian National Congress,37133,375,37508,20.13,186339,37508,55759,False
+Gohpur,Deepa Menon,None of the Above,2689,27,2716,1.46,186339,2716,55759,False
+Gohpur,Suresh Reddy,Independent,2299,23,2322,1.25,186339,2322,55759,False
+Gohpur,Amit Singh,All India United Democratic Front,307,3,310,0.17,186339,310,55759,False
+Bihpuria,Kavita Sen,Bharatiya Janata Party,116409,1175,117584,49.75,236365,117584,117584,True
+Bihpuria,Rahul Kumar,Asom Gana Parishad,46294,467,46761,19.78,236365,46761,117584,False
+Bihpuria,Anjali Singh,Indian National Congress,22419,226,22645,9.58,236365,22645,117584,False
+Bihpuria,Rahul Singh,All India United Democratic Front,9496,95,9591,4.06,236365,9591,117584,False
+Bihpuria,Sanjay Roy,Independent,4498,45,4543,1.92,236365,4543,117584,False
+Bihpuria,Anita Nair,None of the Above,982,9,991,0.42,236365,991,117584,False
+Rongonadi,Rahul Kumar,Asom Gana Parishad,73781,745,74526,32.7,227918,74526,74526,True
+Rongonadi,Anjali Das,All India United Democratic Front,39456,398,39854,17.49,227918,39854,74526,False
+Rongonadi,Amit Kumar,Bharatiya Janata Party,16150,163,16313,7.16,227918,16313,74526,False
+Rongonadi,Anita Sharma,None of the Above,12797,129,12926,5.67,227918,12926,74526,False
+Rongonadi,Deepa Roy,Indian National Congress,12657,127,12784,5.61,227918,12784,74526,False
+Rongonadi,Deepa Menon,Independent,3277,33,3310,1.45,227918,3310,74526,False
+Naoboicha,Priya Menon,Asom Gana Parishad,93877,948,94825,39.18,242034,94825,94825,True
+Naoboicha,Deepa Roy,Bharatiya Janata Party,47464,479,47943,19.81,242034,47943,94825,False
+Naoboicha,Rahul Sen,All India United Democratic Front,26160,264,26424,10.92,242034,26424,94825,False
+Naoboicha,Kavita Bora,Indian National Congress,18433,186,18619,7.69,242034,18619,94825,False
+Naoboicha,Manoj Das,None of the Above,8053,81,8134,3.36,242034,8134,94825,False
+Naoboicha,Sunil Menon,Independent,1957,19,1976,0.82,242034,1976,94825,False
+Lakhimpur,Sanjay Sharma,Asom Gana Parishad,92721,936,93657,45.31,206714,93657,93657,True
+Lakhimpur,Suresh Kumar,None of the Above,18098,182,18280,8.84,206714,18280,93657,False
+Lakhimpur,Suresh Gogoi,Bharatiya Janata Party,17977,181,18158,8.78,206714,18158,93657,False
+Lakhimpur,Manoj Bora,All India United Democratic Front,11570,116,11686,5.65,206714,11686,93657,False
+Lakhimpur,Manoj Gogoi,Independent,2623,26,2649,1.28,206714,2649,93657,False
+Lakhimpur,Sanjay Das,Indian National Congress,1286,12,1298,0.63,206714,1298,93657,False
+Dhakuakhana,Suresh Kumar,Indian National Congress,83916,847,84763,37.19,227929,84763,84763,True
+Dhakuakhana,Anita Roy,All India United Democratic Front,36897,372,37269,16.35,227929,37269,84763,False
+Dhakuakhana,Priya Menon,Bharatiya Janata Party,27473,277,27750,12.17,227929,27750,84763,False
+Dhakuakhana,Deepa Sharma,None of the Above,11461,115,11576,5.08,227929,11576,84763,False
+Dhakuakhana,Priya Sen,Asom Gana Parishad,6557,66,6623,2.91,227929,6623,84763,False
+Dhakuakhana,Ramesh Kumar,Independent,2622,26,2648,1.16,227929,2648,84763,False
+Dhemaji,Suresh Sharma,Indian National Congress,52342,528,52870,22.67,233192,52870,52870,True
+Dhemaji,Ramesh Reddy,Bharatiya Janata Party,51719,522,52241,22.4,233192,52241,52870,False
+Dhemaji,Ramesh Kumar,All India United Democratic Front,40699,411,41110,17.63,233192,41110,52870,False
+Dhemaji,Amit Sen,Asom Gana Parishad,39992,403,40395,17.32,233192,40395,52870,False
+Dhemaji,Priya Sen,Independent,4114,41,4155,1.78,233192,4155,52870,False
+Dhemaji,Anita Sen,None of the Above,3044,30,3074,1.32,233192,3074,52870,False
+Sissiborgaon,Priya Nair,Asom Gana Parishad,44162,446,44608,23.49,189864,44608,44608,True
+Sissiborgaon,Rahul Nair,Indian National Congress,27557,278,27835,14.66,189864,27835,44608,False
+Sissiborgaon,Suresh Menon,Bharatiya Janata Party,27009,272,27281,14.37,189864,27281,44608,False
+Sissiborgaon,Rahul Reddy,All India United Democratic Front,17526,177,17703,9.32,189864,17703,44608,False
+Sissiborgaon,Anita Menon,None of the Above,10646,107,10753,5.66,189864,10753,44608,False
+Sissiborgaon,Manoj Reddy,Independent,3847,38,3885,2.05,189864,3885,44608,False
+Jonai,Deepa Menon,All India United Democratic Front,48116,486,48602,27.47,176908,48602,48602,True
+Jonai,Sunil Gogoi,None of the Above,34703,350,35053,19.81,176908,35053,48602,False
+Jonai,Manoj Das,Bharatiya Janata Party,34015,343,34358,19.42,176908,34358,48602,False
+Jonai,Anjali Reddy,Indian National Congress,6323,63,6386,3.61,176908,6386,48602,False
+Jonai,Anita Gogoi,Asom Gana Parishad,5276,53,5329,3.01,176908,5329,48602,False
+Jonai,Priya Gogoi,Independent,2677,27,2704,1.53,176908,2704,48602,False
+Sadiya,Anita Nair,Indian National Congress,48996,494,49490,26.32,188021,49490,49490,True
+Sadiya,Anita Sen,Bharatiya Janata Party,41252,416,41668,22.16,188021,41668,49490,False
+Sadiya,Anjali Kumar,Asom Gana Parishad,27385,276,27661,14.71,188021,27661,49490,False
+Sadiya,Deepa Roy,All India United Democratic Front,21649,218,21867,11.63,188021,21867,49490,False
+Sadiya,Sanjay Gogoi,None of the Above,18805,189,18994,10.1,188021,18994,49490,False
+Sadiya,Amit Menon,Independent,4812,48,4860,2.58,188021,4860,49490,False
+Doom Dooma,Ramesh Kumar,Bharatiya Janata Party,34817,351,35168,18.11,194234,35168,35168,True
+Doom Dooma,Kavita Singh,All India United Democratic Front,25900,261,26161,13.47,194234,26161,35168,False
+Doom Dooma,Anita Reddy,None of the Above,24061,243,24304,12.51,194234,24304,35168,False
+Doom Dooma,Anjali Singh,Indian National Congress,15979,161,16140,8.31,194234,16140,35168,False
+Doom Dooma,Kavita Kumar,Asom Gana Parishad,13557,136,13693,7.05,194234,13693,35168,False
+Doom Dooma,Deepa Patel,Independent,1175,11,1186,0.61,194234,1186,35168,False
+Margherita,Suresh Roy,Bharatiya Janata Party,97187,981,98168,45.68,214920,98168,98168,True
+Margherita,Manoj Menon,Indian National Congress,37656,380,38036,17.7,214920,38036,98168,False
+Margherita,Manoj Reddy,All India United Democratic Front,25581,258,25839,12.02,214920,25839,98168,False
+Margherita,Anjali Sharma,Asom Gana Parishad,17513,176,17689,8.23,214920,17689,98168,False
+Margherita,Priya Patel,None of the Above,5461,55,5516,2.57,214920,5516,98168,False
+Margherita,Suresh Roy,Independent,2817,28,2845,1.32,214920,2845,98168,False
+Digboi,Sunil Sharma,Bharatiya Janata Party,68240,689,68929,43.75,157558,68929,68929,True
+Digboi,Priya Das,None of the Above,15966,161,16127,10.24,157558,16127,68929,False
+Digboi,Anita Roy,Asom Gana Parishad,15621,157,15778,10.01,157558,15778,68929,False
+Digboi,Anita Kumar,All India United Democratic Front,5209,52,5261,3.34,157558,5261,68929,False
+Digboi,Rahul Das,Independent,1934,19,1953,1.24,157558,1953,68929,False
+Digboi,Manoj Das,Indian National Congress,1186,11,1197,0.76,157558,1197,68929,False
+Makum,Rahul Reddy,Indian National Congress,83756,846,84602,34.12,247926,84602,84602,True
+Makum,Amit Gogoi,Asom Gana Parishad,37137,375,37512,15.13,247926,37512,84602,False
+Makum,Anita Patel,None of the Above,33577,339,33916,13.68,247926,33916,84602,False
+Makum,Amit Menon,All India United Democratic Front,29273,295,29568,11.93,247926,29568,84602,False
+Makum,Sanjay Menon,Bharatiya Janata Party,9680,97,9777,3.94,247926,9777,84602,False
+Makum,Anjali Sen,Independent,3116,31,3147,1.27,247926,3147,84602,False
+Tinsukia,Anjali Gogoi,Bharatiya Janata Party,103391,1044,104435,42.72,244474,104435,104435,True
+Tinsukia,Kavita Gogoi,Asom Gana Parishad,48551,490,49041,20.06,244474,49041,104435,False
+Tinsukia,Deepa Sen,All India United Democratic Front,32067,323,32390,13.25,244474,32390,104435,False
+Tinsukia,Rahul Singh,Indian National Congress,19375,195,19570,8.0,244474,19570,104435,False
+Tinsukia,Amit Kumar,None of the Above,13499,136,13635,5.58,244474,13635,104435,False
+Tinsukia,Kavita Gogoi,Independent,1069,10,1079,0.44,244474,1079,104435,False
+Chabua–Lahowal,Amit Bora,Bharatiya Janata Party,60818,614,61432,27.24,225547,61432,61432,True
+Chabua–Lahowal,Amit Sen,All India United Democratic Front,50441,509,50950,22.59,225547,50950,61432,False
+Chabua–Lahowal,Deepa Patel,Asom Gana Parishad,34003,343,34346,15.23,225547,34346,61432,False
+Chabua–Lahowal,Sunil Kumar,None of the Above,13947,140,14087,6.25,225547,14087,61432,False
+Chabua–Lahowal,Manoj Patel,Indian National Congress,11801,119,11920,5.28,225547,11920,61432,False
+Chabua–Lahowal,Rahul Sen,Independent,2977,30,3007,1.33,225547,3007,61432,False
+Dibrugarh,Kavita Nair,All India United Democratic Front,92517,934,93451,38.64,241830,93451,93451,True
+Dibrugarh,Amit Bora,Bharatiya Janata Party,26027,262,26289,10.87,241830,26289,93451,False
+Dibrugarh,Amit Menon,Indian National Congress,17342,175,17517,7.24,241830,17517,93451,False
+Dibrugarh,Rahul Menon,None of the Above,6952,70,7022,2.9,241830,7022,93451,False
+Dibrugarh,Sunil Das,Asom Gana Parishad,4693,47,4740,1.96,241830,4740,93451,False
+Dibrugarh,Sunil Sen,Independent,2103,21,2124,0.88,241830,2124,93451,False
+Khowang,Anita Singh,Asom Gana Parishad,88058,889,88947,42.03,211604,88947,88947,True
+Khowang,Amit Gogoi,Indian National Congress,38525,389,38914,18.39,211604,38914,88947,False
+Khowang,Deepa Reddy,All India United Democratic Front,30288,305,30593,14.46,211604,30593,88947,False
+Khowang,Kavita Menon,Bharatiya Janata Party,13297,134,13431,6.35,211604,13431,88947,False
+Khowang,Ramesh Singh,None of the Above,4050,40,4090,1.93,211604,4090,88947,False
+Khowang,Anita Kumar,Independent,1028,10,1038,0.49,211604,1038,88947,False
+Duliajan,Rahul Sen,Asom Gana Parishad,68409,691,69100,38.31,180371,69100,69100,True
+Duliajan,Sanjay Menon,Indian National Congress,21098,213,21311,11.82,180371,21311,69100,False
+Duliajan,Anita Singh,All India United Democratic Front,12285,124,12409,6.88,180371,12409,69100,False
+Duliajan,Anjali Patel,Bharatiya Janata Party,11839,119,11958,6.63,180371,11958,69100,False
+Duliajan,Priya Reddy,None of the Above,5696,57,5753,3.19,180371,5753,69100,False
+Duliajan,Kavita Patel,Independent,2401,24,2425,1.34,180371,2425,69100,False
+Tingkhong,Amit Kumar,Bharatiya Janata Party,64293,649,64942,36.62,177345,64942,64942,True
+Tingkhong,Ramesh Patel,All India United Democratic Front,32570,328,32898,18.55,177345,32898,64942,False
+Tingkhong,Sunil Reddy,Indian National Congress,28494,287,28781,16.23,177345,28781,64942,False
+Tingkhong,Sanjay Bora,None of the Above,5982,60,6042,3.41,177345,6042,64942,False
+Tingkhong,Ramesh Nair,Asom Gana Parishad,2303,23,2326,1.31,177345,2326,64942,False
+Tingkhong,Kavita Bora,Independent,213,2,215,0.12,177345,215,64942,False
+Naharkatia,Ramesh Nair,Asom Gana Parishad,67176,678,67854,33.51,202491,67854,67854,True
+Naharkatia,Manoj Roy,Bharatiya Janata Party,35172,355,35527,17.54,202491,35527,67854,False
+Naharkatia,Amit Gogoi,Indian National Congress,25451,257,25708,12.7,202491,25708,67854,False
+Naharkatia,Sanjay Sharma,All India United Democratic Front,24467,247,24714,12.2,202491,24714,67854,False
+Naharkatia,Suresh Das,None of the Above,15164,153,15317,7.56,202491,15317,67854,False
+Naharkatia,Rahul Sen,Independent,4554,46,4600,2.27,202491,4600,67854,False
+Sonari,Sanjay Bora,Indian National Congress,41723,421,42144,26.8,157256,42144,42144,True
+Sonari,Kavita Patel,Bharatiya Janata Party,41216,416,41632,26.47,157256,41632,42144,False
+Sonari,Rahul Kumar,All India United Democratic Front,22927,231,23158,14.73,157256,23158,42144,False
+Sonari,Anjali Singh,None of the Above,11024,111,11135,7.08,157256,11135,42144,False
+Sonari,Sunil Patel,Asom Gana Parishad,3623,36,3659,2.33,157256,3659,42144,False
+Sonari,Anjali Kumar,Independent,2839,28,2867,1.82,157256,2867,42144,False
+Mahmora,Suresh Gogoi,Indian National Congress,46482,469,46951,20.01,234649,46951,46951,True
+Mahmora,Anita Sen,Asom Gana Parishad,43439,438,43877,18.7,234649,43877,46951,False
+Mahmora,Rahul Menon,Bharatiya Janata Party,16769,169,16938,7.22,234649,16938,46951,False
+Mahmora,Sunil Patel,None of the Above,7896,79,7975,3.4,234649,7975,46951,False
+Mahmora,Ramesh Patel,All India United Democratic Front,5525,55,5580,2.38,234649,5580,46951,False
+Mahmora,Amit Sharma,Independent,4495,45,4540,1.93,234649,4540,46951,False
+Demow,Manoj Bora,Indian National Congress,46379,468,46847,30.56,153306,46847,46847,True
+Demow,Sanjay Gogoi,Bharatiya Janata Party,41515,419,41934,27.35,153306,41934,46847,False
+Demow,Suresh Gogoi,Asom Gana Parishad,13267,134,13401,8.74,153306,13401,46847,False
+Demow,Priya Patel,All India United Democratic Front,3686,37,3723,2.43,153306,3723,46847,False
+Demow,Sunil Reddy,None of the Above,1971,19,1990,1.3,153306,1990,46847,False
+Demow,Amit Sen,Independent,925,9,934,0.61,153306,934,46847,False
+Sibsagar,Ramesh Reddy,Indian National Congress,79338,801,80139,32.78,244446,80139,80139,True
+Sibsagar,Sanjay Nair,All India United Democratic Front,50132,506,50638,20.72,244446,50638,80139,False
+Sibsagar,Anjali Bora,Bharatiya Janata Party,23984,242,24226,9.91,244446,24226,80139,False
+Sibsagar,Amit Bora,Asom Gana Parishad,18687,188,18875,7.72,244446,18875,80139,False
+Sibsagar,Ramesh Reddy,None of the Above,9722,98,9820,4.02,244446,9820,80139,False
+Sibsagar,Ramesh Roy,Independent,1367,13,1380,0.56,244446,1380,80139,False
+Nazira,Amit Patel,Asom Gana Parishad,57767,583,58350,28.98,201375,58350,58350,True
+Nazira,Rahul Sen,None of the Above,35043,353,35396,17.58,201375,35396,58350,False
+Nazira,Sunil Menon,Bharatiya Janata Party,19045,192,19237,9.55,201375,19237,58350,False
+Nazira,Anjali Roy,All India United Democratic Front,11899,120,12019,5.97,201375,12019,58350,False
+Nazira,Priya Kumar,Indian National Congress,9027,91,9118,4.53,201375,9118,58350,False
+Nazira,Deepa Patel,Independent,1366,13,1379,0.68,201375,1379,58350,False
+Majuli,Anjali Roy,Bharatiya Janata Party,74887,756,75643,42.64,177384,75643,75643,True
+Majuli,Sunil Patel,Asom Gana Parishad,35101,354,35455,19.99,177384,35455,75643,False
+Majuli,Anita Nair,None of the Above,17063,172,17235,9.72,177384,17235,75643,False
+Majuli,Kavita Gogoi,All India United Democratic Front,8949,90,9039,5.1,177384,9039,75643,False
+Majuli,Deepa Bora,Indian National Congress,4104,41,4145,2.34,177384,4145,75643,False
+Majuli,Sunil Gogoi,Independent,1056,10,1066,0.6,177384,1066,75643,False
+Teok,Ramesh Sen,Asom Gana Parishad,106195,1072,107267,46.44,230956,107267,107267,True
+Teok,Rahul Kumar,Indian National Congress,35769,361,36130,15.64,230956,36130,107267,False
+Teok,Anita Singh,None of the Above,29065,293,29358,12.71,230956,29358,107267,False
+Teok,Kavita Das,Bharatiya Janata Party,10841,109,10950,4.74,230956,10950,107267,False
+Teok,Rahul Roy,All India United Democratic Front,6745,68,6813,2.95,230956,6813,107267,False
+Teok,Anita Kumar,Independent,3745,37,3782,1.64,230956,3782,107267,False
+Jorhat,Sunil Sen,Indian National Congress,50380,508,50888,28.99,175542,50888,50888,True
+Jorhat,Deepa Das,Bharatiya Janata Party,38809,392,39201,22.33,175542,39201,50888,False
+Jorhat,Rahul Bora,Asom Gana Parishad,26090,263,26353,15.01,175542,26353,50888,False
+Jorhat,Anita Kumar,All India United Democratic Front,16993,171,17164,9.78,175542,17164,50888,False
+Jorhat,Kavita Nair,Independent,3233,32,3265,1.86,175542,3265,50888,False
+Jorhat,Sunil Sen,None of the Above,1076,10,1086,0.62,175542,1086,50888,False
+Mariani,Sanjay Nair,Indian National Congress,70270,709,70979,30.72,231046,70979,70979,True
+Mariani,Deepa Das,Bharatiya Janata Party,57502,580,58082,25.14,231046,58082,70979,False
+Mariani,Manoj Singh,None of the Above,26931,272,27203,11.77,231046,27203,70979,False
+Mariani,Deepa Reddy,Asom Gana Parishad,16123,162,16285,7.05,231046,16285,70979,False
+Mariani,Amit Patel,All India United Democratic Front,13451,135,13586,5.88,231046,13586,70979,False
+Mariani,Sanjay Menon,Independent,266,2,268,0.12,231046,268,70979,False
+Titabor,Sunil Sen,Bharatiya Janata Party,52671,532,53203,25.13,211683,53203,53203,True
+Titabor,Manoj Sharma,All India United Democratic Front,33553,338,33891,16.01,211683,33891,53203,False
+Titabor,Anita Kumar,None of the Above,13669,138,13807,6.52,211683,13807,53203,False
+Titabor,Priya Kumar,Indian National Congress,10054,101,10155,4.8,211683,10155,53203,False
+Titabor,Ramesh Patel,Independent,4258,43,4301,2.03,211683,4301,53203,False
+Titabor,Rahul Sharma,Asom Gana Parishad,1993,20,2013,0.95,211683,2013,53203,False
+Golaghat,Rahul Sharma,Asom Gana Parishad,49960,504,50464,21.55,234119,50464,50464,True
+Golaghat,Sanjay Kumar,None of the Above,35348,357,35705,15.25,234119,35705,50464,False
+Golaghat,Rahul Nair,All India United Democratic Front,18682,188,18870,8.06,234119,18870,50464,False
+Golaghat,Sunil Nair,Bharatiya Janata Party,16929,170,17099,7.3,234119,17099,50464,False
+Golaghat,Anjali Reddy,Indian National Congress,15943,161,16104,6.88,234119,16104,50464,False
+Golaghat,Sanjay Menon,Independent,2146,21,2167,0.93,234119,2167,50464,False
+Dergaon,Manoj Das,Indian National Congress,90482,913,91395,38.92,234841,91395,91395,True
+Dergaon,Manoj Patel,Asom Gana Parishad,31469,317,31786,13.54,234841,31786,91395,False
+Dergaon,Amit Sen,None of the Above,15945,161,16106,6.86,234841,16106,91395,False
+Dergaon,Sunil Menon,All India United Democratic Front,9458,95,9553,4.07,234841,9553,91395,False
+Dergaon,Rahul Gogoi,Bharatiya Janata Party,4243,42,4285,1.82,234841,4285,91395,False
+Dergaon,Kavita Kumar,Independent,1534,15,1549,0.66,234841,1549,91395,False
+Bokakhat,Manoj Bora,All India United Democratic Front,43912,443,44355,18.82,235631,44355,44355,True
+Bokakhat,Anjali Roy,Asom Gana Parishad,42930,433,43363,18.4,235631,43363,44355,False
+Bokakhat,Kavita Nair,Bharatiya Janata Party,41437,418,41855,17.76,235631,41855,44355,False
+Bokakhat,Anita Singh,None of the Above,35088,354,35442,15.04,235631,35442,44355,False
+Bokakhat,Sanjay Das,Indian National Congress,17287,174,17461,7.41,235631,17461,44355,False
+Bokakhat,Priya Bora,Independent,4170,42,4212,1.79,235631,4212,44355,False
+Khumtai,Rahul Reddy,Bharatiya Janata Party,59384,599,59983,26.47,226629,59983,59983,True
+Khumtai,Ramesh Sen,Indian National Congress,55690,562,56252,24.82,226629,56252,59983,False
+Khumtai,Priya Kumar,Asom Gana Parishad,36402,367,36769,16.22,226629,36769,59983,False
+Khumtai,Sanjay Gogoi,None of the Above,15362,155,15517,6.85,226629,15517,59983,False
+Khumtai,Amit Nair,Independent,3644,36,3680,1.62,226629,3680,59983,False
+Khumtai,Suresh Sen,All India United Democratic Front,3278,33,3311,1.46,226629,3311,59983,False
+Sarupathar,Ramesh Bora,Indian National Congress,47463,479,47942,25.85,185474,47942,47942,True
+Sarupathar,Sanjay Patel,Asom Gana Parishad,44179,446,44625,24.06,185474,44625,47942,False
+Sarupathar,Amit Nair,Bharatiya Janata Party,31765,320,32085,17.3,185474,32085,47942,False
+Sarupathar,Anita Roy,None of the Above,11036,111,11147,6.01,185474,11147,47942,False
+Sarupathar,Kavita Sharma,Independent,4038,40,4078,2.2,185474,4078,47942,False
+Sarupathar,Rahul Menon,All India United Democratic Front,3237,32,3269,1.76,185474,3269,47942,False
+Bokajan,Manoj Patel,All India United Democratic Front,70175,708,70883,37.75,187784,70883,70883,True
+Bokajan,Rahul Singh,Asom Gana Parishad,28254,285,28539,15.2,187784,28539,70883,False
+Bokajan,Anjali Menon,Bharatiya Janata Party,13579,137,13716,7.3,187784,13716,70883,False
+Bokajan,Manoj Das,None of the Above,11336,114,11450,6.1,187784,11450,70883,False
+Bokajan,Kavita Das,Indian National Congress,3085,31,3116,1.66,187784,3116,70883,False
+Bokajan,Deepa Das,Independent,1235,12,1247,0.66,187784,1247,70883,False
+Howraghat,Sunil Bora,All India United Democratic Front,55146,557,55703,26.45,210619,55703,55703,True
+Howraghat,Anita Gogoi,None of the Above,38996,393,39389,18.7,210619,39389,55703,False
+Howraghat,Sanjay Patel,Indian National Congress,32680,330,33010,15.67,210619,33010,55703,False
+Howraghat,Deepa Sen,Asom Gana Parishad,22871,231,23102,10.97,210619,23102,55703,False
+Howraghat,Manoj Bora,Bharatiya Janata Party,7364,74,7438,3.53,210619,7438,55703,False
+Howraghat,Sunil Patel,Independent,1108,11,1119,0.53,210619,1119,55703,False
+Diphu,Suresh Bora,Bharatiya Janata Party,61059,616,61675,35.08,175811,61675,61675,True
+Diphu,Anita Sharma,Indian National Congress,42773,432,43205,24.57,175811,43205,61675,False
+Diphu,Deepa Sen,Asom Gana Parishad,23393,236,23629,13.44,175811,23629,61675,False
+Diphu,Manoj Das,None of the Above,20005,202,20207,11.49,175811,20207,61675,False
+Diphu,Sunil Das,All India United Democratic Front,1885,19,1904,1.08,175811,1904,61675,False
+Diphu,Sanjay Sen,Independent,798,8,806,0.46,175811,806,61675,False
+Rongkhang,Amit Singh,Indian National Congress,46366,468,46834,26.31,178027,46834,46834,True
+Rongkhang,Kavita Sharma,Bharatiya Janata Party,26140,264,26404,14.83,178027,26404,46834,False
+Rongkhang,Anjali Patel,All India United Democratic Front,22786,230,23016,12.93,178027,23016,46834,False
+Rongkhang,Sanjay Das,Asom Gana Parishad,15990,161,16151,9.07,178027,16151,46834,False
+Rongkhang,Sunil Reddy,None of the Above,13669,138,13807,7.76,178027,13807,46834,False
+Rongkhang,Anjali Patel,Independent,4214,42,4256,2.39,178027,4256,46834,False
+Amri,Anjali Reddy,Bharatiya Janata Party,62411,630,63041,32.01,196934,63041,63041,True
+Amri,Sunil Reddy,Asom Gana Parishad,58939,595,59534,30.23,196934,59534,63041,False
+Amri,Sanjay Bora,All India United Democratic Front,29617,299,29916,15.19,196934,29916,63041,False
+Amri,Anita Singh,Independent,1791,18,1809,0.92,196934,1809,63041,False
+Amri,Rahul Reddy,Indian National Congress,655,6,661,0.34,196934,661,63041,False
+Amri,Anjali Reddy,None of the Above,431,4,435,0.22,196934,435,63041,False
+Haflong,Suresh Roy,Bharatiya Janata Party,75932,766,76698,43.15,177755,76698,76698,True
+Haflong,Deepa Nair,Asom Gana Parishad,48376,488,48864,27.49,177755,48864,76698,False
+Haflong,Anita Sen,Indian National Congress,14990,151,15141,8.52,177755,15141,76698,False
+Haflong,Rahul Sharma,All India United Democratic Front,3190,32,3222,1.81,177755,3222,76698,False
+Haflong,Amit Gogoi,Independent,1884,19,1903,1.07,177755,1903,76698,False
+Haflong,Ramesh Roy,None of the Above,464,4,468,0.26,177755,468,76698,False
+Lakhipur,Manoj Reddy,Bharatiya Janata Party,89006,899,89905,39.05,230224,89905,89905,True
+Lakhipur,Kavita Reddy,Asom Gana Parishad,45782,462,46244,20.09,230224,46244,89905,False
+Lakhipur,Anita Das,None of the Above,25826,260,26086,11.33,230224,26086,89905,False
+Lakhipur,Manoj Sen,Indian National Congress,7462,75,7537,3.27,230224,7537,89905,False
+Lakhipur,Deepa Nair,All India United Democratic Front,3715,37,3752,1.63,230224,3752,89905,False
+Lakhipur,Ramesh Sharma,Independent,936,9,945,0.41,230224,945,89905,False
+Udharbond,Anita Sen,Asom Gana Parishad,99860,1008,100868,42.32,238373,100868,100868,True
+Udharbond,Suresh Das,Bharatiya Janata Party,35056,354,35410,14.85,238373,35410,100868,False
+Udharbond,Sanjay Das,None of the Above,27182,274,27456,11.52,238373,27456,100868,False
+Udharbond,Rahul Bora,All India United Democratic Front,7671,77,7748,3.25,238373,7748,100868,False
+Udharbond,Rahul Kumar,Indian National Congress,6407,64,6471,2.71,238373,6471,100868,False
+Udharbond,Manoj Kumar,Independent,3473,35,3508,1.47,238373,3508,100868,False
+Katigorah,Rahul Bora,Asom Gana Parishad,60777,613,61390,29.29,209626,61390,61390,True
+Katigorah,Manoj Menon,Bharatiya Janata Party,57016,575,57591,27.47,209626,57591,61390,False
+Katigorah,Priya Patel,All India United Democratic Front,16929,170,17099,8.16,209626,17099,61390,False
+Katigorah,Manoj Gogoi,None of the Above,10673,107,10780,5.14,209626,10780,61390,False
+Katigorah,Deepa Gogoi,Independent,1467,14,1481,0.71,209626,1481,61390,False
+Katigorah,Rahul Gogoi,Indian National Congress,1439,14,1453,0.69,209626,1453,61390,False
+Borkhola,Kavita Kumar,Bharatiya Janata Party,44548,449,44997,22.05,204060,44997,44997,True
+Borkhola,Priya Kumar,None of the Above,29876,301,30177,14.79,204060,30177,44997,False
+Borkhola,Rahul Bora,Asom Gana Parishad,16466,166,16632,8.15,204060,16632,44997,False
+Borkhola,Rahul Menon,All India United Democratic Front,9466,95,9561,4.69,204060,9561,44997,False
+Borkhola,Priya Kumar,Indian National Congress,8957,90,9047,4.43,204060,9047,44997,False
+Borkhola,Kavita Reddy,Independent,136,1,137,0.07,204060,137,44997,False
+Silchar,Sunil Kumar,Bharatiya Janata Party,54585,551,55136,26.31,209525,55136,55136,True
+Silchar,Rahul Nair,Asom Gana Parishad,46863,473,47336,22.59,209525,47336,55136,False
+Silchar,Ramesh Kumar,All India United Democratic Front,32447,327,32774,15.64,209525,32774,55136,False
+Silchar,Amit Gogoi,None of the Above,26090,263,26353,12.58,209525,26353,55136,False
+Silchar,Kavita Nair,Indian National Congress,14038,141,14179,6.77,209525,14179,55136,False
+Silchar,Sanjay Das,Independent,1158,11,1169,0.56,209525,1169,55136,False
+Sonai,Anita Das,Asom Gana Parishad,89387,902,90289,39.21,230258,90289,90289,True
+Sonai,Anita Singh,Indian National Congress,36301,366,36667,15.92,230258,36667,90289,False
+Sonai,Anita Nair,All India United Democratic Front,34948,353,35301,15.33,230258,35301,90289,False
+Sonai,Sunil Sharma,Bharatiya Janata Party,26223,264,26487,11.5,230258,26487,90289,False
+Sonai,Rahul Menon,None of the Above,2957,29,2986,1.3,230258,2986,90289,False
+Sonai,Sunil Bora,Independent,2049,20,2069,0.9,230258,2069,90289,False
+Dholai,Sanjay Kumar,Asom Gana Parishad,62862,634,63496,28.4,223546,63496,63496,True
+Dholai,Kavita Menon,Bharatiya Janata Party,28089,283,28372,12.69,223546,28372,63496,False
+Dholai,Priya Patel,None of the Above,26520,267,26787,11.98,223546,26787,63496,False
+Dholai,Anita Patel,Indian National Congress,20486,206,20692,9.26,223546,20692,63496,False
+Dholai,Rahul Patel,All India United Democratic Front,12678,128,12806,5.73,223546,12806,63496,False
+Dholai,Suresh Singh,Independent,4896,49,4945,2.21,223546,4945,63496,False
+Hailakandi,Ramesh Sen,Bharatiya Janata Party,43982,444,44426,23.51,188960,44426,44426,True
+Hailakandi,Manoj Kumar,None of the Above,37097,374,37471,19.83,188960,37471,44426,False
+Hailakandi,Suresh Nair,All India United Democratic Front,25657,259,25916,13.72,188960,25916,44426,False
+Hailakandi,Anjali Kumar,Asom Gana Parishad,12618,127,12745,6.74,188960,12745,44426,False
+Hailakandi,Anita Bora,Indian National Congress,7591,76,7667,4.06,188960,7667,44426,False
+Hailakandi,Sunil Gogoi,Independent,996,10,1006,0.53,188960,1006,44426,False
+Algapur–Katlicherra,Priya Nair,Indian National Congress,49398,498,49896,20.74,240564,49896,49896,True
+Algapur–Katlicherra,Manoj Menon,Bharatiya Janata Party,32202,325,32527,13.52,240564,32527,49896,False
+Algapur–Katlicherra,Ramesh Bora,All India United Democratic Front,23459,236,23695,9.85,240564,23695,49896,False
+Algapur–Katlicherra,Amit Sharma,Asom Gana Parishad,16952,171,17123,7.12,240564,17123,49896,False
+Algapur–Katlicherra,Rahul Sharma,None of the Above,7783,78,7861,3.27,240564,7861,49896,False
+Algapur–Katlicherra,Kavita Patel,Independent,2070,20,2090,0.87,240564,2090,49896,False
+Karimganj North,Deepa Sen,Asom Gana Parishad,60012,606,60618,26.96,224880,60618,60618,True
+Karimganj North,Amit Patel,None of the Above,41474,418,41892,18.63,224880,41892,60618,False
+Karimganj North,Priya Kumar,Bharatiya Janata Party,28255,285,28540,12.69,224880,28540,60618,False
+Karimganj North,Anjali Reddy,Indian National Congress,8620,87,8707,3.87,224880,8707,60618,False
+Karimganj North,Ramesh Das,All India United Democratic Front,4499,45,4544,2.02,224880,4544,60618,False
+Karimganj North,Manoj Nair,Independent,2466,24,2490,1.11,224880,2490,60618,False
+Karimganj South,Sunil Das,Bharatiya Janata Party,71374,720,72094,33.79,213363,72094,72094,True
+Karimganj South,Anjali Reddy,Indian National Congress,50310,508,50818,23.82,213363,50818,72094,False
+Karimganj South,Anjali Sharma,None of the Above,26468,267,26735,12.53,213363,26735,72094,False
+Karimganj South,Manoj Roy,Asom Gana Parishad,18174,183,18357,8.6,213363,18357,72094,False
+Karimganj South,Kavita Patel,All India United Democratic Front,2772,28,2800,1.31,213363,2800,72094,False
+Karimganj South,Kavita Singh,Independent,1564,15,1579,0.74,213363,1579,72094,False
+Patharkandi,Rahul Nair,Asom Gana Parishad,94593,955,95548,41.25,231611,95548,95548,True
+Patharkandi,Sanjay Sen,Indian National Congress,51275,517,51792,22.36,231611,51792,95548,False
+Patharkandi,Suresh Sen,Bharatiya Janata Party,25878,261,26139,11.29,231611,26139,95548,False
+Patharkandi,Priya Menon,All India United Democratic Front,16533,166,16699,7.21,231611,16699,95548,False
+Patharkandi,Amit Patel,None of the Above,5008,50,5058,2.18,231611,5058,95548,False
+Patharkandi,Deepa Nair,Independent,2212,22,2234,0.96,231611,2234,95548,False
+Ram Krishna Nagar,Amit Gogoi,Asom Gana Parishad,80785,816,81601,33.96,240273,81601,81601,True
+Ram Krishna Nagar,Suresh Nair,Bharatiya Janata Party,67949,686,68635,28.57,240273,68635,81601,False
+Ram Krishna Nagar,Suresh Sen,None of the Above,11902,120,12022,5.0,240273,12022,81601,False
+Ram Krishna Nagar,Ramesh Gogoi,All India United Democratic Front,11343,114,11457,4.77,240273,11457,81601,False
+Ram Krishna Nagar,Rahul Reddy,Indian National Congress,10903,110,11013,4.58,240273,11013,81601,False
+Ram Krishna Nagar,Deepa Gogoi,Independent,3762,38,3800,1.58,240273,3800,81601,False

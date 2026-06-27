@@ -1,0 +1,981 @@
+Constituency,Candidate,Party,EVM_Votes,Postal_Votes,Total_Votes,%_of_Votes,Tot_Constituency_votes_polled,Tot_votes_by_parties,Winning_votes,Win_Lost_Flag
+Manjeshwaram,Priya Das,Communist Party of India,90082,909,90991,41.81,217614,90991,90991,True
+Manjeshwaram,Anjali Nair,Indian Union Muslim League,30694,310,31004,14.25,217614,31004,90991,False
+Manjeshwaram,Manoj Gogoi,Communist Party of India (Marxist),28111,283,28394,13.05,217614,28394,90991,False
+Manjeshwaram,Suresh Singh,Indian National Congress,16811,169,16980,7.8,217614,16980,90991,False
+Manjeshwaram,Ramesh Menon,Bharatiya Janata Party,11279,113,11392,5.23,217614,11392,90991,False
+Manjeshwaram,Manoj Kumar,Independent,4182,42,4224,1.94,217614,4224,90991,False
+Manjeshwaram,Anita Sharma,None of the Above,1949,19,1968,0.9,217614,1968,90991,False
+Kasaragod,Sanjay Singh,Communist Party of India,89279,901,90180,36.95,244078,90180,90180,True
+Kasaragod,Rahul Sen,Indian National Congress,40089,404,40493,16.59,244078,40493,90180,False
+Kasaragod,Ramesh Sen,Indian Union Muslim League,24624,248,24872,10.19,244078,24872,90180,False
+Kasaragod,Deepa Menon,Bharatiya Janata Party,21025,212,21237,8.7,244078,21237,90180,False
+Kasaragod,Deepa Menon,Communist Party of India (Marxist),19366,195,19561,8.01,244078,19561,90180,False
+Kasaragod,Amit Menon,Independent,2658,26,2684,1.1,244078,2684,90180,False
+Kasaragod,Anjali Reddy,None of the Above,1378,13,1391,0.57,244078,1391,90180,False
+Udma,Ramesh Nair,Communist Party of India,41656,420,42076,26.59,158250,42076,42076,True
+Udma,Sunil Bora,Communist Party of India (Marxist),26780,270,27050,17.09,158250,27050,42076,False
+Udma,Priya Patel,Bharatiya Janata Party,22981,232,23213,14.67,158250,23213,42076,False
+Udma,Suresh Nair,Indian National Congress,20936,211,21147,13.36,158250,21147,42076,False
+Udma,Sunil Reddy,None of the Above,13361,134,13495,8.53,158250,13495,42076,False
+Udma,Rahul Das,Independent,2888,29,2917,1.84,158250,2917,42076,False
+Udma,Sunil Sharma,Indian Union Muslim League,2691,27,2718,1.72,158250,2718,42076,False
+Kanhangad,Ramesh Nair,Communist Party of India (Marxist),69772,704,70476,28.56,246777,70476,70476,True
+Kanhangad,Sunil Kumar,Indian Union Muslim League,47634,481,48115,19.5,246777,48115,70476,False
+Kanhangad,Anita Singh,Indian National Congress,43816,442,44258,17.93,246777,44258,70476,False
+Kanhangad,Amit Reddy,Bharatiya Janata Party,32033,323,32356,13.11,246777,32356,70476,False
+Kanhangad,Anita Reddy,None of the Above,15793,159,15952,6.46,246777,15952,70476,False
+Kanhangad,Priya Singh,Communist Party of India,11796,119,11915,4.83,246777,11915,70476,False
+Kanhangad,Sanjay Gogoi,Independent,3830,38,3868,1.57,246777,3868,70476,False
+Thrikaripur,Anita Roy,Communist Party of India (Marxist),82737,835,83572,46.41,180069,83572,83572,True
+Thrikaripur,Sanjay Menon,Communist Party of India,24498,247,24745,13.74,180069,24745,83572,False
+Thrikaripur,Anita Nair,Indian Union Muslim League,14896,150,15046,8.36,180069,15046,83572,False
+Thrikaripur,Priya Sen,Indian National Congress,13634,137,13771,7.65,180069,13771,83572,False
+Thrikaripur,Anjali Reddy,Bharatiya Janata Party,7831,79,7910,4.39,180069,7910,83572,False
+Thrikaripur,Ramesh Singh,Independent,1157,11,1168,0.65,180069,1168,83572,False
+Thrikaripur,Priya Singh,None of the Above,154,1,155,0.09,180069,155,83572,False
+Payyanur,Kavita Patel,Communist Party of India (Marxist),93529,944,94473,41.2,229326,94473,94473,True
+Payyanur,Ramesh Sharma,Indian National Congress,47117,475,47592,20.75,229326,47592,94473,False
+Payyanur,Kavita Nair,Bharatiya Janata Party,40224,406,40630,17.72,229326,40630,94473,False
+Payyanur,Kavita Roy,None of the Above,1889,19,1908,0.83,229326,1908,94473,False
+Payyanur,Sunil Bora,Communist Party of India,1667,16,1683,0.73,229326,1683,94473,False
+Payyanur,Anjali Patel,Independent,1415,14,1429,0.62,229326,1429,94473,False
+Payyanur,Deepa Gogoi,Indian Union Muslim League,1141,11,1152,0.5,229326,1152,94473,False
+Kalliasseri,Priya Patel,Communist Party of India (Marxist),54719,552,55271,34.21,161557,55271,55271,True
+Kalliasseri,Sunil Kumar,Indian Union Muslim League,38635,390,39025,24.16,161557,39025,55271,False
+Kalliasseri,Sanjay Menon,Bharatiya Janata Party,25004,252,25256,15.63,161557,25256,55271,False
+Kalliasseri,Manoj Kumar,None of the Above,12312,124,12436,7.7,161557,12436,55271,False
+Kalliasseri,Rahul Sen,Communist Party of India,9403,94,9497,5.88,161557,9497,55271,False
+Kalliasseri,Anita Sen,Independent,4215,42,4257,2.63,161557,4257,55271,False
+Kalliasseri,Anjali Nair,Indian National Congress,1274,12,1286,0.8,161557,1286,55271,False
+Taliparamba,Anjali Reddy,Communist Party of India (Marxist),58021,586,58607,34.37,170540,58607,58607,True
+Taliparamba,Suresh Nair,Indian National Congress,37716,380,38096,22.34,170540,38096,58607,False
+Taliparamba,Deepa Singh,Indian Union Muslim League,27077,273,27350,16.04,170540,27350,58607,False
+Taliparamba,Sanjay Menon,Communist Party of India,12542,126,12668,7.43,170540,12668,58607,False
+Taliparamba,Rahul Menon,None of the Above,10934,110,11044,6.48,170540,11044,58607,False
+Taliparamba,Anita Kumar,Bharatiya Janata Party,1805,18,1823,1.07,170540,1823,58607,False
+Taliparamba,Amit Sen,Independent,773,7,780,0.46,170540,780,58607,False
+Irikkur,Sanjay Patel,Communist Party of India (Marxist),77334,781,78115,34.74,224866,78115,78115,True
+Irikkur,Rahul Das,Communist Party of India,71057,717,71774,31.92,224866,71774,78115,False
+Irikkur,Sunil Reddy,Indian National Congress,28650,289,28939,12.87,224866,28939,78115,False
+Irikkur,Sunil Patel,Bharatiya Janata Party,17474,176,17650,7.85,224866,17650,78115,False
+Irikkur,Priya Das,None of the Above,8254,83,8337,3.71,224866,8337,78115,False
+Irikkur,Sanjay Reddy,Indian Union Muslim League,7270,73,7343,3.27,224866,7343,78115,False
+Irikkur,Rahul Roy,Independent,378,3,381,0.17,224866,381,78115,False
+Azhikode,Deepa Sharma,Communist Party of India (Marxist),84823,856,85679,43.24,198143,85679,85679,True
+Azhikode,Sunil Patel,Bharatiya Janata Party,19189,193,19382,9.78,198143,19382,85679,False
+Azhikode,Suresh Sharma,Indian National Congress,6754,68,6822,3.44,198143,6822,85679,False
+Azhikode,Manoj Das,Communist Party of India,6193,62,6255,3.16,198143,6255,85679,False
+Azhikode,Anjali Reddy,Indian Union Muslim League,5661,57,5718,2.89,198143,5718,85679,False
+Azhikode,Priya Reddy,Independent,997,10,1007,0.51,198143,1007,85679,False
+Azhikode,Sanjay Kumar,None of the Above,588,5,593,0.3,198143,593,85679,False
+Kannur,Manoj Reddy,Communist Party of India (Marxist),65178,658,65836,29.8,220890,65836,65836,True
+Kannur,Sunil Reddy,Bharatiya Janata Party,43798,442,44240,20.03,220890,44240,65836,False
+Kannur,Manoj Menon,Communist Party of India,29699,299,29998,13.58,220890,29998,65836,False
+Kannur,Priya Roy,Indian Union Muslim League,17420,175,17595,7.97,220890,17595,65836,False
+Kannur,Sanjay Gogoi,Indian National Congress,11524,116,11640,5.27,220890,11640,65836,False
+Kannur,Anita Patel,None of the Above,9560,96,9656,4.37,220890,9656,65836,False
+Kannur,Anjali Nair,Independent,4011,40,4051,1.83,220890,4051,65836,False
+Dharmadom,Suresh Bora,Communist Party of India,58733,593,59326,30.1,197113,59326,59326,True
+Dharmadom,Rahul Gogoi,None of the Above,24209,244,24453,12.41,197113,24453,59326,False
+Dharmadom,Priya Sharma,Indian National Congress,22420,226,22646,11.49,197113,22646,59326,False
+Dharmadom,Manoj Roy,Bharatiya Janata Party,14086,142,14228,7.22,197113,14228,59326,False
+Dharmadom,Manoj Patel,Indian Union Muslim League,7409,74,7483,3.8,197113,7483,59326,False
+Dharmadom,Anjali Gogoi,Independent,4887,49,4936,2.5,197113,4936,59326,False
+Dharmadom,Manoj Reddy,Communist Party of India (Marxist),3932,39,3971,2.01,197113,3971,59326,False
+Thalassery,Ramesh Sen,Communist Party of India (Marxist),84963,858,85821,36.3,236405,85821,85821,True
+Thalassery,Manoj Patel,Indian National Congress,40655,410,41065,17.37,236405,41065,85821,False
+Thalassery,Deepa Bora,None of the Above,20599,208,20807,8.8,236405,20807,85821,False
+Thalassery,Suresh Sharma,Bharatiya Janata Party,17283,174,17457,7.38,236405,17457,85821,False
+Thalassery,Deepa Singh,Communist Party of India,13080,132,13212,5.59,236405,13212,85821,False
+Thalassery,Sunil Gogoi,Indian Union Muslim League,5708,57,5765,2.44,236405,5765,85821,False
+Thalassery,Ramesh Nair,Independent,2978,30,3008,1.27,236405,3008,85821,False
+Kuthuparamba,Sanjay Sen,Indian National Congress,52391,529,52920,27.85,190050,52920,52920,True
+Kuthuparamba,Amit Gogoi,Communist Party of India (Marxist),37696,380,38076,20.03,190050,38076,52920,False
+Kuthuparamba,Anita Reddy,Indian Union Muslim League,31575,318,31893,16.78,190050,31893,52920,False
+Kuthuparamba,Sunil Gogoi,Communist Party of India,18874,190,19064,10.03,190050,19064,52920,False
+Kuthuparamba,Priya Nair,Bharatiya Janata Party,9903,100,10003,5.26,190050,10003,52920,False
+Kuthuparamba,Suresh Singh,None of the Above,9485,95,9580,5.04,190050,9580,52920,False
+Kuthuparamba,Sanjay Sen,Independent,4183,42,4225,2.22,190050,4225,52920,False
+Mattanur,Kavita Menon,Bharatiya Janata Party,39413,398,39811,23.67,168179,39811,39811,True
+Mattanur,Sanjay Sharma,Communist Party of India (Marxist),18020,182,18202,10.82,168179,18202,39811,False
+Mattanur,Deepa Patel,None of the Above,16313,164,16477,9.8,168179,16477,39811,False
+Mattanur,Anjali Reddy,Indian National Congress,14542,146,14688,8.73,168179,14688,39811,False
+Mattanur,Anita Roy,Indian Union Muslim League,4761,48,4809,2.86,168179,4809,39811,False
+Mattanur,Ramesh Sharma,Independent,3638,36,3674,2.18,168179,3674,39811,False
+Mattanur,Ramesh Menon,Communist Party of India,2276,22,2298,1.37,168179,2298,39811,False
+Peravoor,Amit Sen,Communist Party of India (Marxist),78247,790,79037,41.77,189212,79037,79037,True
+Peravoor,Rahul Das,Communist Party of India,23852,240,24092,12.73,189212,24092,79037,False
+Peravoor,Deepa Sen,Indian National Congress,23392,236,23628,12.49,189212,23628,79037,False
+Peravoor,Ramesh Menon,Bharatiya Janata Party,19622,198,19820,10.48,189212,19820,79037,False
+Peravoor,Sanjay Menon,None of the Above,13539,136,13675,7.23,189212,13675,79037,False
+Peravoor,Ramesh Bora,Indian Union Muslim League,3598,36,3634,1.92,189212,3634,79037,False
+Peravoor,Priya Reddy,Independent,3352,33,3385,1.79,189212,3385,79037,False
+Mananthavady,Rahul Bora,Communist Party of India (Marxist),68163,688,68851,30.43,226261,68851,68851,True
+Mananthavady,Ramesh Sharma,Indian Union Muslim League,39288,396,39684,17.54,226261,39684,68851,False
+Mananthavady,Suresh Sen,Communist Party of India,39111,395,39506,17.46,226261,39506,68851,False
+Mananthavady,Priya Bora,Indian National Congress,36695,370,37065,16.38,226261,37065,68851,False
+Mananthavady,Kavita Sen,Bharatiya Janata Party,18263,184,18447,8.15,226261,18447,68851,False
+Mananthavady,Anita Roy,Independent,4283,43,4326,1.91,226261,4326,68851,False
+Mananthavady,Ramesh Singh,None of the Above,933,9,942,0.42,226261,942,68851,False
+Sulthan Bathery,Priya Nair,Communist Party of India (Marxist),36706,370,37076,22.84,162356,37076,37076,True
+Sulthan Bathery,Sunil Bora,None of the Above,25469,257,25726,15.85,162356,25726,37076,False
+Sulthan Bathery,Kavita Gogoi,Communist Party of India,21404,216,21620,13.32,162356,21620,37076,False
+Sulthan Bathery,Manoj Nair,Indian National Congress,16734,169,16903,10.41,162356,16903,37076,False
+Sulthan Bathery,Rahul Kumar,Indian Union Muslim League,15619,157,15776,9.72,162356,15776,37076,False
+Sulthan Bathery,Amit Kumar,Bharatiya Janata Party,13281,134,13415,8.26,162356,13415,37076,False
+Sulthan Bathery,Priya Das,Independent,3421,34,3455,2.13,162356,3455,37076,False
+Kalpetta,Kavita Menon,Communist Party of India (Marxist),50065,505,50570,31.22,161987,50570,50570,True
+Kalpetta,Anita Sen,Indian National Congress,32206,325,32531,20.08,161987,32531,50570,False
+Kalpetta,Anita Menon,Communist Party of India,30384,306,30690,18.95,161987,30690,50570,False
+Kalpetta,Amit Kumar,Bharatiya Janata Party,18304,184,18488,11.41,161987,18488,50570,False
+Kalpetta,Rahul Bora,None of the Above,7825,79,7904,4.88,161987,7904,50570,False
+Kalpetta,Sunil Reddy,Indian Union Muslim League,4361,44,4405,2.72,161987,4405,50570,False
+Kalpetta,Sunil Das,Independent,3655,36,3691,2.28,161987,3691,50570,False
+Vatakara,Deepa Gogoi,Communist Party of India,60604,612,61216,25.9,236322,61216,61216,True
+Vatakara,Anita Kumar,Indian National Congress,34797,351,35148,14.87,236322,35148,61216,False
+Vatakara,Manoj Reddy,Communist Party of India (Marxist),32734,330,33064,13.99,236322,33064,61216,False
+Vatakara,Sunil Reddy,Bharatiya Janata Party,30605,309,30914,13.08,236322,30914,61216,False
+Vatakara,Anjali Bora,Indian Union Muslim League,19305,195,19500,8.25,236322,19500,61216,False
+Vatakara,Anita Patel,None of the Above,4849,48,4897,2.07,236322,4897,61216,False
+Vatakara,Deepa Nair,Independent,1860,18,1878,0.79,236322,1878,61216,False
+Kuttiady,Sanjay Nair,Communist Party of India,38564,389,38953,20.58,189234,38953,38953,True
+Kuttiady,Amit Sharma,Communist Party of India (Marxist),36113,364,36477,19.28,189234,36477,38953,False
+Kuttiady,Manoj Reddy,Bharatiya Janata Party,14378,145,14523,7.67,189234,14523,38953,False
+Kuttiady,Anita Nair,Indian National Congress,13609,137,13746,7.26,189234,13746,38953,False
+Kuttiady,Rahul Patel,Indian Union Muslim League,12696,128,12824,6.78,189234,12824,38953,False
+Kuttiady,Sunil Kumar,Independent,4325,43,4368,2.31,189234,4368,38953,False
+Kuttiady,Sunil Sen,None of the Above,3609,36,3645,1.93,189234,3645,38953,False
+Nadapuram,Kavita Sen,Indian National Congress,44675,451,45126,25.84,174652,45126,45126,True
+Nadapuram,Manoj Patel,Communist Party of India,30536,308,30844,17.66,174652,30844,45126,False
+Nadapuram,Anita Kumar,Communist Party of India (Marxist),29065,293,29358,16.81,174652,29358,45126,False
+Nadapuram,Ramesh Nair,None of the Above,21741,219,21960,12.57,174652,21960,45126,False
+Nadapuram,Sanjay Roy,Bharatiya Janata Party,11327,114,11441,6.55,174652,11441,45126,False
+Nadapuram,Priya Kumar,Indian Union Muslim League,8421,85,8506,4.87,174652,8506,45126,False
+Nadapuram,Priya Bora,Independent,1325,13,1338,0.77,174652,1338,45126,False
+Koyilandy,Amit Menon,Communist Party of India (Marxist),63272,639,63911,40.58,157490,63911,63911,True
+Koyilandy,Ramesh Bora,Communist Party of India,29734,300,30034,19.07,157490,30034,63911,False
+Koyilandy,Sunil Singh,Indian Union Muslim League,21935,221,22156,14.07,157490,22156,63911,False
+Koyilandy,Rahul Sharma,None of the Above,13750,138,13888,8.82,157490,13888,63911,False
+Koyilandy,Anjali Gogoi,Indian National Congress,7299,73,7372,4.68,157490,7372,63911,False
+Koyilandy,Deepa Kumar,Independent,2860,28,2888,1.83,157490,2888,63911,False
+Koyilandy,Priya Kumar,Bharatiya Janata Party,2332,23,2355,1.5,157490,2355,63911,False
+Perambra,Rahul Bora,Communist Party of India (Marxist),65155,658,65813,35.37,186085,65813,65813,True
+Perambra,Ramesh Reddy,Indian National Congress,44103,445,44548,23.94,186085,44548,65813,False
+Perambra,Manoj Sen,Communist Party of India,26929,272,27201,14.62,186085,27201,65813,False
+Perambra,Deepa Nair,None of the Above,12134,122,12256,6.59,186085,12256,65813,False
+Perambra,Priya Kumar,Indian Union Muslim League,6810,68,6878,3.7,186085,6878,65813,False
+Perambra,Rahul Gogoi,Bharatiya Janata Party,3082,31,3113,1.67,186085,3113,65813,False
+Perambra,Kavita Sen,Independent,1079,10,1089,0.59,186085,1089,65813,False
+Balussery,Kavita Sen,Communist Party of India,69837,705,70542,40.27,175174,70542,70542,True
+Balussery,Suresh Gogoi,Communist Party of India (Marxist),31156,314,31470,17.96,175174,31470,70542,False
+Balussery,Ramesh Reddy,Indian Union Muslim League,15030,151,15181,8.67,175174,15181,70542,False
+Balussery,Anita Menon,None of the Above,13476,136,13612,7.77,175174,13612,70542,False
+Balussery,Sunil Patel,Bharatiya Janata Party,7796,78,7874,4.49,175174,7874,70542,False
+Balussery,Deepa Patel,Indian National Congress,7041,71,7112,4.06,175174,7112,70542,False
+Balussery,Kavita Patel,Independent,638,6,644,0.37,175174,644,70542,False
+Elathur,Sanjay Patel,Bharatiya Janata Party,47129,476,47605,27.74,171622,47605,47605,True
+Elathur,Anjali Kumar,Indian Union Muslim League,29649,299,29948,17.45,171622,29948,47605,False
+Elathur,Anita Roy,None of the Above,21236,214,21450,12.5,171622,21450,47605,False
+Elathur,Anjali Patel,Indian National Congress,19993,201,20194,11.77,171622,20194,47605,False
+Elathur,Priya Sen,Communist Party of India (Marxist),18699,188,18887,11.0,171622,18887,47605,False
+Elathur,Suresh Das,Independent,4469,45,4514,2.63,171622,4514,47605,False
+Elathur,Ramesh Das,Communist Party of India,763,7,770,0.45,171622,770,47605,False
+Kozhikode North,Priya Sharma,Communist Party of India (Marxist),75601,763,76364,32.03,238443,76364,76364,True
+Kozhikode North,Priya Das,Communist Party of India,50466,509,50975,21.38,238443,50975,76364,False
+Kozhikode North,Deepa Nair,Indian Union Muslim League,41391,418,41809,17.53,238443,41809,76364,False
+Kozhikode North,Kavita Kumar,None of the Above,12495,126,12621,5.29,238443,12621,76364,False
+Kozhikode North,Sanjay Kumar,Bharatiya Janata Party,12464,125,12589,5.28,238443,12589,76364,False
+Kozhikode North,Kavita Roy,Independent,3883,39,3922,1.64,238443,3922,76364,False
+Kozhikode North,Deepa Sen,Indian National Congress,3747,37,3784,1.59,238443,3784,76364,False
+Kozhikode South,Deepa Kumar,Indian Union Muslim League,40247,406,40653,23.02,176564,40653,40653,True
+Kozhikode South,Sanjay Gogoi,Bharatiya Janata Party,29734,300,30034,17.01,176564,30034,40653,False
+Kozhikode South,Anita Roy,Communist Party of India (Marxist),26969,272,27241,15.43,176564,27241,40653,False
+Kozhikode South,Suresh Sen,Indian National Congress,24128,243,24371,13.8,176564,24371,40653,False
+Kozhikode South,Sunil Patel,Communist Party of India,12734,128,12862,7.28,176564,12862,40653,False
+Kozhikode South,Suresh Kumar,None of the Above,10233,103,10336,5.85,176564,10336,40653,False
+Kozhikode South,Kavita Roy,Independent,3192,32,3224,1.83,176564,3224,40653,False
+Beypore,Sunil Sen,Communist Party of India (Marxist),49254,497,49751,31.93,155813,49751,49751,True
+Beypore,Kavita Nair,Indian Union Muslim League,27270,275,27545,17.68,155813,27545,49751,False
+Beypore,Rahul Sharma,Bharatiya Janata Party,23934,241,24175,15.52,155813,24175,49751,False
+Beypore,Amit Gogoi,Communist Party of India,15535,156,15691,10.07,155813,15691,49751,False
+Beypore,Suresh Patel,None of the Above,2808,28,2836,1.82,155813,2836,49751,False
+Beypore,Ramesh Sharma,Independent,1584,15,1599,1.03,155813,1599,49751,False
+Beypore,Rahul Reddy,Indian National Congress,203,2,205,0.13,155813,205,49751,False
+Kunnamangalam,Anjali Roy,Indian National Congress,45717,461,46178,30.43,151762,46178,46178,True
+Kunnamangalam,Sanjay Bora,Communist Party of India (Marxist),30033,303,30336,19.99,151762,30336,46178,False
+Kunnamangalam,Rahul Patel,Communist Party of India,24372,246,24618,16.22,151762,24618,46178,False
+Kunnamangalam,Sanjay Sharma,Indian Union Muslim League,22397,226,22623,14.91,151762,22623,46178,False
+Kunnamangalam,Deepa Patel,None of the Above,8587,86,8673,5.71,151762,8673,46178,False
+Kunnamangalam,Amit Reddy,Bharatiya Janata Party,6350,64,6414,4.23,151762,6414,46178,False
+Kunnamangalam,Sunil Nair,Independent,193,1,194,0.13,151762,194,46178,False
+Koduvally,Kavita Sen,Communist Party of India (Marxist),86840,877,87717,42.94,204277,87717,87717,True
+Koduvally,Sunil Bora,Indian National Congress,27435,277,27712,13.57,204277,27712,87717,False
+Koduvally,Ramesh Bora,Communist Party of India,25915,261,26176,12.81,204277,26176,87717,False
+Koduvally,Rahul Singh,Indian Union Muslim League,25711,259,25970,12.71,204277,25970,87717,False
+Koduvally,Rahul Nair,None of the Above,12942,130,13072,6.4,204277,13072,87717,False
+Koduvally,Rahul Reddy,Bharatiya Janata Party,4844,48,4892,2.39,204277,4892,87717,False
+Koduvally,Priya Reddy,Independent,870,8,878,0.43,204277,878,87717,False
+Thiruvambady,Anjali Singh,Communist Party of India,112869,1140,114009,47.16,241754,114009,114009,True
+Thiruvambady,Sanjay Sharma,Indian Union Muslim League,29730,300,30030,12.42,241754,30030,114009,False
+Thiruvambady,Anita Menon,Bharatiya Janata Party,16122,162,16284,6.74,241754,16284,114009,False
+Thiruvambady,Deepa Reddy,None of the Above,13572,137,13709,5.67,241754,13709,114009,False
+Thiruvambady,Anjali Sharma,Communist Party of India (Marxist),8431,85,8516,3.52,241754,8516,114009,False
+Thiruvambady,Sunil Menon,Indian National Congress,4631,46,4677,1.93,241754,4677,114009,False
+Thiruvambady,Sunil Roy,Independent,2013,20,2033,0.84,241754,2033,114009,False
+Kondotty,Anita Kumar,Bharatiya Janata Party,44767,452,45219,22.73,198935,45219,45219,True
+Kondotty,Manoj Nair,Indian Union Muslim League,42413,428,42841,21.54,198935,42841,45219,False
+Kondotty,Sanjay Roy,Communist Party of India (Marxist),32177,325,32502,16.34,198935,32502,45219,False
+Kondotty,Amit Sen,Indian National Congress,22394,226,22620,11.37,198935,22620,45219,False
+Kondotty,Sunil Patel,None of the Above,9703,98,9801,4.93,198935,9801,45219,False
+Kondotty,Suresh Sharma,Communist Party of India,7239,73,7312,3.68,198935,7312,45219,False
+Kondotty,Ramesh Patel,Independent,1228,12,1240,0.62,198935,1240,45219,False
+Eranad,Manoj Sharma,Indian National Congress,49917,504,50421,32.93,153133,50421,50421,True
+Eranad,Sanjay Sen,Communist Party of India,20269,204,20473,13.37,153133,20473,50421,False
+Eranad,Anjali Sen,Communist Party of India (Marxist),15345,155,15500,10.12,153133,15500,50421,False
+Eranad,Manoj Kumar,None of the Above,14201,143,14344,9.37,153133,14344,50421,False
+Eranad,Ramesh Roy,Bharatiya Janata Party,13315,134,13449,8.78,153133,13449,50421,False
+Eranad,Sanjay Nair,Indian Union Muslim League,4864,49,4913,3.21,153133,4913,50421,False
+Eranad,Kavita Sharma,Independent,2100,21,2121,1.39,153133,2121,50421,False
+Nilambur,Priya Sen,Communist Party of India (Marxist),49694,501,50195,23.97,209421,50195,50195,True
+Nilambur,Priya Sharma,Communist Party of India,34419,347,34766,16.6,209421,34766,50195,False
+Nilambur,Suresh Menon,Bharatiya Janata Party,20384,205,20589,9.83,209421,20589,50195,False
+Nilambur,Manoj Sharma,Indian Union Muslim League,18500,186,18686,8.92,209421,18686,50195,False
+Nilambur,Anjali Gogoi,Indian National Congress,8063,81,8144,3.89,209421,8144,50195,False
+Nilambur,Anita Patel,None of the Above,6737,68,6805,3.25,209421,6805,50195,False
+Nilambur,Suresh Reddy,Independent,4756,48,4804,2.29,209421,4804,50195,False
+Wandoor,Deepa Reddy,Indian National Congress,56541,571,57112,37.11,153918,57112,57112,True
+Wandoor,Deepa Sen,Communist Party of India (Marxist),24852,251,25103,16.31,153918,25103,57112,False
+Wandoor,Anita Sharma,Indian Union Muslim League,20782,209,20991,13.64,153918,20991,57112,False
+Wandoor,Ramesh Gogoi,Bharatiya Janata Party,19820,200,20020,13.01,153918,20020,57112,False
+Wandoor,Amit Roy,None of the Above,9955,100,10055,6.53,153918,10055,57112,False
+Wandoor,Anjali Bora,Communist Party of India,8759,88,8847,5.75,153918,8847,57112,False
+Wandoor,Rahul Singh,Independent,2011,20,2031,1.32,153918,2031,57112,False
+Manjeri,Ramesh Nair,Communist Party of India,38585,389,38974,20.74,187935,38974,38974,True
+Manjeri,Anjali Das,Indian National Congress,38368,387,38755,20.62,187935,38755,38974,False
+Manjeri,Sunil Sen,Communist Party of India (Marxist),24058,243,24301,12.93,187935,24301,38974,False
+Manjeri,Rahul Patel,Indian Union Muslim League,10900,110,11010,5.86,187935,11010,38974,False
+Manjeri,Rahul Das,None of the Above,4380,44,4424,2.35,187935,4424,38974,False
+Manjeri,Amit Bora,Independent,3142,31,3173,1.69,187935,3173,38974,False
+Manjeri,Manoj Sen,Bharatiya Janata Party,2122,21,2143,1.14,187935,2143,38974,False
+Perinthalmanna,Suresh Reddy,Communist Party of India,62242,628,62870,40.62,154787,62870,62870,True
+Perinthalmanna,Anjali Das,Indian National Congress,22206,224,22430,14.49,154787,22430,62870,False
+Perinthalmanna,Kavita Nair,Communist Party of India (Marxist),18541,187,18728,12.1,154787,18728,62870,False
+Perinthalmanna,Anita Nair,None of the Above,16826,169,16995,10.98,154787,16995,62870,False
+Perinthalmanna,Priya Roy,Indian Union Muslim League,9297,93,9390,6.07,154787,9390,62870,False
+Perinthalmanna,Sanjay Nair,Independent,4556,46,4602,2.97,154787,4602,62870,False
+Perinthalmanna,Kavita Das,Bharatiya Janata Party,1139,11,1150,0.74,154787,1150,62870,False
+Mankada,Ramesh Das,Communist Party of India,30071,303,30374,19.04,159545,30374,30374,True
+Mankada,Sunil Kumar,Communist Party of India (Marxist),27860,281,28141,17.64,159545,28141,30374,False
+Mankada,Anjali Singh,Indian National Congress,20893,211,21104,13.23,159545,21104,30374,False
+Mankada,Suresh Sharma,Indian Union Muslim League,10776,108,10884,6.82,159545,10884,30374,False
+Mankada,Rahul Gogoi,Independent,3784,38,3822,2.4,159545,3822,30374,False
+Mankada,Priya Reddy,Bharatiya Janata Party,2156,21,2177,1.36,159545,2177,30374,False
+Mankada,Manoj Patel,None of the Above,1270,12,1282,0.8,159545,1282,30374,False
+Malappuram,Sanjay Singh,Communist Party of India (Marxist),68434,691,69125,32.18,214823,69125,69125,True
+Malappuram,Sunil Patel,Indian Union Muslim League,17550,177,17727,8.25,214823,17727,69125,False
+Malappuram,Suresh Nair,Bharatiya Janata Party,13217,133,13350,6.21,214823,13350,69125,False
+Malappuram,Sanjay Patel,Communist Party of India,13024,131,13155,6.12,214823,13155,69125,False
+Malappuram,Sunil Singh,Indian National Congress,10195,102,10297,4.79,214823,10297,69125,False
+Malappuram,Priya Bora,Independent,3219,32,3251,1.51,214823,3251,69125,False
+Malappuram,Anita Bora,None of the Above,303,3,306,0.14,214823,306,69125,False
+Vengara,Anjali Kumar,Communist Party of India (Marxist),42433,428,42861,22.91,187080,42861,42861,True
+Vengara,Kavita Gogoi,Indian Union Muslim League,27813,280,28093,15.02,187080,28093,42861,False
+Vengara,Manoj Kumar,Indian National Congress,25172,254,25426,13.59,187080,25426,42861,False
+Vengara,Anita Sharma,Communist Party of India,21651,218,21869,11.69,187080,21869,42861,False
+Vengara,Ramesh Bora,Bharatiya Janata Party,18617,188,18805,10.05,187080,18805,42861,False
+Vengara,Rahul Patel,None of the Above,7650,77,7727,4.13,187080,7727,42861,False
+Vengara,Priya Roy,Independent,4629,46,4675,2.5,187080,4675,42861,False
+Vallikkunnu,Deepa Gogoi,Communist Party of India (Marxist),78298,790,79088,35.78,221011,79088,79088,True
+Vallikkunnu,Anita Singh,Communist Party of India,40469,408,40877,18.5,221011,40877,79088,False
+Vallikkunnu,Sunil Nair,Indian National Congress,24360,246,24606,11.13,221011,24606,79088,False
+Vallikkunnu,Anita Roy,Bharatiya Janata Party,13460,135,13595,6.15,221011,13595,79088,False
+Vallikkunnu,Sanjay Singh,None of the Above,9339,94,9433,4.27,221011,9433,79088,False
+Vallikkunnu,Anita Kumar,Indian Union Muslim League,8328,84,8412,3.81,221011,8412,79088,False
+Vallikkunnu,Ramesh Kumar,Independent,4581,46,4627,2.09,221011,4627,79088,False
+Tirurangadi,Manoj Reddy,Indian National Congress,58400,589,58989,23.77,248198,58989,58989,True
+Tirurangadi,Sunil Patel,Communist Party of India (Marxist),31750,320,32070,12.92,248198,32070,58989,False
+Tirurangadi,Sunil Sen,None of the Above,24080,243,24323,9.8,248198,24323,58989,False
+Tirurangadi,Anita Kumar,Communist Party of India,15706,158,15864,6.39,248198,15864,58989,False
+Tirurangadi,Rahul Sharma,Indian Union Muslim League,14773,149,14922,6.01,248198,14922,58989,False
+Tirurangadi,Amit Sen,Bharatiya Janata Party,9760,98,9858,3.97,248198,9858,58989,False
+Tirurangadi,Suresh Gogoi,Independent,1684,17,1701,0.69,248198,1701,58989,False
+Tanur,Amit Roy,Communist Party of India,59831,604,60435,32.32,186994,60435,60435,True
+Tanur,Ramesh Bora,Communist Party of India (Marxist),36060,364,36424,19.48,186994,36424,60435,False
+Tanur,Sunil Roy,Indian Union Muslim League,29924,302,30226,16.16,186994,30226,60435,False
+Tanur,Anita Sen,Bharatiya Janata Party,13499,136,13635,7.29,186994,13635,60435,False
+Tanur,Manoj Menon,None of the Above,9835,99,9934,5.31,186994,9934,60435,False
+Tanur,Kavita Bora,Indian National Congress,5645,57,5702,3.05,186994,5702,60435,False
+Tanur,Suresh Sharma,Independent,1063,10,1073,0.57,186994,1073,60435,False
+Tirur,Priya Nair,Communist Party of India (Marxist),66542,672,67214,36.49,184189,67214,67214,True
+Tirur,Kavita Sen,Communist Party of India,14522,146,14668,7.96,184189,14668,67214,False
+Tirur,Manoj Reddy,Indian Union Muslim League,12390,125,12515,6.79,184189,12515,67214,False
+Tirur,Kavita Kumar,None of the Above,7920,79,7999,4.34,184189,7999,67214,False
+Tirur,Anjali Bora,Indian National Congress,3574,36,3610,1.96,184189,3610,67214,False
+Tirur,Rahul Sharma,Independent,2581,26,2607,1.42,184189,2607,67214,False
+Tirur,Anjali Gogoi,Bharatiya Janata Party,1555,15,1570,0.85,184189,1570,67214,False
+Kottakkal,Priya Bora,Communist Party of India,46521,469,46990,26.43,177803,46990,46990,True
+Kottakkal,Priya Sen,Indian Union Muslim League,28428,287,28715,16.15,177803,28715,46990,False
+Kottakkal,Suresh Sharma,Communist Party of India (Marxist),16309,164,16473,9.26,177803,16473,46990,False
+Kottakkal,Sanjay Nair,Indian National Congress,5099,51,5150,2.9,177803,5150,46990,False
+Kottakkal,Suresh Patel,None of the Above,4742,47,4789,2.69,177803,4789,46990,False
+Kottakkal,Sanjay Das,Independent,3860,38,3898,2.19,177803,3898,46990,False
+Kottakkal,Suresh Menon,Bharatiya Janata Party,246,2,248,0.14,177803,248,46990,False
+Thavanur,Kavita Gogoi,Communist Party of India (Marxist),62340,629,62969,40.25,156454,62969,62969,True
+Thavanur,Kavita Singh,Indian National Congress,39825,402,40227,25.71,156454,40227,62969,False
+Thavanur,Rahul Sen,Indian Union Muslim League,19686,198,19884,12.71,156454,19884,62969,False
+Thavanur,Ramesh Menon,Bharatiya Janata Party,14502,146,14648,9.36,156454,14648,62969,False
+Thavanur,Sanjay Bora,None of the Above,11871,119,11990,7.66,156454,11990,62969,False
+Thavanur,Kavita Nair,Independent,3425,34,3459,2.21,156454,3459,62969,False
+Thavanur,Suresh Kumar,Communist Party of India,166,1,167,0.11,156454,167,62969,False
+Ponnani,Priya Nair,Communist Party of India (Marxist),63344,639,63983,26.91,237810,63983,63983,True
+Ponnani,Sunil Nair,Communist Party of India,53181,537,53718,22.59,237810,53718,63983,False
+Ponnani,Ramesh Roy,Indian National Congress,26057,263,26320,11.07,237810,26320,63983,False
+Ponnani,Sanjay Das,Indian Union Muslim League,23281,235,23516,9.89,237810,23516,63983,False
+Ponnani,Ramesh Das,Bharatiya Janata Party,21069,212,21281,8.95,237810,21281,63983,False
+Ponnani,Manoj Sen,None of the Above,9490,95,9585,4.03,237810,9585,63983,False
+Ponnani,Suresh Gogoi,Independent,3482,35,3517,1.48,237810,3517,63983,False
+Thrithala,Deepa Gogoi,Communist Party of India (Marxist),44013,444,44457,26.95,164951,44457,44457,True
+Thrithala,Rahul Sharma,Indian National Congress,38832,392,39224,23.78,164951,39224,44457,False
+Thrithala,Suresh Singh,None of the Above,19284,194,19478,11.81,164951,19478,44457,False
+Thrithala,Sanjay Singh,Bharatiya Janata Party,6695,67,6762,4.1,164951,6762,44457,False
+Thrithala,Ramesh Nair,Independent,2204,22,2226,1.35,164951,2226,44457,False
+Thrithala,Deepa Kumar,Communist Party of India,909,9,918,0.56,164951,918,44457,False
+Thrithala,Manoj Singh,Indian Union Muslim League,151,1,152,0.09,164951,152,44457,False
+Pattambi,Kavita Kumar,Communist Party of India (Marxist),89843,907,90750,38.6,235085,90750,90750,True
+Pattambi,Priya Sharma,Indian Union Muslim League,62725,633,63358,26.95,235085,63358,90750,False
+Pattambi,Priya Roy,Bharatiya Janata Party,30773,310,31083,13.22,235085,31083,90750,False
+Pattambi,Ramesh Reddy,None of the Above,11708,118,11826,5.03,235085,11826,90750,False
+Pattambi,Priya Bora,Communist Party of India,8088,81,8169,3.47,235085,8169,90750,False
+Pattambi,Rahul Menon,Indian National Congress,7751,78,7829,3.33,235085,7829,90750,False
+Pattambi,Priya Reddy,Independent,3132,31,3163,1.35,235085,3163,90750,False
+Shornur,Priya Bora,Communist Party of India (Marxist),93432,943,94375,49.86,189279,94375,94375,True
+Shornur,Amit Singh,Indian Union Muslim League,24628,248,24876,13.14,189279,24876,94375,False
+Shornur,Amit Roy,Communist Party of India,21479,216,21695,11.46,189279,21695,94375,False
+Shornur,Suresh Nair,None of the Above,21404,216,21620,11.42,189279,21620,94375,False
+Shornur,Sanjay Reddy,Independent,1486,15,1501,0.79,189279,1501,94375,False
+Shornur,Kavita Roy,Bharatiya Janata Party,1059,10,1069,0.56,189279,1069,94375,False
+Shornur,Rahul Sen,Indian National Congress,971,9,980,0.52,189279,980,94375,False
+Ottapalam,Sanjay Sharma,Communist Party of India,98191,991,99182,42.28,234559,99182,99182,True
+Ottapalam,Sunil Roy,Indian Union Muslim League,37805,381,38186,16.28,234559,38186,99182,False
+Ottapalam,Ramesh Singh,Communist Party of India (Marxist),34950,353,35303,15.05,234559,35303,99182,False
+Ottapalam,Manoj Menon,None of the Above,15631,157,15788,6.73,234559,15788,99182,False
+Ottapalam,Anjali Das,Indian National Congress,8287,83,8370,3.57,234559,8370,99182,False
+Ottapalam,Deepa Gogoi,Independent,4502,45,4547,1.94,234559,4547,99182,False
+Ottapalam,Deepa Kumar,Bharatiya Janata Party,331,3,334,0.14,234559,334,99182,False
+Kongad,Sanjay Menon,Communist Party of India,91008,919,91927,43.42,211718,91927,91927,True
+Kongad,Anita Singh,Indian National Congress,50851,513,51364,24.26,211718,51364,91927,False
+Kongad,Amit Sen,Indian Union Muslim League,19876,200,20076,9.48,211718,20076,91927,False
+Kongad,Amit Gogoi,Communist Party of India (Marxist),10449,105,10554,4.98,211718,10554,91927,False
+Kongad,Priya Das,None of the Above,7035,71,7106,3.36,211718,7106,91927,False
+Kongad,Sanjay Singh,Bharatiya Janata Party,5266,53,5319,2.51,211718,5319,91927,False
+Kongad,Deepa Das,Independent,2465,24,2489,1.18,211718,2489,91927,False
+Mannarkkad,Sanjay Reddy,Indian Union Muslim League,57168,577,57745,31.38,184031,57745,57745,True
+Mannarkkad,Suresh Sharma,Communist Party of India (Marxist),27978,282,28260,15.36,184031,28260,57745,False
+Mannarkkad,Priya Reddy,Communist Party of India,26976,272,27248,14.81,184031,27248,57745,False
+Mannarkkad,Suresh Bora,Bharatiya Janata Party,16407,165,16572,9.01,184031,16572,57745,False
+Mannarkkad,Deepa Reddy,Indian National Congress,12266,123,12389,6.73,184031,12389,57745,False
+Mannarkkad,Sunil Kumar,None of the Above,8800,88,8888,4.83,184031,8888,57745,False
+Mannarkkad,Manoj Reddy,Independent,3530,35,3565,1.94,184031,3565,57745,False
+Malampuzha,Priya Patel,Indian National Congress,67903,685,68588,30.99,221301,68588,68588,True
+Malampuzha,Priya Das,Communist Party of India (Marxist),36656,370,37026,16.73,221301,37026,68588,False
+Malampuzha,Manoj Sharma,Indian Union Muslim League,29890,301,30191,13.64,221301,30191,68588,False
+Malampuzha,Anjali Menon,Bharatiya Janata Party,24840,250,25090,11.34,221301,25090,68588,False
+Malampuzha,Rahul Das,None of the Above,19928,201,20129,9.1,221301,20129,68588,False
+Malampuzha,Anita Das,Independent,3252,32,3284,1.48,221301,3284,68588,False
+Malampuzha,Anita Das,Communist Party of India,3136,31,3167,1.43,221301,3167,68588,False
+Palakkad,Kavita Patel,Communist Party of India,64096,647,64743,35.53,182243,64743,64743,True
+Palakkad,Amit Roy,Indian Union Muslim League,28642,289,28931,15.87,182243,28931,64743,False
+Palakkad,Ramesh Singh,Bharatiya Janata Party,24322,245,24567,13.48,182243,24567,64743,False
+Palakkad,Priya Singh,Indian National Congress,14353,144,14497,7.95,182243,14497,64743,False
+Palakkad,Suresh Singh,None of the Above,13804,139,13943,7.65,182243,13943,64743,False
+Palakkad,Priya Gogoi,Communist Party of India (Marxist),10668,107,10775,5.91,182243,10775,64743,False
+Palakkad,Sunil Menon,Independent,3690,37,3727,2.05,182243,3727,64743,False
+Tarur,Amit Singh,Communist Party of India (Marxist),89025,899,89924,37.01,242950,89924,89924,True
+Tarur,Anjali Roy,Communist Party of India,45270,457,45727,18.82,242950,45727,89924,False
+Tarur,Priya Singh,Indian Union Muslim League,32914,332,33246,13.68,242950,33246,89924,False
+Tarur,Sanjay Sen,Bharatiya Janata Party,28071,283,28354,11.67,242950,28354,89924,False
+Tarur,Priya Bora,Indian National Congress,10700,108,10808,4.45,242950,10808,89924,False
+Tarur,Anjali Nair,None of the Above,5869,59,5928,2.44,242950,5928,89924,False
+Tarur,Anita Gogoi,Independent,254,2,256,0.11,242950,256,89924,False
+Chittur,Amit Menon,Communist Party of India (Marxist),77132,779,77911,37.9,205575,77911,77911,True
+Chittur,Ramesh Singh,Communist Party of India,46933,474,47407,23.06,205575,47407,77911,False
+Chittur,Kavita Kumar,Indian Union Muslim League,22580,228,22808,11.09,205575,22808,77911,False
+Chittur,Kavita Kumar,None of the Above,12612,127,12739,6.2,205575,12739,77911,False
+Chittur,Amit Sen,Indian National Congress,12239,123,12362,6.01,205575,12362,77911,False
+Chittur,Sanjay Menon,Bharatiya Janata Party,12091,122,12213,5.94,205575,12213,77911,False
+Chittur,Priya Patel,Independent,3881,39,3920,1.91,205575,3920,77911,False
+Nenmara,Amit Nair,Communist Party of India (Marxist),79795,806,80601,40.92,196963,80601,80601,True
+Nenmara,Suresh Bora,Communist Party of India,56063,566,56629,28.75,196963,56629,80601,False
+Nenmara,Priya Sen,None of the Above,15643,158,15801,8.02,196963,15801,80601,False
+Nenmara,Amit Sen,Bharatiya Janata Party,14829,149,14978,7.6,196963,14978,80601,False
+Nenmara,Anjali Bora,Independent,4650,46,4696,2.38,196963,4696,80601,False
+Nenmara,Priya Bora,Indian National Congress,2349,23,2372,1.2,196963,2372,80601,False
+Nenmara,Ramesh Gogoi,Indian Union Muslim League,1636,16,1652,0.84,196963,1652,80601,False
+Alathur,Rahul Singh,Communist Party of India,38533,389,38922,21.06,184822,38922,38922,True
+Alathur,Sunil Gogoi,Communist Party of India (Marxist),28831,291,29122,15.76,184822,29122,38922,False
+Alathur,Sanjay Nair,None of the Above,27181,274,27455,14.85,184822,27455,38922,False
+Alathur,Kavita Menon,Indian Union Muslim League,12241,123,12364,6.69,184822,12364,38922,False
+Alathur,Suresh Singh,Indian National Congress,10269,103,10372,5.61,184822,10372,38922,False
+Alathur,Sanjay Singh,Independent,1940,19,1959,1.06,184822,1959,38922,False
+Alathur,Suresh Bora,Bharatiya Janata Party,1338,13,1351,0.73,184822,1351,38922,False
+Chelakkara,Manoj Roy,Communist Party of India (Marxist),59399,599,59998,37.92,158209,59998,59998,True
+Chelakkara,Sanjay Nair,Communist Party of India,47826,483,48309,30.53,158209,48309,59998,False
+Chelakkara,Sunil Nair,Indian National Congress,21632,218,21850,13.81,158209,21850,59998,False
+Chelakkara,Anjali Gogoi,Indian Union Muslim League,12222,123,12345,7.8,158209,12345,59998,False
+Chelakkara,Anita Roy,Bharatiya Janata Party,10876,109,10985,6.94,158209,10985,59998,False
+Chelakkara,Kavita Gogoi,None of the Above,1320,13,1333,0.84,158209,1333,59998,False
+Chelakkara,Deepa Reddy,Independent,277,2,279,0.18,158209,279,59998,False
+Kunnamkulam,Manoj Bora,Communist Party of India (Marxist),95658,966,96624,48.35,199850,96624,96624,True
+Kunnamkulam,Sanjay Gogoi,Indian National Congress,35722,360,36082,18.05,199850,36082,96624,False
+Kunnamkulam,Rahul Patel,Communist Party of India,29473,297,29770,14.9,199850,29770,96624,False
+Kunnamkulam,Kavita Sen,Indian Union Muslim League,11724,118,11842,5.93,199850,11842,96624,False
+Kunnamkulam,Kavita Patel,Bharatiya Janata Party,11678,117,11795,5.9,199850,11795,96624,False
+Kunnamkulam,Sunil Sen,None of the Above,2079,20,2099,1.05,199850,2099,96624,False
+Kunnamkulam,Kavita Gogoi,Independent,1298,13,1311,0.66,199850,1311,96624,False
+Guruvayur,Manoj Gogoi,Communist Party of India,78140,789,78929,32.29,244475,78929,78929,True
+Guruvayur,Manoj Sharma,Communist Party of India (Marxist),45545,460,46005,18.82,244475,46005,78929,False
+Guruvayur,Sunil Sen,Bharatiya Janata Party,43295,437,43732,17.89,244475,43732,78929,False
+Guruvayur,Suresh Nair,Indian National Congress,25599,258,25857,10.58,244475,25857,78929,False
+Guruvayur,Sunil Sharma,None of the Above,12822,129,12951,5.3,244475,12951,78929,False
+Guruvayur,Kavita Singh,Indian Union Muslim League,6080,61,6141,2.51,244475,6141,78929,False
+Guruvayur,Anjali Bora,Independent,4403,44,4447,1.82,244475,4447,78929,False
+Manalur,Anjali Menon,Communist Party of India (Marxist),72307,730,73037,33.16,220281,73037,73037,True
+Manalur,Suresh Reddy,Indian Union Muslim League,39296,396,39692,18.02,220281,39692,73037,False
+Manalur,Anjali Roy,Communist Party of India,39252,396,39648,18.0,220281,39648,73037,False
+Manalur,Kavita Patel,Bharatiya Janata Party,19778,199,19977,9.07,220281,19977,73037,False
+Manalur,Deepa Das,Indian National Congress,14674,148,14822,6.73,220281,14822,73037,False
+Manalur,Sanjay Nair,None of the Above,10291,103,10394,4.72,220281,10394,73037,False
+Manalur,Deepa Menon,Independent,3515,35,3550,1.61,220281,3550,73037,False
+Wadakkanchery,Anjali Singh,Indian Union Muslim League,40588,409,40997,25.31,162008,40997,40997,True
+Wadakkanchery,Priya Singh,Communist Party of India,35854,362,36216,22.35,162008,36216,40997,False
+Wadakkanchery,Sanjay Singh,Communist Party of India (Marxist),20937,211,21148,13.05,162008,21148,40997,False
+Wadakkanchery,Suresh Roy,Indian National Congress,19995,201,20196,12.47,162008,20196,40997,False
+Wadakkanchery,Anjali Menon,Bharatiya Janata Party,14477,146,14623,9.03,162008,14623,40997,False
+Wadakkanchery,Suresh Menon,Independent,1107,11,1118,0.69,162008,1118,40997,False
+Wadakkanchery,Sunil Kumar,None of the Above,1009,10,1019,0.63,162008,1019,40997,False
+Ollur,Priya Reddy,Indian Union Muslim League,42963,433,43396,25.84,167919,43396,43396,True
+Ollur,Anita Singh,Communist Party of India,33526,338,33864,20.17,167919,33864,43396,False
+Ollur,Anita Das,Indian National Congress,31069,313,31382,18.69,167919,31382,43396,False
+Ollur,Ramesh Singh,Bharatiya Janata Party,17784,179,17963,10.7,167919,17963,43396,False
+Ollur,Sunil Sharma,Communist Party of India (Marxist),14782,149,14931,8.89,167919,14931,43396,False
+Ollur,Priya Das,None of the Above,6322,63,6385,3.8,167919,6385,43396,False
+Ollur,Suresh Menon,Independent,4636,46,4682,2.79,167919,4682,43396,False
+Thrissur,Rahul Sharma,Communist Party of India,85203,860,86063,41.64,206706,86063,86063,True
+Thrissur,Deepa Sen,Indian Union Muslim League,17798,179,17977,8.7,206706,17977,86063,False
+Thrissur,Deepa Reddy,Indian National Congress,17072,172,17244,8.34,206706,17244,86063,False
+Thrissur,Amit Reddy,None of the Above,9575,96,9671,4.68,206706,9671,86063,False
+Thrissur,Sanjay Nair,Communist Party of India (Marxist),8628,87,8715,4.22,206706,8715,86063,False
+Thrissur,Ramesh Menon,Bharatiya Janata Party,6389,64,6453,3.12,206706,6453,86063,False
+Thrissur,Kavita Patel,Independent,175,1,176,0.09,206706,176,86063,False
+Nattika,Sanjay Sen,Communist Party of India (Marxist),34892,352,35244,19.96,176572,35244,35244,True
+Nattika,Anjali Sharma,Communist Party of India,32722,330,33052,18.72,176572,33052,35244,False
+Nattika,Anjali Gogoi,Indian National Congress,31481,317,31798,18.01,176572,31798,35244,False
+Nattika,Ramesh Sharma,Indian Union Muslim League,27138,274,27412,15.52,176572,27412,35244,False
+Nattika,Suresh Das,Bharatiya Janata Party,24156,244,24400,13.82,176572,24400,35244,False
+Nattika,Manoj Bora,None of the Above,10579,106,10685,6.05,176572,10685,35244,False
+Nattika,Amit Reddy,Independent,1393,14,1407,0.8,176572,1407,35244,False
+Kaipamangalam,Sanjay Bora,Communist Party of India (Marxist),96871,978,97849,42.18,231975,97849,97849,True
+Kaipamangalam,Anjali Gogoi,Communist Party of India,32934,332,33266,14.34,231975,33266,97849,False
+Kaipamangalam,Anita Roy,Indian National Congress,29117,294,29411,12.68,231975,29411,97849,False
+Kaipamangalam,Amit Bora,Indian Union Muslim League,11174,112,11286,4.87,231975,11286,97849,False
+Kaipamangalam,Rahul Das,None of the Above,7022,70,7092,3.06,231975,7092,97849,False
+Kaipamangalam,Manoj Singh,Bharatiya Janata Party,2397,24,2421,1.04,231975,2421,97849,False
+Kaipamangalam,Kavita Das,Independent,1442,14,1456,0.63,231975,1456,97849,False
+Irinjalakuda,Anita Roy,Communist Party of India (Marxist),64877,655,65532,40.56,161558,65532,65532,True
+Irinjalakuda,Ramesh Kumar,Communist Party of India,30327,306,30633,18.96,161558,30633,65532,False
+Irinjalakuda,Sunil Sen,Indian Union Muslim League,24943,251,25194,15.59,161558,25194,65532,False
+Irinjalakuda,Ramesh Bora,None of the Above,9449,95,9544,5.91,161558,9544,65532,False
+Irinjalakuda,Deepa Patel,Bharatiya Janata Party,6199,62,6261,3.88,161558,6261,65532,False
+Irinjalakuda,Manoj Roy,Indian National Congress,710,7,717,0.44,161558,717,65532,False
+Irinjalakuda,Sanjay Singh,Independent,179,1,180,0.11,161558,180,65532,False
+Puthukkad,Anita Roy,Communist Party of India,81467,822,82289,33.52,245479,82289,82289,True
+Puthukkad,Anita Sen,Communist Party of India (Marxist),57532,581,58113,23.67,245479,58113,82289,False
+Puthukkad,Priya Reddy,Bharatiya Janata Party,33918,342,34260,13.96,245479,34260,82289,False
+Puthukkad,Sunil Roy,Indian National Congress,19158,193,19351,7.88,245479,19351,82289,False
+Puthukkad,Sanjay Patel,Indian Union Muslim League,11951,120,12071,4.92,245479,12071,82289,False
+Puthukkad,Deepa Bora,None of the Above,9522,96,9618,3.92,245479,9618,82289,False
+Puthukkad,Suresh Kumar,Independent,1461,14,1475,0.6,245479,1475,82289,False
+Chalakudy,Suresh Gogoi,Communist Party of India,88714,896,89610,39.67,225868,89610,89610,True
+Chalakudy,Anita Singh,Bharatiya Janata Party,44179,446,44625,19.76,225868,44625,89610,False
+Chalakudy,Sanjay Menon,Communist Party of India (Marxist),17229,174,17403,7.7,225868,17403,89610,False
+Chalakudy,Amit Gogoi,Indian National Congress,10871,109,10980,4.86,225868,10980,89610,False
+Chalakudy,Anjali Das,Independent,3600,36,3636,1.61,225868,3636,89610,False
+Chalakudy,Anita Sharma,Indian Union Muslim League,3289,33,3322,1.47,225868,3322,89610,False
+Chalakudy,Rahul Bora,None of the Above,1149,11,1160,0.51,225868,1160,89610,False
+Kodungallur,Sanjay Menon,Communist Party of India,37167,375,37542,22.66,165670,37542,37542,True
+Kodungallur,Manoj Sen,Indian National Congress,35603,359,35962,21.71,165670,35962,37542,False
+Kodungallur,Manoj Reddy,Communist Party of India (Marxist),34535,348,34883,21.06,165670,34883,37542,False
+Kodungallur,Ramesh Menon,Bharatiya Janata Party,18301,184,18485,11.16,165670,18485,37542,False
+Kodungallur,Deepa Nair,None of the Above,8954,90,9044,5.46,165670,9044,37542,False
+Kodungallur,Sunil Roy,Independent,3821,38,3859,2.33,165670,3859,37542,False
+Kodungallur,Anita Singh,Indian Union Muslim League,384,3,387,0.23,165670,387,37542,False
+Perumbavoor,Priya Reddy,Indian National Congress,40061,404,40465,26.66,151787,40465,40465,True
+Perumbavoor,Ramesh Reddy,Communist Party of India,35941,363,36304,23.92,151787,36304,40465,False
+Perumbavoor,Manoj Gogoi,Communist Party of India (Marxist),26532,268,26800,17.66,151787,26800,40465,False
+Perumbavoor,Sanjay Singh,Indian Union Muslim League,21754,219,21973,14.48,151787,21973,40465,False
+Perumbavoor,Sunil Sharma,Bharatiya Janata Party,12595,127,12722,8.38,151787,12722,40465,False
+Perumbavoor,Kavita Roy,Independent,2946,29,2975,1.96,151787,2975,40465,False
+Perumbavoor,Suresh Patel,None of the Above,1571,15,1586,1.04,151787,1586,40465,False
+Angamaly,Manoj Sen,Communist Party of India (Marxist),55213,557,55770,25.91,215246,55770,55770,True
+Angamaly,Anjali Das,Communist Party of India,55131,556,55687,25.87,215246,55687,55770,False
+Angamaly,Anjali Roy,Indian National Congress,26132,263,26395,12.26,215246,26395,55770,False
+Angamaly,Ramesh Menon,None of the Above,21958,221,22179,10.3,215246,22179,55770,False
+Angamaly,Sunil Singh,Bharatiya Janata Party,21352,215,21567,10.02,215246,21567,55770,False
+Angamaly,Anita Menon,Indian Union Muslim League,4255,42,4297,2.0,215246,4297,55770,False
+Angamaly,Rahul Sharma,Independent,521,5,526,0.24,215246,526,55770,False
+Aluva,Ramesh Menon,Bharatiya Janata Party,44992,454,45446,21.81,208405,45446,45446,True
+Aluva,Manoj Gogoi,Indian Union Muslim League,40752,411,41163,19.75,208405,41163,45446,False
+Aluva,Amit Patel,Communist Party of India,33957,342,34299,16.46,208405,34299,45446,False
+Aluva,Suresh Sen,None of the Above,27311,275,27586,13.24,208405,27586,45446,False
+Aluva,Deepa Bora,Communist Party of India (Marxist),24631,248,24879,11.94,208405,24879,45446,False
+Aluva,Sunil Patel,Indian National Congress,1546,15,1561,0.75,208405,1561,45446,False
+Aluva,Ramesh Sen,Independent,185,1,186,0.09,208405,186,45446,False
+Kalamassery,Priya Kumar,Communist Party of India (Marxist),34436,347,34783,22.64,153625,34783,34783,True
+Kalamassery,Sunil Nair,Indian National Congress,25603,258,25861,16.83,153625,25861,34783,False
+Kalamassery,Sanjay Patel,Communist Party of India,19233,194,19427,12.65,153625,19427,34783,False
+Kalamassery,Suresh Menon,None of the Above,14455,146,14601,9.5,153625,14601,34783,False
+Kalamassery,Sanjay Nair,Indian Union Muslim League,14006,141,14147,9.21,153625,14147,34783,False
+Kalamassery,Priya Das,Bharatiya Janata Party,4818,48,4866,3.17,153625,4866,34783,False
+Kalamassery,Kavita Reddy,Independent,3920,39,3959,2.58,153625,3959,34783,False
+Paravur,Sunil Menon,Indian National Congress,41034,414,41448,20.45,202657,41448,41448,True
+Paravur,Kavita Das,Communist Party of India (Marxist),38766,391,39157,19.32,202657,39157,41448,False
+Paravur,Sanjay Singh,Communist Party of India,25323,255,25578,12.62,202657,25578,41448,False
+Paravur,Suresh Gogoi,Bharatiya Janata Party,24173,244,24417,12.05,202657,24417,41448,False
+Paravur,Ramesh Roy,Indian Union Muslim League,23629,238,23867,11.78,202657,23867,41448,False
+Paravur,Ramesh Roy,None of the Above,21058,212,21270,10.5,202657,21270,41448,False
+Paravur,Priya Menon,Independent,4526,45,4571,2.26,202657,4571,41448,False
+Vypin,Amit Kumar,Communist Party of India (Marxist),83928,847,84775,45.54,186172,84775,84775,True
+Vypin,Sanjay Patel,Communist Party of India,43970,444,44414,23.86,186172,44414,84775,False
+Vypin,Amit Menon,Indian National Congress,12712,128,12840,6.9,186172,12840,84775,False
+Vypin,Rahul Roy,None of the Above,7991,80,8071,4.34,186172,8071,84775,False
+Vypin,Anita Kumar,Indian Union Muslim League,5576,56,5632,3.03,186172,5632,84775,False
+Vypin,Suresh Singh,Independent,3931,39,3970,2.13,186172,3970,84775,False
+Vypin,Kavita Singh,Bharatiya Janata Party,2880,29,2909,1.56,186172,2909,84775,False
+Kochi,Kavita Das,Communist Party of India (Marxist),81916,827,82743,46.4,178313,82743,82743,True
+Kochi,Anjali Singh,Communist Party of India,41568,419,41987,23.55,178313,41987,82743,False
+Kochi,Ramesh Sen,Indian Union Muslim League,14127,142,14269,8.0,178313,14269,82743,False
+Kochi,Manoj Das,Bharatiya Janata Party,12622,127,12749,7.15,178313,12749,82743,False
+Kochi,Ramesh Reddy,None of the Above,5850,59,5909,3.31,178313,5909,82743,False
+Kochi,Manoj Kumar,Indian National Congress,4802,48,4850,2.72,178313,4850,82743,False
+Kochi,Amit Reddy,Independent,3155,31,3186,1.79,178313,3186,82743,False
+Thrippunithura,Deepa Bora,Communist Party of India (Marxist),82469,833,83302,42.64,195357,83302,83302,True
+Thrippunithura,Sanjay Bora,Communist Party of India,47362,478,47840,24.49,195357,47840,83302,False
+Thrippunithura,Manoj Patel,Bharatiya Janata Party,12145,122,12267,6.28,195357,12267,83302,False
+Thrippunithura,Anjali Kumar,None of the Above,11673,117,11790,6.04,195357,11790,83302,False
+Thrippunithura,Ramesh Kumar,Indian National Congress,4454,44,4498,2.3,195357,4498,83302,False
+Thrippunithura,Anjali Kumar,Indian Union Muslim League,2293,23,2316,1.19,195357,2316,83302,False
+Thrippunithura,Deepa Nair,Independent,1220,12,1232,0.63,195357,1232,83302,False
+Ernakulam,Manoj Patel,Communist Party of India (Marxist),82100,829,82929,45.02,184200,82929,82929,True
+Ernakulam,Suresh Patel,Communist Party of India,42765,431,43196,23.45,184200,43196,82929,False
+Ernakulam,Sanjay Das,None of the Above,12214,123,12337,6.7,184200,12337,82929,False
+Ernakulam,Ramesh Patel,Bharatiya Janata Party,10943,110,11053,6.0,184200,11053,82929,False
+Ernakulam,Deepa Roy,Indian Union Muslim League,9410,95,9505,5.16,184200,9505,82929,False
+Ernakulam,Rahul Nair,Indian National Congress,5484,55,5539,3.01,184200,5539,82929,False
+Ernakulam,Ramesh Gogoi,Independent,3951,39,3990,2.17,184200,3990,82929,False
+Thrikkakara,Manoj Sen,Communist Party of India (Marxist),91890,928,92818,48.59,191019,92818,92818,True
+Thrikkakara,Kavita Gogoi,Indian National Congress,36706,370,37076,19.41,191019,37076,92818,False
+Thrikkakara,Manoj Menon,Indian Union Muslim League,18978,191,19169,10.04,191019,19169,92818,False
+Thrikkakara,Deepa Das,Bharatiya Janata Party,13216,133,13349,6.99,191019,13349,92818,False
+Thrikkakara,Amit Gogoi,Communist Party of India,5848,59,5907,3.09,191019,5907,92818,False
+Thrikkakara,Sunil Sharma,None of the Above,2215,22,2237,1.17,191019,2237,92818,False
+Thrikkakara,Manoj Roy,Independent,1185,11,1196,0.63,191019,1196,92818,False
+Kunnathunad,Sanjay Bora,Indian National Congress,80543,813,81356,33.77,240934,81356,81356,True
+Kunnathunad,Ramesh Roy,Communist Party of India (Marxist),41542,419,41961,17.42,240934,41961,81356,False
+Kunnathunad,Deepa Singh,Indian Union Muslim League,26667,269,26936,11.18,240934,26936,81356,False
+Kunnathunad,Ramesh Singh,Communist Party of India,20568,207,20775,8.62,240934,20775,81356,False
+Kunnathunad,Sanjay Reddy,None of the Above,14776,149,14925,6.19,240934,14925,81356,False
+Kunnathunad,Sanjay Das,Independent,4720,47,4767,1.98,240934,4767,81356,False
+Kunnathunad,Ramesh Singh,Bharatiya Janata Party,1408,14,1422,0.59,240934,1422,81356,False
+Piravom,Anjali Bora,Communist Party of India (Marxist),97060,980,98040,40.13,244327,98040,98040,True
+Piravom,Sanjay Gogoi,Communist Party of India,39046,394,39440,16.14,244327,39440,98040,False
+Piravom,Sanjay Reddy,Indian National Congress,35517,358,35875,14.68,244327,35875,98040,False
+Piravom,Sanjay Das,Bharatiya Janata Party,22423,226,22649,9.27,244327,22649,98040,False
+Piravom,Anjali Gogoi,Indian Union Muslim League,13596,137,13733,5.62,244327,13733,98040,False
+Piravom,Sanjay Roy,None of the Above,11376,114,11490,4.7,244327,11490,98040,False
+Piravom,Suresh Bora,Independent,2579,26,2605,1.07,244327,2605,98040,False
+Muvattupuzha,Deepa Reddy,Communist Party of India (Marxist),83274,841,84115,44.01,191123,84115,84115,True
+Muvattupuzha,Sanjay Sharma,Communist Party of India,28232,285,28517,14.92,191123,28517,84115,False
+Muvattupuzha,Sanjay Bora,Bharatiya Janata Party,19335,195,19530,10.22,191123,19530,84115,False
+Muvattupuzha,Sanjay Roy,Indian National Congress,19107,192,19299,10.1,191123,19299,84115,False
+Muvattupuzha,Kavita Patel,Indian Union Muslim League,14275,144,14419,7.54,191123,14419,84115,False
+Muvattupuzha,Anjali Menon,None of the Above,9240,93,9333,4.88,191123,9333,84115,False
+Muvattupuzha,Amit Das,Independent,1989,20,2009,1.05,191123,2009,84115,False
+Kothamangalam,Rahul Roy,Indian National Congress,68045,687,68732,28.08,244794,68732,68732,True
+Kothamangalam,Ramesh Sen,Communist Party of India (Marxist),42768,432,43200,17.65,244794,43200,68732,False
+Kothamangalam,Anita Bora,Communist Party of India,37831,382,38213,15.61,244794,38213,68732,False
+Kothamangalam,Suresh Reddy,Indian Union Muslim League,36421,367,36788,15.03,244794,36788,68732,False
+Kothamangalam,Suresh Roy,Bharatiya Janata Party,12836,129,12965,5.3,244794,12965,68732,False
+Kothamangalam,Anita Menon,None of the Above,6745,68,6813,2.78,244794,6813,68732,False
+Kothamangalam,Sanjay Sharma,Independent,4453,44,4497,1.84,244794,4497,68732,False
+Devikulam,Sanjay Das,Communist Party of India (Marxist),33432,337,33769,22.31,151346,33769,33769,True
+Devikulam,Anita Roy,Communist Party of India,27669,279,27948,18.47,151346,27948,33769,False
+Devikulam,Manoj Patel,Indian National Congress,26132,263,26395,17.44,151346,26395,33769,False
+Devikulam,Deepa Sen,None of the Above,23563,238,23801,15.73,151346,23801,33769,False
+Devikulam,Suresh Roy,Indian Union Muslim League,1781,17,1798,1.19,151346,1798,33769,False
+Devikulam,Priya Singh,Bharatiya Janata Party,899,9,908,0.6,151346,908,33769,False
+Devikulam,Anita Sharma,Independent,450,4,454,0.3,151346,454,33769,False
+Udumbanchola,Suresh Singh,Communist Party of India (Marxist),92470,934,93404,48.64,192022,93404,93404,True
+Udumbanchola,Anita Sharma,Communist Party of India,45435,458,45893,23.9,192022,45893,93404,False
+Udumbanchola,Suresh Sharma,Bharatiya Janata Party,19175,193,19368,10.09,192022,19368,93404,False
+Udumbanchola,Suresh Nair,Indian Union Muslim League,8456,85,8541,4.45,192022,8541,93404,False
+Udumbanchola,Amit Sen,None of the Above,2255,22,2277,1.19,192022,2277,93404,False
+Udumbanchola,Anjali Kumar,Indian National Congress,1373,13,1386,0.72,192022,1386,93404,False
+Udumbanchola,Suresh Kumar,Independent,1014,10,1024,0.53,192022,1024,93404,False
+Thodupuzha,Priya Gogoi,Communist Party of India (Marxist),89796,907,90703,49.74,182358,90703,90703,True
+Thodupuzha,Manoj Roy,Communist Party of India,30018,303,30321,16.63,182358,30321,90703,False
+Thodupuzha,Anita Nair,Indian Union Muslim League,20475,206,20681,11.34,182358,20681,90703,False
+Thodupuzha,Anita Sharma,Bharatiya Janata Party,16775,169,16944,9.29,182358,16944,90703,False
+Thodupuzha,Rahul Sharma,Indian National Congress,2418,24,2442,1.34,182358,2442,90703,False
+Thodupuzha,Anita Gogoi,None of the Above,1622,16,1638,0.9,182358,1638,90703,False
+Thodupuzha,Deepa Gogoi,Independent,1312,13,1325,0.73,182358,1325,90703,False
+Idukki,Anjali Sen,Communist Party of India,83013,838,83851,34.32,244345,83851,83851,True
+Idukki,Priya Das,Communist Party of India (Marxist),72666,734,73400,30.04,244345,73400,83851,False
+Idukki,Ramesh Singh,None of the Above,22547,227,22774,9.32,244345,22774,83851,False
+Idukki,Manoj Menon,Indian National Congress,18093,182,18275,7.48,244345,18275,83851,False
+Idukki,Kavita Reddy,Indian Union Muslim League,5209,52,5261,2.15,244345,5261,83851,False
+Idukki,Rahul Menon,Bharatiya Janata Party,1638,16,1654,0.68,244345,1654,83851,False
+Idukki,Anjali Menon,Independent,751,7,758,0.31,244345,758,83851,False
+Peerumade,Anjali Bora,Communist Party of India,42745,431,43176,22.83,189116,43176,43176,True
+Peerumade,Amit Sen,Indian Union Muslim League,35764,361,36125,19.1,189116,36125,43176,False
+Peerumade,Sanjay Reddy,Communist Party of India (Marxist),35762,361,36123,19.1,189116,36123,43176,False
+Peerumade,Sanjay Roy,Indian National Congress,30787,310,31097,16.44,189116,31097,43176,False
+Peerumade,Amit Sharma,Bharatiya Janata Party,20665,208,20873,11.04,189116,20873,43176,False
+Peerumade,Deepa Menon,None of the Above,10852,109,10961,5.8,189116,10961,43176,False
+Peerumade,Manoj Gogoi,Independent,2416,24,2440,1.29,189116,2440,43176,False
+Pala,Rahul Kumar,Communist Party of India (Marxist),81117,819,81936,35.09,233506,81936,81936,True
+Pala,Suresh Reddy,Communist Party of India,54978,555,55533,23.78,233506,55533,81936,False
+Pala,Deepa Reddy,Indian Union Muslim League,18293,184,18477,7.91,233506,18477,81936,False
+Pala,Ramesh Gogoi,None of the Above,18186,183,18369,7.87,233506,18369,81936,False
+Pala,Anita Patel,Bharatiya Janata Party,8451,85,8536,3.66,233506,8536,81936,False
+Pala,Priya Patel,Indian National Congress,8170,82,8252,3.53,233506,8252,81936,False
+Pala,Anita Reddy,Independent,1097,11,1108,0.47,233506,1108,81936,False
+Kaduthuruthy,Rahul Nair,Communist Party of India (Marxist),79419,802,80221,33.68,238218,80221,80221,True
+Kaduthuruthy,Sunil Kumar,Indian National Congress,52027,525,52552,22.06,238218,52552,80221,False
+Kaduthuruthy,Suresh Reddy,Indian Union Muslim League,27097,273,27370,11.49,238218,27370,80221,False
+Kaduthuruthy,Deepa Das,Communist Party of India,22574,228,22802,9.57,238218,22802,80221,False
+Kaduthuruthy,Sunil Sharma,Bharatiya Janata Party,14368,145,14513,6.09,238218,14513,80221,False
+Kaduthuruthy,Priya Singh,None of the Above,5618,56,5674,2.38,238218,5674,80221,False
+Kaduthuruthy,Priya Nair,Independent,3406,34,3440,1.44,238218,3440,80221,False
+Vaikom,Priya Roy,Communist Party of India,54756,553,55309,23.84,232041,55309,55309,True
+Vaikom,Rahul Bora,Indian Union Muslim League,47878,483,48361,20.84,232041,48361,55309,False
+Vaikom,Sanjay Patel,Communist Party of India (Marxist),46756,472,47228,20.35,232041,47228,55309,False
+Vaikom,Ramesh Roy,Indian National Congress,30968,312,31280,13.48,232041,31280,55309,False
+Vaikom,Kavita Nair,Bharatiya Janata Party,9311,94,9405,4.05,232041,9405,55309,False
+Vaikom,Ramesh Nair,None of the Above,786,7,793,0.34,232041,793,55309,False
+Vaikom,Sunil Bora,Independent,581,5,586,0.25,232041,586,55309,False
+Ettumanoor,Sanjay Bora,Indian National Congress,55392,559,55951,30.05,186207,55951,55951,True
+Ettumanoor,Suresh Roy,Communist Party of India (Marxist),51684,522,52206,28.04,186207,52206,55951,False
+Ettumanoor,Manoj Menon,Indian Union Muslim League,15390,155,15545,8.35,186207,15545,55951,False
+Ettumanoor,Sanjay Gogoi,Communist Party of India,13411,135,13546,7.27,186207,13546,55951,False
+Ettumanoor,Amit Nair,Bharatiya Janata Party,8038,81,8119,4.36,186207,8119,55951,False
+Ettumanoor,Rahul Kumar,Independent,2138,21,2159,1.16,186207,2159,55951,False
+Ettumanoor,Deepa Das,None of the Above,491,4,495,0.27,186207,495,55951,False
+Kottayam,Manoj Kumar,Communist Party of India,77004,777,77781,37.22,208981,77781,77781,True
+Kottayam,Rahul Kumar,Indian National Congress,27071,273,27344,13.08,208981,27344,77781,False
+Kottayam,Anjali Das,Bharatiya Janata Party,20355,205,20560,9.84,208981,20560,77781,False
+Kottayam,Amit Sharma,None of the Above,19405,196,19601,9.38,208981,19601,77781,False
+Kottayam,Anita Nair,Communist Party of India (Marxist),12959,130,13089,6.26,208981,13089,77781,False
+Kottayam,Sanjay Menon,Indian Union Muslim League,9882,99,9981,4.78,208981,9981,77781,False
+Kottayam,Kavita Sen,Independent,2661,26,2687,1.29,208981,2687,77781,False
+Puthuppally,Anita Kumar,Communist Party of India (Marxist),80556,813,81369,45.38,179300,81369,81369,True
+Puthuppally,Sunil Menon,Communist Party of India,35061,354,35415,19.75,179300,35415,81369,False
+Puthuppally,Suresh Singh,Indian National Congress,28026,283,28309,15.79,179300,28309,81369,False
+Puthuppally,Priya Sen,None of the Above,12199,123,12322,6.87,179300,12322,81369,False
+Puthuppally,Amit Kumar,Bharatiya Janata Party,5109,51,5160,2.88,179300,5160,81369,False
+Puthuppally,Anita Reddy,Independent,2757,27,2784,1.55,179300,2784,81369,False
+Puthuppally,Anita Das,Indian Union Muslim League,1575,15,1590,0.89,179300,1590,81369,False
+Changanassery,Suresh Bora,Communist Party of India,49918,504,50422,27.62,182588,50422,50422,True
+Changanassery,Manoj Reddy,Indian Union Muslim League,38398,387,38785,21.24,182588,38785,50422,False
+Changanassery,Kavita Singh,Communist Party of India (Marxist),26853,271,27124,14.86,182588,27124,50422,False
+Changanassery,Priya Nair,Bharatiya Janata Party,21732,219,21951,12.02,182588,21951,50422,False
+Changanassery,Priya Bora,Indian National Congress,20563,207,20770,11.38,182588,20770,50422,False
+Changanassery,Manoj Sen,None of the Above,14081,142,14223,7.79,182588,14223,50422,False
+Changanassery,Sanjay Menon,Independent,3701,37,3738,2.05,182588,3738,50422,False
+Kanjirappally,Suresh Gogoi,Communist Party of India (Marxist),42966,434,43400,28.81,150649,43400,43400,True
+Kanjirappally,Manoj Gogoi,Indian National Congress,26869,271,27140,18.02,150649,27140,43400,False
+Kanjirappally,Sanjay Nair,Communist Party of India,20671,208,20879,13.86,150649,20879,43400,False
+Kanjirappally,Anita Singh,Indian Union Muslim League,19468,196,19664,13.05,150649,19664,43400,False
+Kanjirappally,Anjali Sharma,None of the Above,9770,98,9868,6.55,150649,9868,43400,False
+Kanjirappally,Rahul Menon,Independent,3379,34,3413,2.27,150649,3413,43400,False
+Kanjirappally,Suresh Patel,Bharatiya Janata Party,2114,21,2135,1.42,150649,2135,43400,False
+Poonjar,Manoj Patel,Communist Party of India (Marxist),90301,912,91213,45.36,201100,91213,91213,True
+Poonjar,Rahul Nair,Indian National Congress,46522,469,46991,23.37,201100,46991,91213,False
+Poonjar,Rahul Patel,Bharatiya Janata Party,16106,162,16268,8.09,201100,16268,91213,False
+Poonjar,Priya Bora,Communist Party of India,14266,144,14410,7.17,201100,14410,91213,False
+Poonjar,Rahul Sen,Indian Union Muslim League,7668,77,7745,3.85,201100,7745,91213,False
+Poonjar,Sunil Kumar,Independent,4457,45,4502,2.24,201100,4502,91213,False
+Poonjar,Rahul Sharma,None of the Above,4229,42,4271,2.12,201100,4271,91213,False
+Aroor,Anjali Kumar,Indian National Congress,69375,700,70075,34.12,205352,70075,70075,True
+Aroor,Deepa Menon,Communist Party of India (Marxist),38544,389,38933,18.96,205352,38933,70075,False
+Aroor,Amit Sharma,Bharatiya Janata Party,24857,251,25108,12.23,205352,25108,70075,False
+Aroor,Amit Das,None of the Above,18643,188,18831,9.17,205352,18831,70075,False
+Aroor,Amit Patel,Communist Party of India,11668,117,11785,5.74,205352,11785,70075,False
+Aroor,Anjali Gogoi,Indian Union Muslim League,6355,64,6419,3.13,205352,6419,70075,False
+Aroor,Anjali Gogoi,Independent,4921,49,4970,2.42,205352,4970,70075,False
+Cherthala,Ramesh Menon,Communist Party of India (Marxist),50857,513,51370,25.35,202649,51370,51370,True
+Cherthala,Ramesh Nair,Indian National Congress,46879,473,47352,23.37,202649,47352,51370,False
+Cherthala,Suresh Nair,Bharatiya Janata Party,38354,387,38741,19.12,202649,38741,51370,False
+Cherthala,Suresh Nair,Communist Party of India,19211,194,19405,9.58,202649,19405,51370,False
+Cherthala,Amit Sharma,Indian Union Muslim League,6095,61,6156,3.04,202649,6156,51370,False
+Cherthala,Anita Gogoi,None of the Above,5300,53,5353,2.64,202649,5353,51370,False
+Cherthala,Deepa Nair,Independent,858,8,866,0.43,202649,866,51370,False
+Alappuzha,Kavita Das,Indian Union Muslim League,88042,889,88931,36.02,246919,88931,88931,True
+Alappuzha,Priya Sen,Indian National Congress,57524,581,58105,23.53,246919,58105,88931,False
+Alappuzha,Anjali Bora,None of the Above,31766,320,32086,12.99,246919,32086,88931,False
+Alappuzha,Manoj Kumar,Communist Party of India,5612,56,5668,2.3,246919,5668,88931,False
+Alappuzha,Anjali Gogoi,Independent,3937,39,3976,1.61,246919,3976,88931,False
+Alappuzha,Kavita Nair,Communist Party of India (Marxist),1845,18,1863,0.75,246919,1863,88931,False
+Alappuzha,Anita Kumar,Bharatiya Janata Party,325,3,328,0.13,246919,328,88931,False
+Ambalappuzha,Anita Singh,Communist Party of India (Marxist),60005,606,60611,31.33,193477,60611,60611,True
+Ambalappuzha,Amit Das,Indian National Congress,53262,538,53800,27.81,193477,53800,60611,False
+Ambalappuzha,Sunil Singh,None of the Above,17600,177,17777,9.19,193477,17777,60611,False
+Ambalappuzha,Rahul Sharma,Communist Party of India,13304,134,13438,6.95,193477,13438,60611,False
+Ambalappuzha,Rahul Kumar,Bharatiya Janata Party,6886,69,6955,3.59,193477,6955,60611,False
+Ambalappuzha,Priya Roy,Indian Union Muslim League,6671,67,6738,3.48,193477,6738,60611,False
+Ambalappuzha,Deepa Patel,Independent,2972,30,3002,1.55,193477,3002,60611,False
+Kuttanad,Anjali Nair,Communist Party of India (Marxist),61146,617,61763,40.2,153650,61763,61763,True
+Kuttanad,Deepa Kumar,Communist Party of India,31200,315,31515,20.51,153650,31515,61763,False
+Kuttanad,Sunil Sharma,Indian Union Muslim League,22099,223,22322,14.53,153650,22322,61763,False
+Kuttanad,Manoj Sharma,Indian National Congress,12001,121,12122,7.89,153650,12122,61763,False
+Kuttanad,Deepa Menon,Bharatiya Janata Party,10619,107,10726,6.98,153650,10726,61763,False
+Kuttanad,Kavita Reddy,None of the Above,9406,95,9501,6.18,153650,9501,61763,False
+Kuttanad,Suresh Roy,Independent,3799,38,3837,2.5,153650,3837,61763,False
+Haripad,Amit Sharma,Communist Party of India (Marxist),49378,498,49876,27.31,182614,49876,49876,True
+Haripad,Rahul Patel,Indian Union Muslim League,40622,410,41032,22.47,182614,41032,49876,False
+Haripad,Rahul Nair,Communist Party of India,34251,345,34596,18.94,182614,34596,49876,False
+Haripad,Suresh Das,None of the Above,9130,92,9222,5.05,182614,9222,49876,False
+Haripad,Deepa Menon,Indian National Congress,8103,81,8184,4.48,182614,8184,49876,False
+Haripad,Suresh Sen,Bharatiya Janata Party,3063,30,3093,1.69,182614,3093,49876,False
+Haripad,Kavita Sen,Independent,803,8,811,0.44,182614,811,49876,False
+Kayamkulam,Sanjay Bora,Communist Party of India (Marxist),55635,561,56196,31.16,180360,56196,56196,True
+Kayamkulam,Manoj Sen,Indian Union Muslim League,30871,311,31182,17.29,180360,31182,56196,False
+Kayamkulam,Kavita Roy,Indian National Congress,22644,228,22872,12.68,180360,22872,56196,False
+Kayamkulam,Sunil Roy,Communist Party of India,12672,128,12800,7.1,180360,12800,56196,False
+Kayamkulam,Priya Roy,Independent,4947,49,4996,2.77,180360,4996,56196,False
+Kayamkulam,Rahul Menon,Bharatiya Janata Party,4324,43,4367,2.42,180360,4367,56196,False
+Kayamkulam,Anita Kumar,None of the Above,555,5,560,0.31,180360,560,56196,False
+Mavelikara,Ramesh Bora,Communist Party of India (Marxist),81722,825,82547,42.57,193892,82547,82547,True
+Mavelikara,Anjali Nair,Communist Party of India,33130,334,33464,17.26,193892,33464,82547,False
+Mavelikara,Deepa Kumar,Indian National Congress,27912,281,28193,14.54,193892,28193,82547,False
+Mavelikara,Rahul Das,Indian Union Muslim League,17592,177,17769,9.16,193892,17769,82547,False
+Mavelikara,Sunil Patel,None of the Above,7368,74,7442,3.84,193892,7442,82547,False
+Mavelikara,Deepa Menon,Independent,4055,40,4095,2.11,193892,4095,82547,False
+Mavelikara,Ramesh Patel,Bharatiya Janata Party,3046,30,3076,1.59,193892,3076,82547,False
+Chengannur,Amit Sen,Indian Union Muslim League,39947,403,40350,19.81,203677,40350,40350,True
+Chengannur,Ramesh Kumar,Communist Party of India,21484,217,21701,10.65,203677,21701,40350,False
+Chengannur,Anita Bora,Communist Party of India (Marxist),14228,143,14371,7.06,203677,14371,40350,False
+Chengannur,Anjali Singh,Indian National Congress,14147,142,14289,7.02,203677,14289,40350,False
+Chengannur,Kavita Das,None of the Above,11856,119,11975,5.88,203677,11975,40350,False
+Chengannur,Rahul Roy,Bharatiya Janata Party,4001,40,4041,1.98,203677,4041,40350,False
+Chengannur,Kavita Singh,Independent,2938,29,2967,1.46,203677,2967,40350,False
+Thiruvalla,Sunil Nair,Communist Party of India (Marxist),65329,659,65988,41.78,157959,65988,65988,True
+Thiruvalla,Manoj Patel,Indian National Congress,31397,317,31714,20.08,157959,31714,65988,False
+Thiruvalla,Ramesh Roy,Communist Party of India,19268,194,19462,12.32,157959,19462,65988,False
+Thiruvalla,Sunil Bora,Indian Union Muslim League,17901,180,18081,11.45,157959,18081,65988,False
+Thiruvalla,Ramesh Singh,None of the Above,7121,71,7192,4.55,157959,7192,65988,False
+Thiruvalla,Kavita Sen,Bharatiya Janata Party,3191,32,3223,2.04,157959,3223,65988,False
+Thiruvalla,Sunil Bora,Independent,1937,19,1956,1.24,157959,1956,65988,False
+Ranni,Rahul Patel,Communist Party of India (Marxist),40397,408,40805,23.92,170609,40805,40805,True
+Ranni,Sunil Das,Bharatiya Janata Party,29178,294,29472,17.27,170609,29472,40805,False
+Ranni,Ramesh Menon,Indian National Congress,24935,251,25186,14.76,170609,25186,40805,False
+Ranni,Sanjay Patel,None of the Above,18005,181,18186,10.66,170609,18186,40805,False
+Ranni,Anjali Gogoi,Indian Union Muslim League,12438,125,12563,7.36,170609,12563,40805,False
+Ranni,Anita Sen,Independent,4031,40,4071,2.39,170609,4071,40805,False
+Ranni,Rahul Bora,Communist Party of India,3210,32,3242,1.9,170609,3242,40805,False
+Aranmula,Kavita Gogoi,Communist Party of India (Marxist),72460,731,73191,38.04,192395,73191,73191,True
+Aranmula,Priya Nair,None of the Above,20768,209,20977,10.9,192395,20977,73191,False
+Aranmula,Rahul Das,Indian Union Muslim League,13718,138,13856,7.2,192395,13856,73191,False
+Aranmula,Rahul Patel,Communist Party of India,12356,124,12480,6.49,192395,12480,73191,False
+Aranmula,Deepa Roy,Bharatiya Janata Party,6592,66,6658,3.46,192395,6658,73191,False
+Aranmula,Sanjay Nair,Indian National Congress,5942,60,6002,3.12,192395,6002,73191,False
+Aranmula,Deepa Reddy,Independent,4853,49,4902,2.55,192395,4902,73191,False
+Konni,Sunil Singh,Communist Party of India (Marxist),64861,655,65516,42.68,153497,65516,65516,True
+Konni,Amit Roy,Communist Party of India,43311,437,43748,28.5,153497,43748,65516,False
+Konni,Suresh Gogoi,Indian Union Muslim League,10263,103,10366,6.75,153497,10366,65516,False
+Konni,Ramesh Bora,None of the Above,9170,92,9262,6.03,153497,9262,65516,False
+Konni,Priya Sharma,Indian National Congress,8172,82,8254,5.38,153497,8254,65516,False
+Konni,Kavita Singh,Bharatiya Janata Party,2456,24,2480,1.62,153497,2480,65516,False
+Konni,Anjali Patel,Independent,790,7,797,0.52,153497,797,65516,False
+Adoor,Sunil Patel,Communist Party of India,59132,597,59729,26.07,229140,59729,59729,True
+Adoor,Rahul Kumar,Bharatiya Janata Party,33314,336,33650,14.69,229140,33650,59729,False
+Adoor,Manoj Das,Communist Party of India (Marxist),25284,255,25539,11.15,229140,25539,59729,False
+Adoor,Suresh Sharma,Indian Union Muslim League,22091,223,22314,9.74,229140,22314,59729,False
+Adoor,Kavita Roy,None of the Above,8335,84,8419,3.67,229140,8419,59729,False
+Adoor,Anita Menon,Independent,3855,38,3893,1.7,229140,3893,59729,False
+Adoor,Sunil Das,Indian National Congress,992,10,1002,0.44,229140,1002,59729,False
+Karunagapally,Suresh Menon,Bharatiya Janata Party,55116,556,55672,23.71,234797,55672,55672,True
+Karunagapally,Sanjay Das,Communist Party of India (Marxist),32982,333,33315,14.19,234797,33315,55672,False
+Karunagapally,Anita Sen,Communist Party of India,32241,325,32566,13.87,234797,32566,55672,False
+Karunagapally,Sunil Bora,None of the Above,31122,314,31436,13.39,234797,31436,55672,False
+Karunagapally,Priya Roy,Indian Union Muslim League,30171,304,30475,12.98,234797,30475,55672,False
+Karunagapally,Sunil Sharma,Independent,4431,44,4475,1.91,234797,4475,55672,False
+Karunagapally,Manoj Sharma,Indian National Congress,4137,41,4178,1.78,234797,4178,55672,False
+Chavara,Anita Gogoi,Bharatiya Janata Party,52519,530,53049,21.49,246812,53049,53049,True
+Chavara,Sanjay Bora,Communist Party of India (Marxist),40711,411,41122,16.66,246812,41122,53049,False
+Chavara,Manoj Kumar,Communist Party of India,37362,377,37739,15.29,246812,37739,53049,False
+Chavara,Deepa Das,Indian Union Muslim League,20195,203,20398,8.26,246812,20398,53049,False
+Chavara,Sanjay Roy,None of the Above,13365,135,13500,5.47,246812,13500,53049,False
+Chavara,Deepa Gogoi,Indian National Congress,7963,80,8043,3.26,246812,8043,53049,False
+Chavara,Priya Gogoi,Independent,114,1,115,0.05,246812,115,53049,False
+Kunnathur,Deepa Roy,Bharatiya Janata Party,56603,571,57174,25.7,222455,57174,57174,True
+Kunnathur,Amit Gogoi,Communist Party of India,54455,550,55005,24.73,222455,55005,57174,False
+Kunnathur,Amit Kumar,Indian National Congress,27030,273,27303,12.27,222455,27303,57174,False
+Kunnathur,Anita Sharma,Communist Party of India (Marxist),17304,174,17478,7.86,222455,17478,57174,False
+Kunnathur,Rahul Reddy,Indian Union Muslim League,2280,23,2303,1.04,222455,2303,57174,False
+Kunnathur,Sanjay Bora,Independent,2217,22,2239,1.01,222455,2239,57174,False
+Kunnathur,Anita Singh,None of the Above,734,7,741,0.33,222455,741,57174,False
+Kottarakkara,Anita Reddy,Communist Party of India (Marxist),89745,906,90651,40.52,223693,90651,90651,True
+Kottarakkara,Amit Das,Communist Party of India,42690,431,43121,19.28,223693,43121,90651,False
+Kottarakkara,Kavita Roy,Indian National Congress,29430,297,29727,13.29,223693,29727,90651,False
+Kottarakkara,Priya Bora,Bharatiya Janata Party,11058,111,11169,4.99,223693,11169,90651,False
+Kottarakkara,Suresh Menon,None of the Above,4126,41,4167,1.86,223693,4167,90651,False
+Kottarakkara,Sanjay Roy,Indian Union Muslim League,2579,26,2605,1.16,223693,2605,90651,False
+Kottarakkara,Anjali Das,Independent,1816,18,1834,0.82,223693,1834,90651,False
+Pathanapuram,Ramesh Kumar,Communist Party of India (Marxist),64693,653,65346,37.85,172653,65346,65346,True
+Pathanapuram,Suresh Menon,Communist Party of India,26163,264,26427,15.31,172653,26427,65346,False
+Pathanapuram,Priya Kumar,Indian Union Muslim League,24854,251,25105,14.54,172653,25105,65346,False
+Pathanapuram,Suresh Roy,Indian National Congress,18206,183,18389,10.65,172653,18389,65346,False
+Pathanapuram,Ramesh Menon,Bharatiya Janata Party,15711,158,15869,9.19,172653,15869,65346,False
+Pathanapuram,Deepa Kumar,None of the Above,4713,47,4760,2.76,172653,4760,65346,False
+Pathanapuram,Anita Menon,Independent,931,9,940,0.54,172653,940,65346,False
+Punalur,Manoj Bora,Communist Party of India,69905,706,70611,32.71,215891,70611,70611,True
+Punalur,Anita Bora,Communist Party of India (Marxist),52362,528,52890,24.5,215891,52890,70611,False
+Punalur,Manoj Singh,Indian National Congress,37297,376,37673,17.45,215891,37673,70611,False
+Punalur,Kavita Reddy,Indian Union Muslim League,26867,271,27138,12.57,215891,27138,70611,False
+Punalur,Amit Das,None of the Above,9437,95,9532,4.42,215891,9532,70611,False
+Punalur,Kavita Sharma,Independent,4826,48,4874,2.26,215891,4874,70611,False
+Punalur,Sanjay Gogoi,Bharatiya Janata Party,2248,22,2270,1.05,215891,2270,70611,False
+Chadayamangalam,Sanjay Patel,Communist Party of India,57940,585,58525,32.2,181752,58525,58525,True
+Chadayamangalam,Anita Patel,Communist Party of India (Marxist),28495,287,28782,15.84,181752,28782,58525,False
+Chadayamangalam,Sanjay Bora,Indian Union Muslim League,25115,253,25368,13.96,181752,25368,58525,False
+Chadayamangalam,Sunil Menon,Indian National Congress,16686,168,16854,9.27,181752,16854,58525,False
+Chadayamangalam,Amit Nair,None of the Above,5310,53,5363,2.95,181752,5363,58525,False
+Chadayamangalam,Manoj Sharma,Bharatiya Janata Party,5207,52,5259,2.89,181752,5259,58525,False
+Chadayamangalam,Anjali Roy,Independent,730,7,737,0.41,181752,737,58525,False
+Kundara,Ramesh Gogoi,Communist Party of India,67737,684,68421,37.41,182887,68421,68421,True
+Kundara,Sanjay Reddy,Indian National Congress,36172,365,36537,19.98,182887,36537,68421,False
+Kundara,Manoj Roy,Communist Party of India (Marxist),34064,344,34408,18.81,182887,34408,68421,False
+Kundara,Amit Nair,Bharatiya Janata Party,11489,116,11605,6.35,182887,11605,68421,False
+Kundara,Sanjay Nair,Indian Union Muslim League,8862,89,8951,4.89,182887,8951,68421,False
+Kundara,Amit Bora,None of the Above,5813,58,5871,3.21,182887,5871,68421,False
+Kundara,Deepa Das,Independent,2769,27,2796,1.53,182887,2796,68421,False
+Kollam,Deepa Kumar,Communist Party of India,63650,642,64292,31.17,206240,64292,64292,True
+Kollam,Deepa Patel,Communist Party of India (Marxist),43274,437,43711,21.19,206240,43711,64292,False
+Kollam,Anita Das,Indian Union Muslim League,22051,222,22273,10.8,206240,22273,64292,False
+Kollam,Manoj Das,None of the Above,9514,96,9610,4.66,206240,9610,64292,False
+Kollam,Manoj Kumar,Bharatiya Janata Party,8768,88,8856,4.29,206240,8856,64292,False
+Kollam,Sanjay Kumar,Indian National Congress,5836,58,5894,2.86,206240,5894,64292,False
+Kollam,Amit Reddy,Independent,363,3,366,0.18,206240,366,64292,False
+Eravipuram,Manoj Gogoi,Communist Party of India,68983,696,69679,37.27,186936,69679,69679,True
+Eravipuram,Suresh Reddy,Communist Party of India (Marxist),23480,237,23717,12.69,186936,23717,69679,False
+Eravipuram,Sanjay Bora,Bharatiya Janata Party,18118,183,18301,9.79,186936,18301,69679,False
+Eravipuram,Kavita Menon,Indian National Congress,15324,154,15478,8.28,186936,15478,69679,False
+Eravipuram,Kavita Reddy,Independent,2699,27,2726,1.46,186936,2726,69679,False
+Eravipuram,Priya Das,Indian Union Muslim League,1014,10,1024,0.55,186936,1024,69679,False
+Eravipuram,Priya Singh,None of the Above,510,5,515,0.28,186936,515,69679,False
+Chathannoor,Amit Patel,Communist Party of India (Marxist),55745,563,56308,28.05,200743,56308,56308,True
+Chathannoor,Anjali Kumar,Communist Party of India,38268,386,38654,19.26,200743,38654,56308,False
+Chathannoor,Sanjay Roy,None of the Above,23887,241,24128,12.02,200743,24128,56308,False
+Chathannoor,Ramesh Sharma,Bharatiya Janata Party,17825,180,18005,8.97,200743,18005,56308,False
+Chathannoor,Anita Singh,Indian Union Muslim League,15639,157,15796,7.87,200743,15796,56308,False
+Chathannoor,Rahul Roy,Indian National Congress,12684,128,12812,6.38,200743,12812,56308,False
+Chathannoor,Priya Roy,Independent,4180,42,4222,2.1,200743,4222,56308,False
+Varkala,Deepa Kumar,Communist Party of India,81692,825,82517,33.12,249108,82517,82517,True
+Varkala,Priya Roy,Bharatiya Janata Party,38509,388,38897,15.61,249108,38897,82517,False
+Varkala,Rahul Patel,Indian Union Muslim League,37504,378,37882,15.21,249108,37882,82517,False
+Varkala,Deepa Das,Communist Party of India (Marxist),22398,226,22624,9.08,249108,22624,82517,False
+Varkala,Priya Kumar,None of the Above,14068,142,14210,5.7,249108,14210,82517,False
+Varkala,Manoj Menon,Independent,4321,43,4364,1.75,249108,4364,82517,False
+Varkala,Sunil Singh,Indian National Congress,2289,23,2312,0.93,249108,2312,82517,False
+Attingal,Rahul Reddy,Communist Party of India,52362,528,52890,26.03,203211,52890,52890,True
+Attingal,Anjali Das,Indian National Congress,43477,439,43916,21.61,203211,43916,52890,False
+Attingal,Anita Bora,None of the Above,32301,326,32627,16.06,203211,32627,52890,False
+Attingal,Anjali Sharma,Indian Union Muslim League,12626,127,12753,6.28,203211,12753,52890,False
+Attingal,Sunil Singh,Communist Party of India (Marxist),7958,80,8038,3.96,203211,8038,52890,False
+Attingal,Deepa Gogoi,Bharatiya Janata Party,7426,75,7501,3.69,203211,7501,52890,False
+Attingal,Anjali Sen,Independent,2019,20,2039,1.0,203211,2039,52890,False
+Chirayinkeezhu,Priya Nair,Indian National Congress,46063,465,46528,29.2,159336,46528,46528,True
+Chirayinkeezhu,Manoj Sharma,Communist Party of India (Marxist),36672,370,37042,23.25,159336,37042,46528,False
+Chirayinkeezhu,Kavita Bora,Communist Party of India,22242,224,22466,14.1,159336,22466,46528,False
+Chirayinkeezhu,Sanjay Singh,None of the Above,16587,167,16754,10.51,159336,16754,46528,False
+Chirayinkeezhu,Kavita Singh,Indian Union Muslim League,15440,155,15595,9.79,159336,15595,46528,False
+Chirayinkeezhu,Sunil Patel,Bharatiya Janata Party,14410,145,14555,9.13,159336,14555,46528,False
+Chirayinkeezhu,Anjali Menon,Independent,3538,35,3573,2.24,159336,3573,46528,False
+Nedumangad,Sunil Kumar,Communist Party of India (Marxist),97965,989,98954,44.14,224167,98954,98954,True
+Nedumangad,Deepa Sen,Communist Party of India,43894,443,44337,19.78,224167,44337,98954,False
+Nedumangad,Amit Bora,Indian National Congress,30499,308,30807,13.74,224167,30807,98954,False
+Nedumangad,Anita Roy,None of the Above,14523,146,14669,6.54,224167,14669,98954,False
+Nedumangad,Kavita Menon,Indian Union Muslim League,11353,114,11467,5.12,224167,11467,98954,False
+Nedumangad,Kavita Sharma,Bharatiya Janata Party,5409,54,5463,2.44,224167,5463,98954,False
+Nedumangad,Suresh Kumar,Independent,3661,36,3697,1.65,224167,3697,98954,False
+Vamanapuram,Suresh Menon,Communist Party of India,60169,607,60776,28.51,213206,60776,60776,True
+Vamanapuram,Sunil Singh,Indian Union Muslim League,46460,469,46929,22.01,213206,46929,60776,False
+Vamanapuram,Rahul Reddy,Bharatiya Janata Party,24319,245,24564,11.52,213206,24564,60776,False
+Vamanapuram,Amit Reddy,Communist Party of India (Marxist),17609,177,17786,8.34,213206,17786,60776,False
+Vamanapuram,Manoj Patel,None of the Above,15942,161,16103,7.55,213206,16103,60776,False
+Vamanapuram,Kavita Kumar,Indian National Congress,15637,157,15794,7.41,213206,15794,60776,False
+Vamanapuram,Ramesh Nair,Independent,4322,43,4365,2.05,213206,4365,60776,False
+Kazhakkoottam,Sunil Bora,Communist Party of India (Marxist),104823,1058,105881,44.1,240107,105881,105881,True
+Kazhakkoottam,Anjali Reddy,Communist Party of India,51254,517,51771,21.56,240107,51771,105881,False
+Kazhakkoottam,Manoj Nair,Indian National Congress,18742,189,18931,7.88,240107,18931,105881,False
+Kazhakkoottam,Manoj Nair,Bharatiya Janata Party,7206,72,7278,3.03,240107,7278,105881,False
+Kazhakkoottam,Sanjay Gogoi,Indian Union Muslim League,5044,50,5094,2.12,240107,5094,105881,False
+Kazhakkoottam,Sunil Sen,Independent,1081,10,1091,0.45,240107,1091,105881,False
+Kazhakkoottam,Ramesh Sharma,None of the Above,695,7,702,0.29,240107,702,105881,False
+Vattiyoorkavu,Manoj Sen,Communist Party of India (Marxist),75975,767,76742,39.48,194394,76742,76742,True
+Vattiyoorkavu,Sunil Reddy,Communist Party of India,55575,561,56136,28.88,194394,56136,76742,False
+Vattiyoorkavu,Suresh Sharma,Indian Union Muslim League,22398,226,22624,11.64,194394,22624,76742,False
+Vattiyoorkavu,Anjali Nair,Bharatiya Janata Party,8331,84,8415,4.33,194394,8415,76742,False
+Vattiyoorkavu,Deepa Sen,Indian National Congress,6599,66,6665,3.43,194394,6665,76742,False
+Vattiyoorkavu,Manoj Kumar,Independent,3449,34,3483,1.79,194394,3483,76742,False
+Vattiyoorkavu,Deepa Reddy,None of the Above,296,2,298,0.15,194394,298,76742,False
+Thiruvananthapuram,Manoj Das,Bharatiya Janata Party,49202,496,49698,25.0,198759,49698,49698,True
+Thiruvananthapuram,Ramesh Nair,None of the Above,36280,366,36646,18.44,198759,36646,49698,False
+Thiruvananthapuram,Sanjay Gogoi,Communist Party of India,31668,319,31987,16.09,198759,31987,49698,False
+Thiruvananthapuram,Deepa Roy,Communist Party of India (Marxist),15768,159,15927,8.01,198759,15927,49698,False
+Thiruvananthapuram,Amit Nair,Indian Union Muslim League,15506,156,15662,7.88,198759,15662,49698,False
+Thiruvananthapuram,Manoj Menon,Indian National Congress,10969,110,11079,5.57,198759,11079,49698,False
+Thiruvananthapuram,Suresh Kumar,Independent,593,5,598,0.3,198759,598,49698,False
+Nemom,Ramesh Bora,Communist Party of India (Marxist),102521,1035,103556,45.82,226013,103556,103556,True
+Nemom,Anita Reddy,Communist Party of India,60029,606,60635,26.83,226013,60635,103556,False
+Nemom,Rahul Reddy,Indian National Congress,21888,221,22109,9.78,226013,22109,103556,False
+Nemom,Manoj Nair,Indian Union Muslim League,7644,77,7721,3.42,226013,7721,103556,False
+Nemom,Kavita Sen,None of the Above,6573,66,6639,2.94,226013,6639,103556,False
+Nemom,Kavita Bora,Bharatiya Janata Party,5209,52,5261,2.33,226013,5261,103556,False
+Nemom,Anjali Bora,Independent,2926,29,2955,1.31,226013,2955,103556,False
+Aruvikkara,Sanjay Sen,Communist Party of India,62107,627,62734,35.66,175935,62734,62734,True
+Aruvikkara,Deepa Roy,Communist Party of India (Marxist),43249,436,43685,24.83,175935,43685,62734,False
+Aruvikkara,Priya Singh,Indian National Congress,33255,335,33590,19.09,175935,33590,62734,False
+Aruvikkara,Priya Gogoi,Indian Union Muslim League,9540,96,9636,5.48,175935,9636,62734,False
+Aruvikkara,Ramesh Nair,Independent,2509,25,2534,1.44,175935,2534,62734,False
+Aruvikkara,Kavita Das,None of the Above,312,3,315,0.18,175935,315,62734,False
+Aruvikkara,Suresh Das,Bharatiya Janata Party,160,1,161,0.09,175935,161,62734,False
+Parassala,Rahul Das,Communist Party of India (Marxist),52621,531,53152,33.86,156976,53152,53152,True
+Parassala,Deepa Singh,None of the Above,19428,196,19624,12.5,156976,19624,53152,False
+Parassala,Suresh Singh,Indian Union Muslim League,13303,134,13437,8.56,156976,13437,53152,False
+Parassala,Manoj Patel,Communist Party of India,3107,31,3138,2.0,156976,3138,53152,False
+Parassala,Priya Patel,Independent,651,6,657,0.42,156976,657,53152,False
+Parassala,Suresh Kumar,Bharatiya Janata Party,266,2,268,0.17,156976,268,53152,False
+Parassala,Sanjay Nair,Indian National Congress,139,1,140,0.09,156976,140,53152,False
+Kattakkada,Deepa Roy,Communist Party of India (Marxist),67097,677,67774,41.48,163381,67774,67774,True
+Kattakkada,Anjali Reddy,Indian National Congress,29669,299,29968,18.34,163381,29968,67774,False
+Kattakkada,Anjali Sen,Communist Party of India,12611,127,12738,7.8,163381,12738,67774,False
+Kattakkada,Ramesh Patel,Indian Union Muslim League,9943,100,10043,6.15,163381,10043,67774,False
+Kattakkada,Suresh Gogoi,None of the Above,4817,48,4865,2.98,163381,4865,67774,False
+Kattakkada,Ramesh Sharma,Independent,2914,29,2943,1.8,163381,2943,67774,False
+Kattakkada,Ramesh Kumar,Bharatiya Janata Party,1887,19,1906,1.17,163381,1906,67774,False
+Kovalam,Ramesh Das,Communist Party of India,69935,706,70641,30.62,230737,70641,70641,True
+Kovalam,Sanjay Bora,Indian National Congress,60307,609,60916,26.4,230737,60916,70641,False
+Kovalam,Kavita Menon,Indian Union Muslim League,30661,309,30970,13.42,230737,30970,70641,False
+Kovalam,Anjali Sharma,Communist Party of India (Marxist),20535,207,20742,8.99,230737,20742,70641,False
+Kovalam,Rahul Nair,Bharatiya Janata Party,7010,70,7080,3.07,230737,7080,70641,False
+Kovalam,Priya Sen,Independent,2485,25,2510,1.09,230737,2510,70641,False
+Kovalam,Deepa Patel,None of the Above,1451,14,1465,0.63,230737,1465,70641,False
+Neyyattinkara,Sanjay Das,Communist Party of India,63851,644,64495,29.82,216257,64495,64495,True
+Neyyattinkara,Deepa Kumar,Indian National Congress,29532,298,29830,13.79,216257,29830,64495,False
+Neyyattinkara,Suresh Menon,Communist Party of India (Marxist),23865,241,24106,11.15,216257,24106,64495,False
+Neyyattinkara,Rahul Sharma,Indian Union Muslim League,23531,237,23768,10.99,216257,23768,64495,False
+Neyyattinkara,Amit Patel,Bharatiya Janata Party,15493,156,15649,7.24,216257,15649,64495,False
+Neyyattinkara,Suresh Sharma,None of the Above,8710,87,8797,4.07,216257,8797,64495,False
+Neyyattinkara,Rahul Patel,Independent,1947,19,1966,0.91,216257,1966,64495,False
