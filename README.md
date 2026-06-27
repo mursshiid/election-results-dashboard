@@ -1,10 +1,11 @@
-# 🗳️ Indian Assembly Election Results Dashboard
+# Indian Assembly Election Results Dashboard
 
-A multi-state election results analysis project covering **Tamil Nadu**, **Kerala**, and **Assam** assembly elections. Built with Python (Pandas) for data cleaning and Power BI for interactive visualization.
+A multi-state election results analysis project covering Tamil Nadu, Kerala, and Assam assembly elections. Built with Python (Pandas) for data cleaning and Power BI for interactive visualization.
+
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Page 1 — Overview
 ![Overview](screenshots/page1_overview.png)
@@ -17,7 +18,7 @@ A multi-state election results analysis project covering **Tamil Nadu**, **Keral
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 election-results-dashboard/
@@ -38,45 +39,40 @@ election-results-dashboard/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools Used
 
-| Tool | Purpose |
-|---|---|
-| Python | Data cleaning and merging |
-| Pandas | DataFrame operations |
-| Power BI | Interactive dashboard |
-| DAX | Custom measures |
-| Excel | Data source |
-
----
-
-## 🔄 Data Pipeline
-
-### Step 1 — Load
-- Tamil Nadu: Excel (.xlsx) — 4,257 rows
-- Assam 2026: CSV files — 756 rows
-- Kerala 2026: CSV files — 980 rows
-
-### Step 2 — Clean & Standardize
-- Renamed columns across all 3 states to a unified schema
-- Derived missing columns for Tamil Nadu (Tot_Constituency_votes_polled, Winning_votes, Win_Lost_Flag)
-- Fixed duplicate rows from alliance merge using `drop_duplicates(subset=["PARTY_FULL_NAME"])`
-
-### Step 3 — Merge
-- Joined Details + Constituency Metadata + Alliance files for each state
-- Built manual TN alliance mapping (DMK Alliance, AIADMK Alliance)
-- Combined all 3 states into one master DataFrame (5,993 rows, 23 columns)
-
-### Step 4 — Derive
-- Calculated `Rank` per constituency using `groupby + rank()`
-- Derived `Runner_up_votes` and `Margin` (winner votes − runner-up votes)
+| Tool     | Purpose                   |
+|----------|---------------------------|
+| Python   | Data cleaning and merging |
+| Pandas   | DataFrame operations      |
+| Power BI | Interactive dashboard     |
+| DAX      | Custom measures           |
+| Excel    | Data source               |
 
 ---
 
-## 📈 Key Insights
+## How the Data Was Cleaned
+
+The hardest part of this project wasn't the visualization — it was getting three inconsistently structured datasets to talk to each other.
+
+**Tamil Nadu** came as a single Excel file with 4,257 rows but was missing key columns like total votes polled and win/loss flags — I had to derive those manually.
+
+**Assam and Kerala** came split across three CSVs each (details, constituency metadata, and alliance info), so I had to merge them before I could even start cleaning.
+
+The main issues I ran into:
+- Column names were completely different across states, so I renamed everything to a unified schema
+- Tamil Nadu had no alliance column in the raw data — I built a manual mapping for DMK Alliance and AIADMK Alliance
+- After merging the alliance file, I was getting duplicate rows on party names, fixed with `drop_duplicates(subset=["PARTY_FULL_NAME"])`
+- Had to derive `Runner_up_votes` and `Margin` (winner votes − runner-up votes) using `groupby + rank()`
+
+Final output: **5,993 rows, 23 columns**, covering ~92 million votes across 3 states.
+
+---
+
+## Key Findings
 
 | Insight | Finding |
-|---|---|
+|---------|---------|
 | Biggest winning margin | Edappadi Palaniswami — 98,110 votes (TN) |
 | Closest contest | Tiruppattur, TN — won by just 30 votes |
 | Most seats won (party) | Tamilaga Vettri Kazhagam — 107 seats |
@@ -87,27 +83,27 @@ election-results-dashboard/
 
 ---
 
-## 📊 Power BI Dashboard Pages
+## Power BI Dashboard Pages
 
-### Page 1 — Overview
+**Page 1 — Overview**
 - KPI Cards: Total Seats (500), Avg Margin (22.79K), Total Votes Cast (92M)
 - Donut Chart: Alliance seat share
 - Stacked Bar: State-wise seats by alliance
 - Slicer: Filter by state
 
-### Page 2 — Constituency Details
-- Winner table with Constituency, Candidate, Party, Alliance, Votes, Margin
+**Page 2 — Constituency Details**
+- Winner table: Constituency, Candidate, Party, Alliance, Votes, Margin
 - Top 10 constituencies by winning margin (bar chart)
 - Slicers: State and Alliance
 
-### Page 3 — Party & Alliance Battle
+**Page 3 — Party & Alliance Battle**
 - Treemap: Seats won by party
 - Bar chart: Average winning margin by alliance
 - Bar chart: Top 10 parties by average vote share
 
 ---
 
-## ⚙️ DAX Measures
+## DAX Measures
 
 ```dax
 Total Seats = COUNTROWS(FILTER('Sheet1', 'Sheet1'[Win_Lost_Flag] = TRUE()))
@@ -121,18 +117,18 @@ Total Votes Cast = SUM('Sheet1'[Total_Votes])
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
-2. Place all data files in the `data/` folder
+2. Place all raw data files in the `data/` folder
 3. Run `python clean_data.py` — generates `master_election_data.xlsx`
 4. Run `python analysis.py` — prints key insights to terminal
 5. Open `Election_Dashboard.pbix` in Power BI Desktop
 
 ---
 
-## 👤 Author
+## Author
 
-**Muhammed Murshid M**
-Data Analytics Intern — Techolas Technologies
-[LinkedIn] (www.linkedin.com/in/muhammed-murshidm)
+**Muhammed Murshid M**  
+Data Analytics Intern — Techolas Technologies  
+[LinkedIn] (https://www.linkedin.com/in/muhammed-murshidm)
