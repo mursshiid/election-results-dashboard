@@ -131,4 +131,4 @@ Total Votes Cast = SUM('Sheet1'[Total_Votes])
 
 **Muhammed Murshid M**  
 Data Analytics Intern — Techolas Technologies  
-[LinkedIn] (https://www.linkedin.com/in/muhammed-murshidm)
+[LinkedIn](https://www.linkedin.com/in/muhammed-murshidm)
